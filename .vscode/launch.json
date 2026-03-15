@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Test: Load SigLIP Model",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "test_load_model.py",
+            "console": "integratedTerminal",
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "0"
+            },
+            "args": []
+        },
+        {
+            "name": "Extract: Video Features",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/extract_features/extract_video_features.py",
+            "cwd": "${workspaceFolder}/extract_features",
+            "console": "integratedTerminal",
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "0"
+            },
+            "args": [
+                "--encoder", "siglip",
+                "--model_name_or_path", "google/siglip-so400m-patch14-384",
+                "--video_dir", "/path/to/videos",
+                "--output_dir", "/path/to/output",
+                "--num_frames", "8"
+            ]
+        }
+    ]
+}
