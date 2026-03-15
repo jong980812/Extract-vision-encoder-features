@@ -1,27 +1,40 @@
-# extract_features/models/clip.py
-
 """
-CLIP Vision Encoder (OpenAI ViT-L/14-336)
+CLIP Vision Encoder — following LLaVA-1.5's approach.
 
 Key differences from SigLIP:
-    - Uses HuggingFace CLIPVisionModel (not custom impl)
-    - Uses CLIPImageProcessor from transformers
-    - select_layer로 중간 layer feature 추출 가능
-    - Output shape: (B, 577, 1024) for ViT-L/14-336
-      → 577 = 1 CLS token + 576 patches (24x24)
+    - Uses HuggingFace CLIPVisionModel + CLIPImageProcessor
+    - Has CLS token (index 0) → we remove it, return patch tokens only
+    - LLaVA-1.5 uses select_layer=-2 (penultimate hidden state)
+    - Output shape: (B, 576, 1024) for clip-vit-large-patch14-336
+      → 576 = (336/14)^2 = 24*24 patches (CLS removed)
 """
 
-import torch
-import torch.nn as nn
 from typing import Optional
+
+import torch
 from transformers import CLIPVisionModel, CLIPImageProcessor
 
 from .base import BaseVisionEncoder, VisionEncoderConfig
 
 
 class CLIPEncoder(BaseVisionEncoder):
+    """
+    CLIP vision encoder for feature extraction.
 
-    # Default config for openai/clip-vit-large-patch14-336
+    Uses the same loading logic as LLaVA-1.5:
+        - Load CLIPVisionModel from pretrained
+        - Extract hidden_states[select_layer] (default: -2, penultimate)
+        - Remove CLS token, return patch tokens only
+
+    Args:
+        model_name_or_path: HuggingFace model ID or local path.
+            e.g., "openai/clip-vit-large-patch14-336"
+        select_layer: Which hidden state layer to extract. Default: -2 (LLaVA-1.5 default)
+        dtype: torch dtype for inference. Default: torch.float16
+        device: Device string. Default: "cuda"
+    """
+
+    # Default config for clip-vit-large-patch14-336
     IMAGE_SIZE = 336
     PATCH_SIZE = 14
     HIDDEN_SIZE = 1024
@@ -29,14 +42,12 @@ class CLIPEncoder(BaseVisionEncoder):
     def __init__(
         self,
         model_name_or_path: str = "openai/clip-vit-large-patch14-336",
-        select_layer: int = -2,        # LLaVA 기본값: 두번째 마지막 layer
-        select_feature: str = "patch",  # "patch" = CLS 제외, "cls_patch" = CLS 포함
+        select_layer: int = -2,
         dtype: torch.dtype = torch.float16,
         device: str = "cuda",
     ):
         self.model_name_or_path = model_name_or_path
         self.select_layer = select_layer
-        self.select_feature = select_feature
         self._dtype = dtype
         self._device = device
 
@@ -53,11 +64,17 @@ class CLIPEncoder(BaseVisionEncoder):
         )
 
     def load_model(self) -> None:
+        """
+        Load CLIP model:
+            1. Load pretrained CLIPVisionModel
+            2. Freeze all parameters
+            3. Move to target device and dtype
+        """
         if self.model is not None:
-            print(f"[CLIPEncoder] Already loaded, skipping.")
+            print(f"[CLIPEncoder] Model already loaded, skipping.")
             return
 
-        print(f"[CLIPEncoder] Loading from: {self.model_name_or_path}")
+        print(f"[CLIPEncoder] Loading model from: {self.model_name_or_path}")
 
         self.model = CLIPVisionModel.from_pretrained(self.model_name_or_path)
         self.model.requires_grad_(False)
@@ -70,42 +87,67 @@ class CLIPEncoder(BaseVisionEncoder):
         print(f"[CLIPEncoder] Loaded successfully.")
         print(f"  - Encoder layers: {num_layers}")
         print(f"  - Select layer: {self.select_layer}")
-        print(f"  - Select feature: {self.select_feature}")
         print(f"  - Hidden size: {self.HIDDEN_SIZE}")
+        print(f"  - Image size: {self.IMAGE_SIZE}")
+        print(f"  - Patch size: {self.PATCH_SIZE}")
+        print(f"  - Num patches: {self.num_patches} ({self.num_patches_per_side}x{self.num_patches_per_side})")
         print(f"  - Device: {self._device}, Dtype: {self._dtype}")
 
     def get_image_processor(self) -> CLIPImageProcessor:
         if self.image_processor is None:
-            self.image_processor = CLIPImageProcessor.from_pretrained(
-                self.model_name_or_path
-            )
+            self.image_processor = CLIPImageProcessor.from_pretrained(self.model_name_or_path)
         return self.image_processor
 
     @torch.no_grad()
     def encode_images(self, pixel_values: torch.Tensor) -> torch.Tensor:
         """
+        Extract visual features from preprocessed images.
+
+        Follows LLaVA-1.5's approach:
+            - Pass through vision model with output_hidden_states=True
+            - Select hidden_states[select_layer]
+            - Separate CLS token (index 0) and patch tokens
+            - Cache CLS tokens for temporal representation experiments
+
         Args:
             pixel_values: (B, 3, 336, 336)
+
         Returns:
-            features: (B, num_patches, 1024)
-                - select_feature="patch"     → CLS 제외, (B, 576, 1024)
-                - select_feature="cls_patch" → CLS 포함, (B, 577, 1024)
+            features: (B, 576, 1024) — patch tokens only (CLS removed)
+
+        Side effect:
+            self._last_cls_tokens is set to (B, 1, 1024) — CLS tokens
+            Retrieve via get_last_cls_tokens()
         """
-        assert self.model is not None, "Call load_model() first."
+        assert self.model is not None, "Model not loaded. Call load_model() first."
 
         pixel_values = pixel_values.to(device=self._device, dtype=self._dtype)
 
         outputs = self.model(pixel_values, output_hidden_states=True)
 
-        # select_layer로 원하는 중간 layer의 hidden state 추출
-        features = outputs.hidden_states[self.select_layer]
+        # Select penultimate layer (same as LLaVA-1.5)
+        hidden = outputs.hidden_states[self.select_layer]
 
-        # CLS token 처리
-        if self.select_feature == "patch":
-            features = features[:, 1:]  # CLS 제외
-        # "cls_patch"이면 그대로 유지
+        # Separate CLS token and patch tokens
+        self._last_cls_tokens = hidden[:, 0:1]  # (B, 1, D) — cache for retrieval
+        patch_tokens = hidden[:, 1:]              # (B, 576, D)
 
-        return features
+        return patch_tokens
+
+    def get_last_cls_tokens(self) -> torch.Tensor:
+        """
+        Return CLS tokens from the most recent encode_images() call.
+
+        Returns:
+            cls_tokens: (B, 1, D) where D = hidden_size (1024 for CLIP-L/14)
+
+        Usage for temporal representation:
+            After extracting T frames, collect T CLS tokens → (T, D)
+            → concat as temporal representation for linear probing
+        """
+        if not hasattr(self, '_last_cls_tokens') or self._last_cls_tokens is None:
+            raise RuntimeError("No CLS tokens available. Call encode_images() first.")
+        return self._last_cls_tokens
 
     @property
     def encoder_config(self) -> VisionEncoderConfig:
