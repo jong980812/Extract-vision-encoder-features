@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 0,
+    "video": "ssv2_VP_default/left/10012.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 1,
+    "video": "ssv2_VP_default/left/100764.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 2,
+    "video": "ssv2_VP_default/left/100819.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 3,
+    "video": "ssv2_VP_default/left/102105.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 4,
+    "video": "ssv2_VP_default/left/102782.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 5,
+    "video": "ssv2_VP_default/left/103533.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 6,
+    "video": "ssv2_VP_default/left/104036.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 7,
+    "video": "ssv2_VP_default/left/105144.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 8,
+    "video": "ssv2_VP_default/left/106488.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 9,
+    "video": "ssv2_VP_default/left/106936.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 10,
+    "video": "ssv2_VP_default/left/108464.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 11,
+    "video": "ssv2_VP_default/left/108469.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 12,
+    "video": "ssv2_VP_default/left/110104.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 13,
+    "video": "ssv2_VP_default/left/110620.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 14,
+    "video": "ssv2_VP_default/left/111103.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 15,
+    "video": "ssv2_VP_default/left/111262.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 16,
+    "video": "ssv2_VP_default/left/11344.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 17,
+    "video": "ssv2_VP_default/left/114180.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 18,
+    "video": "ssv2_VP_default/left/114258.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 19,
+    "video": "ssv2_VP_default/left/1153.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 20,
+    "video": "ssv2_VP_default/left/115717.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 21,
+    "video": "ssv2_VP_default/left/116035.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 22,
+    "video": "ssv2_VP_default/left/116350.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 23,
+    "video": "ssv2_VP_default/left/116592.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 24,
+    "video": "ssv2_VP_default/left/118166.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 25,
+    "video": "ssv2_VP_default/left/119903.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 26,
+    "video": "ssv2_VP_default/left/120920.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 27,
+    "video": "ssv2_VP_default/left/120935.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 28,
+    "video": "ssv2_VP_default/left/12097.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 29,
+    "video": "ssv2_VP_default/left/120996.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 30,
+    "video": "ssv2_VP_default/left/121693.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 31,
+    "video": "ssv2_VP_default/left/121844.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 32,
+    "video": "ssv2_VP_default/left/121922.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 33,
+    "video": "ssv2_VP_default/left/122748.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 34,
+    "video": "ssv2_VP_default/left/125710.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 35,
+    "video": "ssv2_VP_default/left/126211.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 36,
+    "video": "ssv2_VP_default/left/126698.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 37,
+    "video": "ssv2_VP_default/left/126852.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 38,
+    "video": "ssv2_VP_default/left/126930.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 39,
+    "video": "ssv2_VP_default/left/127009.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 40,
+    "video": "ssv2_VP_default/left/129811.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 41,
+    "video": "ssv2_VP_default/left/130178.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 42,
+    "video": "ssv2_VP_default/left/130515.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 43,
+    "video": "ssv2_VP_default/left/130674.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 44,
+    "video": "ssv2_VP_default/left/132251.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 45,
+    "video": "ssv2_VP_default/left/132395.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 46,
+    "video": "ssv2_VP_default/left/134377.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 47,
+    "video": "ssv2_VP_default/left/134949.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 48,
+    "video": "ssv2_VP_default/left/136015.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 49,
+    "video": "ssv2_VP_default/left/136045.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 50,
+    "video": "ssv2_VP_default/left/136046.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 51,
+    "video": "ssv2_VP_default/left/139019.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 52,
+    "video": "ssv2_VP_default/left/139447.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 53,
+    "video": "ssv2_VP_default/left/14048.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 54,
+    "video": "ssv2_VP_default/left/142046.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 55,
+    "video": "ssv2_VP_default/left/142638.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 56,
+    "video": "ssv2_VP_default/left/142880.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 57,
+    "video": "ssv2_VP_default/left/143265.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 58,
+    "video": "ssv2_VP_default/left/143311.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 59,
+    "video": "ssv2_VP_default/left/143401.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 60,
+    "video": "ssv2_VP_default/left/143775.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 61,
+    "video": "ssv2_VP_default/left/144311.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 62,
+    "video": "ssv2_VP_default/left/144562.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 63,
+    "video": "ssv2_VP_default/left/145061.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 64,
+    "video": "ssv2_VP_default/left/145183.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 65,
+    "video": "ssv2_VP_default/left/14519.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 66,
+    "video": "ssv2_VP_default/left/146355.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 67,
+    "video": "ssv2_VP_default/left/147014.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 68,
+    "video": "ssv2_VP_default/left/147016.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 69,
+    "video": "ssv2_VP_default/left/14731.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 70,
+    "video": "ssv2_VP_default/left/151038.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 71,
+    "video": "ssv2_VP_default/left/151101.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 72,
+    "video": "ssv2_VP_default/left/151706.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 73,
+    "video": "ssv2_VP_default/left/151843.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 74,
+    "video": "ssv2_VP_default/left/153682.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 75,
+    "video": "ssv2_VP_default/left/155923.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 76,
+    "video": "ssv2_VP_default/left/156523.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 77,
+    "video": "ssv2_VP_default/left/156905.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 78,
+    "video": "ssv2_VP_default/left/158294.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 79,
+    "video": "ssv2_VP_default/left/158341.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 80,
+    "video": "ssv2_VP_default/left/158343.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 81,
+    "video": "ssv2_VP_default/left/158690.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 82,
+    "video": "ssv2_VP_default/left/158936.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 83,
+    "video": "ssv2_VP_default/left/159264.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 84,
+    "video": "ssv2_VP_default/left/160452.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 85,
+    "video": "ssv2_VP_default/left/161029.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 86,
+    "video": "ssv2_VP_default/left/161659.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 87,
+    "video": "ssv2_VP_default/left/161930.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 88,
+    "video": "ssv2_VP_default/left/16215.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 89,
+    "video": "ssv2_VP_default/left/162338.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 90,
+    "video": "ssv2_VP_default/left/163169.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 91,
+    "video": "ssv2_VP_default/left/164036.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 92,
+    "video": "ssv2_VP_default/left/16459.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 93,
+    "video": "ssv2_VP_default/left/165705.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 94,
+    "video": "ssv2_VP_default/left/165799.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 95,
+    "video": "ssv2_VP_default/left/166205.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 96,
+    "video": "ssv2_VP_default/left/166237.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 97,
+    "video": "ssv2_VP_default/left/166562.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 98,
+    "video": "ssv2_VP_default/left/167119.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 99,
+    "video": "ssv2_VP_default/left/167711.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 100,
+    "video": "ssv2_VP_default/left/168785.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 101,
+    "video": "ssv2_VP_default/left/170007.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 102,
+    "video": "ssv2_VP_default/left/170243.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 103,
+    "video": "ssv2_VP_default/left/170849.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 104,
+    "video": "ssv2_VP_default/left/171612.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 105,
+    "video": "ssv2_VP_default/left/171933.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 106,
+    "video": "ssv2_VP_default/left/173735.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 107,
+    "video": "ssv2_VP_default/left/174599.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 108,
+    "video": "ssv2_VP_default/left/174768.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 109,
+    "video": "ssv2_VP_default/left/175186.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 110,
+    "video": "ssv2_VP_default/left/175308.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 111,
+    "video": "ssv2_VP_default/left/175372.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 112,
+    "video": "ssv2_VP_default/left/175742.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 113,
+    "video": "ssv2_VP_default/left/176994.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 114,
+    "video": "ssv2_VP_default/left/177883.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 115,
+    "video": "ssv2_VP_default/left/178054.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 116,
+    "video": "ssv2_VP_default/left/179039.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 117,
+    "video": "ssv2_VP_default/left/180070.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 118,
+    "video": "ssv2_VP_default/left/181899.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 119,
+    "video": "ssv2_VP_default/left/182096.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 120,
+    "video": "ssv2_VP_default/left/183131.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 121,
+    "video": "ssv2_VP_default/left/183708.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 122,
+    "video": "ssv2_VP_default/left/183980.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 123,
+    "video": "ssv2_VP_default/left/184721.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 124,
+    "video": "ssv2_VP_default/left/185083.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 125,
+    "video": "ssv2_VP_default/left/186734.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 126,
+    "video": "ssv2_VP_default/left/188257.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 127,
+    "video": "ssv2_VP_default/left/188665.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 128,
+    "video": "ssv2_VP_default/left/18893.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 129,
+    "video": "ssv2_VP_default/left/192254.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 130,
+    "video": "ssv2_VP_default/left/195177.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 131,
+    "video": "ssv2_VP_default/left/197574.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 132,
+    "video": "ssv2_VP_default/left/200484.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 133,
+    "video": "ssv2_VP_default/left/200667.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 134,
+    "video": "ssv2_VP_default/left/2022.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 135,
+    "video": "ssv2_VP_default/left/205013.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 136,
+    "video": "ssv2_VP_default/left/205686.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 137,
+    "video": "ssv2_VP_default/left/208718.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 138,
+    "video": "ssv2_VP_default/left/209704.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 139,
+    "video": "ssv2_VP_default/left/210441.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 140,
+    "video": "ssv2_VP_default/left/210472.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 141,
+    "video": "ssv2_VP_default/left/212164.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 142,
+    "video": "ssv2_VP_default/left/212936.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 143,
+    "video": "ssv2_VP_default/left/216532.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 144,
+    "video": "ssv2_VP_default/left/21664.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 145,
+    "video": "ssv2_VP_default/left/216772.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 146,
+    "video": "ssv2_VP_default/left/217376.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 147,
+    "video": "ssv2_VP_default/left/217620.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 148,
+    "video": "ssv2_VP_default/left/220302.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 149,
+    "video": "ssv2_VP_default/left/220825.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 150,
+    "video": "ssv2_VP_default/left/23202.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 151,
+    "video": "ssv2_VP_default/left/2322.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 152,
+    "video": "ssv2_VP_default/left/23720.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 153,
+    "video": "ssv2_VP_default/left/24815.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 154,
+    "video": "ssv2_VP_default/left/24879.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 155,
+    "video": "ssv2_VP_default/left/28528.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 156,
+    "video": "ssv2_VP_default/left/28806.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 157,
+    "video": "ssv2_VP_default/left/28905.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 158,
+    "video": "ssv2_VP_default/left/29373.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 159,
+    "video": "ssv2_VP_default/left/29583.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 160,
+    "video": "ssv2_VP_default/left/29941.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 161,
+    "video": "ssv2_VP_default/left/30316.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 162,
+    "video": "ssv2_VP_default/left/31658.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 163,
+    "video": "ssv2_VP_default/left/33581.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 164,
+    "video": "ssv2_VP_default/left/34674.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 165,
+    "video": "ssv2_VP_default/left/35939.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 166,
+    "video": "ssv2_VP_default/left/36460.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 167,
+    "video": "ssv2_VP_default/left/36558.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 168,
+    "video": "ssv2_VP_default/left/37066.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 169,
+    "video": "ssv2_VP_default/left/37611.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 170,
+    "video": "ssv2_VP_default/left/37928.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 171,
+    "video": "ssv2_VP_default/left/38085.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 172,
+    "video": "ssv2_VP_default/left/38932.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 173,
+    "video": "ssv2_VP_default/left/39006.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 174,
+    "video": "ssv2_VP_default/left/39756.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 175,
+    "video": "ssv2_VP_default/left/42661.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 176,
+    "video": "ssv2_VP_default/left/4378.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 177,
+    "video": "ssv2_VP_default/left/44811.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 178,
+    "video": "ssv2_VP_default/left/47589.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 179,
+    "video": "ssv2_VP_default/left/47769.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 180,
+    "video": "ssv2_VP_default/left/48456.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 181,
+    "video": "ssv2_VP_default/left/5009.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 182,
+    "video": "ssv2_VP_default/left/50395.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 183,
+    "video": "ssv2_VP_default/left/50980.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 184,
+    "video": "ssv2_VP_default/left/5118.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 185,
+    "video": "ssv2_VP_default/left/51695.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 186,
+    "video": "ssv2_VP_default/left/52114.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 187,
+    "video": "ssv2_VP_default/left/52769.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 188,
+    "video": "ssv2_VP_default/left/53898.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 189,
+    "video": "ssv2_VP_default/left/54935.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 190,
+    "video": "ssv2_VP_default/left/55799.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 191,
+    "video": "ssv2_VP_default/left/59986.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 192,
+    "video": "ssv2_VP_default/left/60477.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 193,
+    "video": "ssv2_VP_default/left/60599.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 194,
+    "video": "ssv2_VP_default/left/61568.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 195,
+    "video": "ssv2_VP_default/left/62117.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 196,
+    "video": "ssv2_VP_default/left/62873.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 197,
+    "video": "ssv2_VP_default/left/63956.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 198,
+    "video": "ssv2_VP_default/left/64810.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 199,
+    "video": "ssv2_VP_default/left/6482.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 200,
+    "video": "ssv2_VP_default/left/65413.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 201,
+    "video": "ssv2_VP_default/left/6551.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 202,
+    "video": "ssv2_VP_default/left/67341.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 203,
+    "video": "ssv2_VP_default/left/67640.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 204,
+    "video": "ssv2_VP_default/left/68610.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 205,
+    "video": "ssv2_VP_default/left/68874.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 206,
+    "video": "ssv2_VP_default/left/69064.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 207,
+    "video": "ssv2_VP_default/left/6934.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 208,
+    "video": "ssv2_VP_default/left/69501.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 209,
+    "video": "ssv2_VP_default/left/69702.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 210,
+    "video": "ssv2_VP_default/left/71054.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 211,
+    "video": "ssv2_VP_default/left/71176.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 212,
+    "video": "ssv2_VP_default/left/72452.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 213,
+    "video": "ssv2_VP_default/left/72766.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 214,
+    "video": "ssv2_VP_default/left/72913.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 215,
+    "video": "ssv2_VP_default/left/74414.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 216,
+    "video": "ssv2_VP_default/left/74719.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 217,
+    "video": "ssv2_VP_default/left/77092.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 218,
+    "video": "ssv2_VP_default/left/77440.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 219,
+    "video": "ssv2_VP_default/left/77707.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 220,
+    "video": "ssv2_VP_default/left/78494.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 221,
+    "video": "ssv2_VP_default/left/79981.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 222,
+    "video": "ssv2_VP_default/left/80326.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 223,
+    "video": "ssv2_VP_default/left/81972.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 224,
+    "video": "ssv2_VP_default/left/82586.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 225,
+    "video": "ssv2_VP_default/left/83769.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 226,
+    "video": "ssv2_VP_default/left/84104.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 227,
+    "video": "ssv2_VP_default/left/85114.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 228,
+    "video": "ssv2_VP_default/left/86574.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 229,
+    "video": "ssv2_VP_default/left/87997.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 230,
+    "video": "ssv2_VP_default/left/90357.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 231,
+    "video": "ssv2_VP_default/left/90646.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 232,
+    "video": "ssv2_VP_default/left/91798.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 233,
+    "video": "ssv2_VP_default/left/92628.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 234,
+    "video": "ssv2_VP_default/left/93164.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 235,
+    "video": "ssv2_VP_default/left/93619.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 236,
+    "video": "ssv2_VP_default/left/93868.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 237,
+    "video": "ssv2_VP_default/left/96092.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 238,
+    "video": "ssv2_VP_default/left/96417.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 239,
+    "video": "ssv2_VP_default/left/9705.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 240,
+    "video": "ssv2_VP_default/left/97982.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 241,
+    "video": "ssv2_VP_default/left/98012.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 242,
+    "video": "ssv2_VP_default/left/98361.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 243,
+    "video": "ssv2_VP_default/left/98603.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 244,
+    "video": "ssv2_VP_default/left/98800.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 245,
+    "video": "ssv2_VP_default/left/99174.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 246,
+    "video": "ssv2_VP_default/left/9928.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 247,
+    "video": "ssv2_VP_default/left/99760.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 248,
+    "video": "ssv2_VP_default/left/99838.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 249,
+    "video": "ssv2_VP_default/left/99986.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 250,
+    "video": "ssv2_VP_default/right/100236.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 251,
+    "video": "ssv2_VP_default/right/100516.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 252,
+    "video": "ssv2_VP_default/right/101343.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 253,
+    "video": "ssv2_VP_default/right/101859.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 254,
+    "video": "ssv2_VP_default/right/103661.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 255,
+    "video": "ssv2_VP_default/right/104278.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 256,
+    "video": "ssv2_VP_default/right/104468.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 257,
+    "video": "ssv2_VP_default/right/104677.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 258,
+    "video": "ssv2_VP_default/right/106256.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 259,
+    "video": "ssv2_VP_default/right/107782.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 260,
+    "video": "ssv2_VP_default/right/108609.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 261,
+    "video": "ssv2_VP_default/right/108784.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 262,
+    "video": "ssv2_VP_default/right/108787.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 263,
+    "video": "ssv2_VP_default/right/109256.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 264,
+    "video": "ssv2_VP_default/right/109307.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 265,
+    "video": "ssv2_VP_default/right/109650.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 266,
+    "video": "ssv2_VP_default/right/110594.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 267,
+    "video": "ssv2_VP_default/right/1113.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 268,
+    "video": "ssv2_VP_default/right/111829.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 269,
+    "video": "ssv2_VP_default/right/112348.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 270,
+    "video": "ssv2_VP_default/right/114501.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 271,
+    "video": "ssv2_VP_default/right/115389.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 272,
+    "video": "ssv2_VP_default/right/116148.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 273,
+    "video": "ssv2_VP_default/right/116741.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 274,
+    "video": "ssv2_VP_default/right/117490.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 275,
+    "video": "ssv2_VP_default/right/117597.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 276,
+    "video": "ssv2_VP_default/right/117638.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 277,
+    "video": "ssv2_VP_default/right/11978.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 278,
+    "video": "ssv2_VP_default/right/122241.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 279,
+    "video": "ssv2_VP_default/right/124435.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 280,
+    "video": "ssv2_VP_default/right/12570.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 281,
+    "video": "ssv2_VP_default/right/125741.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 282,
+    "video": "ssv2_VP_default/right/126237.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 283,
+    "video": "ssv2_VP_default/right/12693.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 284,
+    "video": "ssv2_VP_default/right/128275.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 285,
+    "video": "ssv2_VP_default/right/129946.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 286,
+    "video": "ssv2_VP_default/right/130117.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 287,
+    "video": "ssv2_VP_default/right/130186.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 288,
+    "video": "ssv2_VP_default/right/131223.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 289,
+    "video": "ssv2_VP_default/right/134989.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 290,
+    "video": "ssv2_VP_default/right/135039.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 291,
+    "video": "ssv2_VP_default/right/135241.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 292,
+    "video": "ssv2_VP_default/right/136441.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 293,
+    "video": "ssv2_VP_default/right/138321.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 294,
+    "video": "ssv2_VP_default/right/139344.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 295,
+    "video": "ssv2_VP_default/right/140238.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 296,
+    "video": "ssv2_VP_default/right/140317.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 297,
+    "video": "ssv2_VP_default/right/140340.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 298,
+    "video": "ssv2_VP_default/right/140635.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 299,
+    "video": "ssv2_VP_default/right/141375.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 300,
+    "video": "ssv2_VP_default/right/143051.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 301,
+    "video": "ssv2_VP_default/right/143643.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 302,
+    "video": "ssv2_VP_default/right/143947.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 303,
+    "video": "ssv2_VP_default/right/144523.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 304,
+    "video": "ssv2_VP_default/right/145929.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 305,
+    "video": "ssv2_VP_default/right/146297.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 306,
+    "video": "ssv2_VP_default/right/14715.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 307,
+    "video": "ssv2_VP_default/right/147451.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 308,
+    "video": "ssv2_VP_default/right/149651.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 309,
+    "video": "ssv2_VP_default/right/150669.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 310,
+    "video": "ssv2_VP_default/right/152497.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 311,
+    "video": "ssv2_VP_default/right/152813.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 312,
+    "video": "ssv2_VP_default/right/153520.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 313,
+    "video": "ssv2_VP_default/right/154697.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 314,
+    "video": "ssv2_VP_default/right/155605.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 315,
+    "video": "ssv2_VP_default/right/155958.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 316,
+    "video": "ssv2_VP_default/right/156116.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 317,
+    "video": "ssv2_VP_default/right/156292.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 318,
+    "video": "ssv2_VP_default/right/156918.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 319,
+    "video": "ssv2_VP_default/right/157988.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 320,
+    "video": "ssv2_VP_default/right/158538.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 321,
+    "video": "ssv2_VP_default/right/159180.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 322,
+    "video": "ssv2_VP_default/right/160106.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 323,
+    "video": "ssv2_VP_default/right/160261.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 324,
+    "video": "ssv2_VP_default/right/161206.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 325,
+    "video": "ssv2_VP_default/right/16134.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 326,
+    "video": "ssv2_VP_default/right/161706.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 327,
+    "video": "ssv2_VP_default/right/162511.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 328,
+    "video": "ssv2_VP_default/right/16259.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 329,
+    "video": "ssv2_VP_default/right/164398.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 330,
+    "video": "ssv2_VP_default/right/166634.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 331,
+    "video": "ssv2_VP_default/right/166924.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 332,
+    "video": "ssv2_VP_default/right/168029.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 333,
+    "video": "ssv2_VP_default/right/16887.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 334,
+    "video": "ssv2_VP_default/right/169771.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 335,
+    "video": "ssv2_VP_default/right/170488.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 336,
+    "video": "ssv2_VP_default/right/171027.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 337,
+    "video": "ssv2_VP_default/right/172490.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 338,
+    "video": "ssv2_VP_default/right/172977.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 339,
+    "video": "ssv2_VP_default/right/173148.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 340,
+    "video": "ssv2_VP_default/right/174355.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 341,
+    "video": "ssv2_VP_default/right/174633.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 342,
+    "video": "ssv2_VP_default/right/175088.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 343,
+    "video": "ssv2_VP_default/right/17519.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 344,
+    "video": "ssv2_VP_default/right/176804.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 345,
+    "video": "ssv2_VP_default/right/17833.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 346,
+    "video": "ssv2_VP_default/right/178932.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 347,
+    "video": "ssv2_VP_default/right/179551.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 348,
+    "video": "ssv2_VP_default/right/180119.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 349,
+    "video": "ssv2_VP_default/right/180303.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 350,
+    "video": "ssv2_VP_default/right/180341.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 351,
+    "video": "ssv2_VP_default/right/18100.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 352,
+    "video": "ssv2_VP_default/right/181356.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 353,
+    "video": "ssv2_VP_default/right/183374.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 354,
+    "video": "ssv2_VP_default/right/183535.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 355,
+    "video": "ssv2_VP_default/right/184572.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 356,
+    "video": "ssv2_VP_default/right/184986.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 357,
+    "video": "ssv2_VP_default/right/18645.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 358,
+    "video": "ssv2_VP_default/right/187312.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 359,
+    "video": "ssv2_VP_default/right/187446.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 360,
+    "video": "ssv2_VP_default/right/187802.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 361,
+    "video": "ssv2_VP_default/right/188112.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 362,
+    "video": "ssv2_VP_default/right/188239.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 363,
+    "video": "ssv2_VP_default/right/188398.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 364,
+    "video": "ssv2_VP_default/right/188433.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 365,
+    "video": "ssv2_VP_default/right/188843.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 366,
+    "video": "ssv2_VP_default/right/191232.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 367,
+    "video": "ssv2_VP_default/right/191558.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 368,
+    "video": "ssv2_VP_default/right/193529.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 369,
+    "video": "ssv2_VP_default/right/193901.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 370,
+    "video": "ssv2_VP_default/right/194341.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 371,
+    "video": "ssv2_VP_default/right/195913.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 372,
+    "video": "ssv2_VP_default/right/196379.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 373,
+    "video": "ssv2_VP_default/right/197487.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 374,
+    "video": "ssv2_VP_default/right/198107.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 375,
+    "video": "ssv2_VP_default/right/198677.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 376,
+    "video": "ssv2_VP_default/right/198737.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 377,
+    "video": "ssv2_VP_default/right/199252.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 378,
+    "video": "ssv2_VP_default/right/199953.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 379,
+    "video": "ssv2_VP_default/right/201569.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 380,
+    "video": "ssv2_VP_default/right/201692.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 381,
+    "video": "ssv2_VP_default/right/202641.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 382,
+    "video": "ssv2_VP_default/right/204335.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 383,
+    "video": "ssv2_VP_default/right/204764.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 384,
+    "video": "ssv2_VP_default/right/205154.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 385,
+    "video": "ssv2_VP_default/right/20616.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 386,
+    "video": "ssv2_VP_default/right/207044.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 387,
+    "video": "ssv2_VP_default/right/207257.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 388,
+    "video": "ssv2_VP_default/right/207720.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 389,
+    "video": "ssv2_VP_default/right/207802.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 390,
+    "video": "ssv2_VP_default/right/209001.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 391,
+    "video": "ssv2_VP_default/right/209007.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 392,
+    "video": "ssv2_VP_default/right/210327.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 393,
+    "video": "ssv2_VP_default/right/21225.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 394,
+    "video": "ssv2_VP_default/right/212279.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 395,
+    "video": "ssv2_VP_default/right/212301.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 396,
+    "video": "ssv2_VP_default/right/213068.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 397,
+    "video": "ssv2_VP_default/right/214537.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 398,
+    "video": "ssv2_VP_default/right/215308.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 399,
+    "video": "ssv2_VP_default/right/216055.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 400,
+    "video": "ssv2_VP_default/right/216550.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 401,
+    "video": "ssv2_VP_default/right/217242.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 402,
+    "video": "ssv2_VP_default/right/217909.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 403,
+    "video": "ssv2_VP_default/right/218468.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 404,
+    "video": "ssv2_VP_default/right/218641.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 405,
+    "video": "ssv2_VP_default/right/218711.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 406,
+    "video": "ssv2_VP_default/right/218945.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 407,
+    "video": "ssv2_VP_default/right/219850.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 408,
+    "video": "ssv2_VP_default/right/22359.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 409,
+    "video": "ssv2_VP_default/right/23178.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 410,
+    "video": "ssv2_VP_default/right/23512.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 411,
+    "video": "ssv2_VP_default/right/24489.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 412,
+    "video": "ssv2_VP_default/right/24902.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 413,
+    "video": "ssv2_VP_default/right/25335.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 414,
+    "video": "ssv2_VP_default/right/25657.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 415,
+    "video": "ssv2_VP_default/right/25680.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 416,
+    "video": "ssv2_VP_default/right/27331.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 417,
+    "video": "ssv2_VP_default/right/30104.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 418,
+    "video": "ssv2_VP_default/right/31701.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 419,
+    "video": "ssv2_VP_default/right/31706.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 420,
+    "video": "ssv2_VP_default/right/31877.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 421,
+    "video": "ssv2_VP_default/right/32117.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 422,
+    "video": "ssv2_VP_default/right/32167.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 423,
+    "video": "ssv2_VP_default/right/32201.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 424,
+    "video": "ssv2_VP_default/right/33943.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 425,
+    "video": "ssv2_VP_default/right/34063.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 426,
+    "video": "ssv2_VP_default/right/34137.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 427,
+    "video": "ssv2_VP_default/right/34792.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 428,
+    "video": "ssv2_VP_default/right/35153.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 429,
+    "video": "ssv2_VP_default/right/36871.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 430,
+    "video": "ssv2_VP_default/right/37528.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 431,
+    "video": "ssv2_VP_default/right/38220.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 432,
+    "video": "ssv2_VP_default/right/38646.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 433,
+    "video": "ssv2_VP_default/right/38954.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 434,
+    "video": "ssv2_VP_default/right/40872.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 435,
+    "video": "ssv2_VP_default/right/42075.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 436,
+    "video": "ssv2_VP_default/right/42556.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 437,
+    "video": "ssv2_VP_default/right/43477.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 438,
+    "video": "ssv2_VP_default/right/48710.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 439,
+    "video": "ssv2_VP_default/right/51189.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 440,
+    "video": "ssv2_VP_default/right/5139.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 441,
+    "video": "ssv2_VP_default/right/53049.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 442,
+    "video": "ssv2_VP_default/right/54489.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 443,
+    "video": "ssv2_VP_default/right/54495.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 444,
+    "video": "ssv2_VP_default/right/54893.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 445,
+    "video": "ssv2_VP_default/right/54945.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 446,
+    "video": "ssv2_VP_default/right/55781.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 447,
+    "video": "ssv2_VP_default/right/56944.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 448,
+    "video": "ssv2_VP_default/right/57358.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 449,
+    "video": "ssv2_VP_default/right/57548.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 450,
+    "video": "ssv2_VP_default/right/59378.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 451,
+    "video": "ssv2_VP_default/right/60125.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 452,
+    "video": "ssv2_VP_default/right/62874.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 453,
+    "video": "ssv2_VP_default/right/64431.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 454,
+    "video": "ssv2_VP_default/right/66462.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 455,
+    "video": "ssv2_VP_default/right/67059.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 456,
+    "video": "ssv2_VP_default/right/67147.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 457,
+    "video": "ssv2_VP_default/right/69101.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 458,
+    "video": "ssv2_VP_default/right/69128.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 459,
+    "video": "ssv2_VP_default/right/69324.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 460,
+    "video": "ssv2_VP_default/right/70031.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 461,
+    "video": "ssv2_VP_default/right/71461.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 462,
+    "video": "ssv2_VP_default/right/71563.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 463,
+    "video": "ssv2_VP_default/right/72022.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 464,
+    "video": "ssv2_VP_default/right/72982.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 465,
+    "video": "ssv2_VP_default/right/74115.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 466,
+    "video": "ssv2_VP_default/right/74226.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 467,
+    "video": "ssv2_VP_default/right/74428.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 468,
+    "video": "ssv2_VP_default/right/74960.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 469,
+    "video": "ssv2_VP_default/right/76152.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 470,
+    "video": "ssv2_VP_default/right/77208.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 471,
+    "video": "ssv2_VP_default/right/77222.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 472,
+    "video": "ssv2_VP_default/right/79534.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 473,
+    "video": "ssv2_VP_default/right/80260.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 474,
+    "video": "ssv2_VP_default/right/80820.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 475,
+    "video": "ssv2_VP_default/right/81258.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 476,
+    "video": "ssv2_VP_default/right/82004.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 477,
+    "video": "ssv2_VP_default/right/82109.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 478,
+    "video": "ssv2_VP_default/right/83203.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 479,
+    "video": "ssv2_VP_default/right/83261.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 480,
+    "video": "ssv2_VP_default/right/83628.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 481,
+    "video": "ssv2_VP_default/right/84343.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 482,
+    "video": "ssv2_VP_default/right/84967.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 483,
+    "video": "ssv2_VP_default/right/85446.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 484,
+    "video": "ssv2_VP_default/right/86333.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 485,
+    "video": "ssv2_VP_default/right/8642.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 486,
+    "video": "ssv2_VP_default/right/86575.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 487,
+    "video": "ssv2_VP_default/right/87247.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 488,
+    "video": "ssv2_VP_default/right/88220.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 489,
+    "video": "ssv2_VP_default/right/89830.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 490,
+    "video": "ssv2_VP_default/right/90789.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 491,
+    "video": "ssv2_VP_default/right/90925.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 492,
+    "video": "ssv2_VP_default/right/91544.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 493,
+    "video": "ssv2_VP_default/right/92158.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 494,
+    "video": "ssv2_VP_default/right/93898.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 495,
+    "video": "ssv2_VP_default/right/94632.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 496,
+    "video": "ssv2_VP_default/right/98301.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 497,
+    "video": "ssv2_VP_default/right/98886.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 498,
+    "video": "ssv2_VP_default/right/99234.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 499,
+    "video": "ssv2_VP_default/right/99643.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  }
+]
