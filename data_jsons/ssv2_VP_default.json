@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "video": "ssv2_VP_default/left/10012.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/10012.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -13,7 +13,7 @@
   },
   {
     "id": 1,
-    "video": "ssv2_VP_default/left/100764.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/100764.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -25,7 +25,7 @@
   },
   {
     "id": 2,
-    "video": "ssv2_VP_default/left/100819.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/100819.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "video": "ssv2_VP_default/left/102105.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/102105.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -49,7 +49,7 @@
   },
   {
     "id": 4,
-    "video": "ssv2_VP_default/left/102782.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/102782.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -61,7 +61,7 @@
   },
   {
     "id": 5,
-    "video": "ssv2_VP_default/left/103533.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/103533.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -73,7 +73,7 @@
   },
   {
     "id": 6,
-    "video": "ssv2_VP_default/left/104036.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/104036.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -85,7 +85,7 @@
   },
   {
     "id": 7,
-    "video": "ssv2_VP_default/left/105144.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/105144.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -97,7 +97,7 @@
   },
   {
     "id": 8,
-    "video": "ssv2_VP_default/left/106488.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/106488.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -109,7 +109,7 @@
   },
   {
     "id": 9,
-    "video": "ssv2_VP_default/left/106936.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/106936.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -121,7 +121,7 @@
   },
   {
     "id": 10,
-    "video": "ssv2_VP_default/left/108464.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/108464.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -133,7 +133,7 @@
   },
   {
     "id": 11,
-    "video": "ssv2_VP_default/left/108469.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/108469.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -145,7 +145,7 @@
   },
   {
     "id": 12,
-    "video": "ssv2_VP_default/left/110104.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/110104.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -157,7 +157,7 @@
   },
   {
     "id": 13,
-    "video": "ssv2_VP_default/left/110620.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/110620.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -169,7 +169,7 @@
   },
   {
     "id": 14,
-    "video": "ssv2_VP_default/left/111103.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/111103.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -181,7 +181,7 @@
   },
   {
     "id": 15,
-    "video": "ssv2_VP_default/left/111262.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/111262.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -193,7 +193,7 @@
   },
   {
     "id": 16,
-    "video": "ssv2_VP_default/left/11344.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/11344.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -205,7 +205,7 @@
   },
   {
     "id": 17,
-    "video": "ssv2_VP_default/left/114180.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/114180.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -217,7 +217,7 @@
   },
   {
     "id": 18,
-    "video": "ssv2_VP_default/left/114258.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/114258.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -229,7 +229,7 @@
   },
   {
     "id": 19,
-    "video": "ssv2_VP_default/left/1153.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/1153.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -241,7 +241,7 @@
   },
   {
     "id": 20,
-    "video": "ssv2_VP_default/left/115717.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/115717.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -253,7 +253,7 @@
   },
   {
     "id": 21,
-    "video": "ssv2_VP_default/left/116035.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/116035.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -265,7 +265,7 @@
   },
   {
     "id": 22,
-    "video": "ssv2_VP_default/left/116350.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/116350.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -277,7 +277,7 @@
   },
   {
     "id": 23,
-    "video": "ssv2_VP_default/left/116592.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/116592.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -289,7 +289,7 @@
   },
   {
     "id": 24,
-    "video": "ssv2_VP_default/left/118166.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/118166.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -301,7 +301,7 @@
   },
   {
     "id": 25,
-    "video": "ssv2_VP_default/left/119903.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/119903.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -313,7 +313,7 @@
   },
   {
     "id": 26,
-    "video": "ssv2_VP_default/left/120920.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/120920.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -325,7 +325,7 @@
   },
   {
     "id": 27,
-    "video": "ssv2_VP_default/left/120935.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/120935.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -337,7 +337,7 @@
   },
   {
     "id": 28,
-    "video": "ssv2_VP_default/left/12097.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/12097.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -349,7 +349,7 @@
   },
   {
     "id": 29,
-    "video": "ssv2_VP_default/left/120996.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/120996.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -361,7 +361,7 @@
   },
   {
     "id": 30,
-    "video": "ssv2_VP_default/left/121693.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/121693.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -373,7 +373,7 @@
   },
   {
     "id": 31,
-    "video": "ssv2_VP_default/left/121844.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/121844.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -385,7 +385,7 @@
   },
   {
     "id": 32,
-    "video": "ssv2_VP_default/left/121922.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/121922.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -397,7 +397,7 @@
   },
   {
     "id": 33,
-    "video": "ssv2_VP_default/left/122748.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/122748.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -409,7 +409,7 @@
   },
   {
     "id": 34,
-    "video": "ssv2_VP_default/left/125710.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/125710.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -421,7 +421,7 @@
   },
   {
     "id": 35,
-    "video": "ssv2_VP_default/left/126211.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/126211.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -433,7 +433,7 @@
   },
   {
     "id": 36,
-    "video": "ssv2_VP_default/left/126698.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/126698.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -445,7 +445,7 @@
   },
   {
     "id": 37,
-    "video": "ssv2_VP_default/left/126852.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/126852.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -457,7 +457,7 @@
   },
   {
     "id": 38,
-    "video": "ssv2_VP_default/left/126930.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/126930.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -469,7 +469,7 @@
   },
   {
     "id": 39,
-    "video": "ssv2_VP_default/left/127009.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/127009.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -481,7 +481,7 @@
   },
   {
     "id": 40,
-    "video": "ssv2_VP_default/left/129811.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/129811.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -493,7 +493,7 @@
   },
   {
     "id": 41,
-    "video": "ssv2_VP_default/left/130178.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/130178.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -505,7 +505,7 @@
   },
   {
     "id": 42,
-    "video": "ssv2_VP_default/left/130515.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/130515.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -517,7 +517,7 @@
   },
   {
     "id": 43,
-    "video": "ssv2_VP_default/left/130674.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/130674.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -529,7 +529,7 @@
   },
   {
     "id": 44,
-    "video": "ssv2_VP_default/left/132251.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/132251.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -541,7 +541,7 @@
   },
   {
     "id": 45,
-    "video": "ssv2_VP_default/left/132395.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/132395.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -553,7 +553,7 @@
   },
   {
     "id": 46,
-    "video": "ssv2_VP_default/left/134377.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/134377.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -565,7 +565,7 @@
   },
   {
     "id": 47,
-    "video": "ssv2_VP_default/left/134949.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/134949.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -577,7 +577,7 @@
   },
   {
     "id": 48,
-    "video": "ssv2_VP_default/left/136015.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/136015.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -589,7 +589,7 @@
   },
   {
     "id": 49,
-    "video": "ssv2_VP_default/left/136045.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/136045.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -601,7 +601,7 @@
   },
   {
     "id": 50,
-    "video": "ssv2_VP_default/left/136046.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/136046.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -613,7 +613,7 @@
   },
   {
     "id": 51,
-    "video": "ssv2_VP_default/left/139019.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/139019.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -625,7 +625,7 @@
   },
   {
     "id": 52,
-    "video": "ssv2_VP_default/left/139447.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/139447.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -637,7 +637,7 @@
   },
   {
     "id": 53,
-    "video": "ssv2_VP_default/left/14048.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/14048.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -649,7 +649,7 @@
   },
   {
     "id": 54,
-    "video": "ssv2_VP_default/left/142046.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/142046.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -661,7 +661,7 @@
   },
   {
     "id": 55,
-    "video": "ssv2_VP_default/left/142638.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/142638.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -673,7 +673,7 @@
   },
   {
     "id": 56,
-    "video": "ssv2_VP_default/left/142880.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/142880.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -685,7 +685,7 @@
   },
   {
     "id": 57,
-    "video": "ssv2_VP_default/left/143265.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/143265.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -697,7 +697,7 @@
   },
   {
     "id": 58,
-    "video": "ssv2_VP_default/left/143311.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/143311.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -709,7 +709,7 @@
   },
   {
     "id": 59,
-    "video": "ssv2_VP_default/left/143401.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/143401.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -721,7 +721,7 @@
   },
   {
     "id": 60,
-    "video": "ssv2_VP_default/left/143775.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/143775.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -733,7 +733,7 @@
   },
   {
     "id": 61,
-    "video": "ssv2_VP_default/left/144311.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/144311.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -745,7 +745,7 @@
   },
   {
     "id": 62,
-    "video": "ssv2_VP_default/left/144562.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/144562.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -757,7 +757,7 @@
   },
   {
     "id": 63,
-    "video": "ssv2_VP_default/left/145061.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/145061.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -769,7 +769,7 @@
   },
   {
     "id": 64,
-    "video": "ssv2_VP_default/left/145183.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/145183.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -781,7 +781,7 @@
   },
   {
     "id": 65,
-    "video": "ssv2_VP_default/left/14519.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/14519.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -793,7 +793,7 @@
   },
   {
     "id": 66,
-    "video": "ssv2_VP_default/left/146355.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/146355.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -805,7 +805,7 @@
   },
   {
     "id": 67,
-    "video": "ssv2_VP_default/left/147014.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/147014.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -817,7 +817,7 @@
   },
   {
     "id": 68,
-    "video": "ssv2_VP_default/left/147016.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/147016.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -829,7 +829,7 @@
   },
   {
     "id": 69,
-    "video": "ssv2_VP_default/left/14731.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/14731.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -841,7 +841,7 @@
   },
   {
     "id": 70,
-    "video": "ssv2_VP_default/left/151038.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/151038.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -853,7 +853,7 @@
   },
   {
     "id": 71,
-    "video": "ssv2_VP_default/left/151101.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/151101.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -865,7 +865,7 @@
   },
   {
     "id": 72,
-    "video": "ssv2_VP_default/left/151706.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/151706.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -877,7 +877,7 @@
   },
   {
     "id": 73,
-    "video": "ssv2_VP_default/left/151843.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/151843.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -889,7 +889,7 @@
   },
   {
     "id": 74,
-    "video": "ssv2_VP_default/left/153682.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/153682.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -901,7 +901,7 @@
   },
   {
     "id": 75,
-    "video": "ssv2_VP_default/left/155923.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/155923.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -913,7 +913,7 @@
   },
   {
     "id": 76,
-    "video": "ssv2_VP_default/left/156523.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/156523.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -925,7 +925,7 @@
   },
   {
     "id": 77,
-    "video": "ssv2_VP_default/left/156905.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/156905.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -937,7 +937,7 @@
   },
   {
     "id": 78,
-    "video": "ssv2_VP_default/left/158294.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/158294.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -949,7 +949,7 @@
   },
   {
     "id": 79,
-    "video": "ssv2_VP_default/left/158341.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/158341.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -961,7 +961,7 @@
   },
   {
     "id": 80,
-    "video": "ssv2_VP_default/left/158343.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/158343.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -973,7 +973,7 @@
   },
   {
     "id": 81,
-    "video": "ssv2_VP_default/left/158690.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/158690.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -985,7 +985,7 @@
   },
   {
     "id": 82,
-    "video": "ssv2_VP_default/left/158936.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/158936.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -997,7 +997,7 @@
   },
   {
     "id": 83,
-    "video": "ssv2_VP_default/left/159264.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/159264.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 84,
-    "video": "ssv2_VP_default/left/160452.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/160452.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 85,
-    "video": "ssv2_VP_default/left/161029.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/161029.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1033,7 +1033,7 @@
   },
   {
     "id": 86,
-    "video": "ssv2_VP_default/left/161659.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/161659.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1045,7 +1045,7 @@
   },
   {
     "id": 87,
-    "video": "ssv2_VP_default/left/161930.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/161930.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1057,7 +1057,7 @@
   },
   {
     "id": 88,
-    "video": "ssv2_VP_default/left/16215.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/16215.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1069,7 +1069,7 @@
   },
   {
     "id": 89,
-    "video": "ssv2_VP_default/left/162338.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/162338.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 90,
-    "video": "ssv2_VP_default/left/163169.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/163169.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 91,
-    "video": "ssv2_VP_default/left/164036.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/164036.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1105,7 +1105,7 @@
   },
   {
     "id": 92,
-    "video": "ssv2_VP_default/left/16459.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/16459.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1117,7 +1117,7 @@
   },
   {
     "id": 93,
-    "video": "ssv2_VP_default/left/165705.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/165705.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1129,7 +1129,7 @@
   },
   {
     "id": 94,
-    "video": "ssv2_VP_default/left/165799.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/165799.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1141,7 +1141,7 @@
   },
   {
     "id": 95,
-    "video": "ssv2_VP_default/left/166205.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/166205.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1153,7 +1153,7 @@
   },
   {
     "id": 96,
-    "video": "ssv2_VP_default/left/166237.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/166237.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1165,7 +1165,7 @@
   },
   {
     "id": 97,
-    "video": "ssv2_VP_default/left/166562.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/166562.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1177,7 +1177,7 @@
   },
   {
     "id": 98,
-    "video": "ssv2_VP_default/left/167119.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/167119.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1189,7 +1189,7 @@
   },
   {
     "id": 99,
-    "video": "ssv2_VP_default/left/167711.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/167711.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1201,7 +1201,7 @@
   },
   {
     "id": 100,
-    "video": "ssv2_VP_default/left/168785.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/168785.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1213,7 +1213,7 @@
   },
   {
     "id": 101,
-    "video": "ssv2_VP_default/left/170007.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/170007.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1225,7 +1225,7 @@
   },
   {
     "id": 102,
-    "video": "ssv2_VP_default/left/170243.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/170243.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1237,7 +1237,7 @@
   },
   {
     "id": 103,
-    "video": "ssv2_VP_default/left/170849.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/170849.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1249,7 +1249,7 @@
   },
   {
     "id": 104,
-    "video": "ssv2_VP_default/left/171612.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/171612.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1261,7 +1261,7 @@
   },
   {
     "id": 105,
-    "video": "ssv2_VP_default/left/171933.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/171933.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1273,7 +1273,7 @@
   },
   {
     "id": 106,
-    "video": "ssv2_VP_default/left/173735.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/173735.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1285,7 +1285,7 @@
   },
   {
     "id": 107,
-    "video": "ssv2_VP_default/left/174599.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/174599.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1297,7 +1297,7 @@
   },
   {
     "id": 108,
-    "video": "ssv2_VP_default/left/174768.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/174768.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1309,7 +1309,7 @@
   },
   {
     "id": 109,
-    "video": "ssv2_VP_default/left/175186.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/175186.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 110,
-    "video": "ssv2_VP_default/left/175308.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/175308.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1333,7 +1333,7 @@
   },
   {
     "id": 111,
-    "video": "ssv2_VP_default/left/175372.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/175372.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 112,
-    "video": "ssv2_VP_default/left/175742.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/175742.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1357,7 +1357,7 @@
   },
   {
     "id": 113,
-    "video": "ssv2_VP_default/left/176994.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/176994.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1369,7 +1369,7 @@
   },
   {
     "id": 114,
-    "video": "ssv2_VP_default/left/177883.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/177883.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1381,7 +1381,7 @@
   },
   {
     "id": 115,
-    "video": "ssv2_VP_default/left/178054.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/178054.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1393,7 +1393,7 @@
   },
   {
     "id": 116,
-    "video": "ssv2_VP_default/left/179039.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/179039.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1405,7 +1405,7 @@
   },
   {
     "id": 117,
-    "video": "ssv2_VP_default/left/180070.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/180070.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1417,7 +1417,7 @@
   },
   {
     "id": 118,
-    "video": "ssv2_VP_default/left/181899.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/181899.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1429,7 +1429,7 @@
   },
   {
     "id": 119,
-    "video": "ssv2_VP_default/left/182096.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/182096.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1441,7 +1441,7 @@
   },
   {
     "id": 120,
-    "video": "ssv2_VP_default/left/183131.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/183131.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1453,7 +1453,7 @@
   },
   {
     "id": 121,
-    "video": "ssv2_VP_default/left/183708.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/183708.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1465,7 +1465,7 @@
   },
   {
     "id": 122,
-    "video": "ssv2_VP_default/left/183980.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/183980.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1477,7 +1477,7 @@
   },
   {
     "id": 123,
-    "video": "ssv2_VP_default/left/184721.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/184721.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1489,7 +1489,7 @@
   },
   {
     "id": 124,
-    "video": "ssv2_VP_default/left/185083.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/185083.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1501,7 +1501,7 @@
   },
   {
     "id": 125,
-    "video": "ssv2_VP_default/left/186734.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/186734.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1513,7 +1513,7 @@
   },
   {
     "id": 126,
-    "video": "ssv2_VP_default/left/188257.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/188257.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1525,7 +1525,7 @@
   },
   {
     "id": 127,
-    "video": "ssv2_VP_default/left/188665.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/188665.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1537,7 +1537,7 @@
   },
   {
     "id": 128,
-    "video": "ssv2_VP_default/left/18893.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/18893.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1549,7 +1549,7 @@
   },
   {
     "id": 129,
-    "video": "ssv2_VP_default/left/192254.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/192254.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": 130,
-    "video": "ssv2_VP_default/left/195177.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/195177.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1573,7 +1573,7 @@
   },
   {
     "id": 131,
-    "video": "ssv2_VP_default/left/197574.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/197574.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1585,7 +1585,7 @@
   },
   {
     "id": 132,
-    "video": "ssv2_VP_default/left/200484.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/200484.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1597,7 +1597,7 @@
   },
   {
     "id": 133,
-    "video": "ssv2_VP_default/left/200667.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/200667.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1609,7 +1609,7 @@
   },
   {
     "id": 134,
-    "video": "ssv2_VP_default/left/2022.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/2022.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1621,7 +1621,7 @@
   },
   {
     "id": 135,
-    "video": "ssv2_VP_default/left/205013.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/205013.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1633,7 +1633,7 @@
   },
   {
     "id": 136,
-    "video": "ssv2_VP_default/left/205686.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/205686.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1645,7 +1645,7 @@
   },
   {
     "id": 137,
-    "video": "ssv2_VP_default/left/208718.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/208718.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1657,7 +1657,7 @@
   },
   {
     "id": 138,
-    "video": "ssv2_VP_default/left/209704.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/209704.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1669,7 +1669,7 @@
   },
   {
     "id": 139,
-    "video": "ssv2_VP_default/left/210441.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/210441.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 140,
-    "video": "ssv2_VP_default/left/210472.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/210472.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1693,7 +1693,7 @@
   },
   {
     "id": 141,
-    "video": "ssv2_VP_default/left/212164.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/212164.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1705,7 +1705,7 @@
   },
   {
     "id": 142,
-    "video": "ssv2_VP_default/left/212936.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/212936.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1717,7 +1717,7 @@
   },
   {
     "id": 143,
-    "video": "ssv2_VP_default/left/216532.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/216532.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1729,7 +1729,7 @@
   },
   {
     "id": 144,
-    "video": "ssv2_VP_default/left/21664.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/21664.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1741,7 +1741,7 @@
   },
   {
     "id": 145,
-    "video": "ssv2_VP_default/left/216772.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/216772.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1753,7 +1753,7 @@
   },
   {
     "id": 146,
-    "video": "ssv2_VP_default/left/217376.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/217376.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1765,7 +1765,7 @@
   },
   {
     "id": 147,
-    "video": "ssv2_VP_default/left/217620.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/217620.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1777,7 +1777,7 @@
   },
   {
     "id": 148,
-    "video": "ssv2_VP_default/left/220302.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/220302.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1789,7 +1789,7 @@
   },
   {
     "id": 149,
-    "video": "ssv2_VP_default/left/220825.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/220825.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1801,7 +1801,7 @@
   },
   {
     "id": 150,
-    "video": "ssv2_VP_default/left/23202.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/23202.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1813,7 +1813,7 @@
   },
   {
     "id": 151,
-    "video": "ssv2_VP_default/left/2322.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/2322.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1825,7 +1825,7 @@
   },
   {
     "id": 152,
-    "video": "ssv2_VP_default/left/23720.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/23720.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1837,7 +1837,7 @@
   },
   {
     "id": 153,
-    "video": "ssv2_VP_default/left/24815.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/24815.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1849,7 +1849,7 @@
   },
   {
     "id": 154,
-    "video": "ssv2_VP_default/left/24879.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/24879.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1861,7 +1861,7 @@
   },
   {
     "id": 155,
-    "video": "ssv2_VP_default/left/28528.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/28528.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1873,7 +1873,7 @@
   },
   {
     "id": 156,
-    "video": "ssv2_VP_default/left/28806.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/28806.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1885,7 +1885,7 @@
   },
   {
     "id": 157,
-    "video": "ssv2_VP_default/left/28905.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/28905.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1897,7 +1897,7 @@
   },
   {
     "id": 158,
-    "video": "ssv2_VP_default/left/29373.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/29373.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1909,7 +1909,7 @@
   },
   {
     "id": 159,
-    "video": "ssv2_VP_default/left/29583.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/29583.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1921,7 +1921,7 @@
   },
   {
     "id": 160,
-    "video": "ssv2_VP_default/left/29941.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/29941.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1933,7 +1933,7 @@
   },
   {
     "id": 161,
-    "video": "ssv2_VP_default/left/30316.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/30316.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1945,7 +1945,7 @@
   },
   {
     "id": 162,
-    "video": "ssv2_VP_default/left/31658.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/31658.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1957,7 +1957,7 @@
   },
   {
     "id": 163,
-    "video": "ssv2_VP_default/left/33581.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/33581.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1969,7 +1969,7 @@
   },
   {
     "id": 164,
-    "video": "ssv2_VP_default/left/34674.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/34674.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -1981,7 +1981,7 @@
   },
   {
     "id": 165,
-    "video": "ssv2_VP_default/left/35939.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/35939.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -1993,7 +1993,7 @@
   },
   {
     "id": 166,
-    "video": "ssv2_VP_default/left/36460.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/36460.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2005,7 +2005,7 @@
   },
   {
     "id": 167,
-    "video": "ssv2_VP_default/left/36558.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/36558.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2017,7 +2017,7 @@
   },
   {
     "id": 168,
-    "video": "ssv2_VP_default/left/37066.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/37066.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2029,7 +2029,7 @@
   },
   {
     "id": 169,
-    "video": "ssv2_VP_default/left/37611.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/37611.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2041,7 +2041,7 @@
   },
   {
     "id": 170,
-    "video": "ssv2_VP_default/left/37928.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/37928.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2053,7 +2053,7 @@
   },
   {
     "id": 171,
-    "video": "ssv2_VP_default/left/38085.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/38085.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2065,7 +2065,7 @@
   },
   {
     "id": 172,
-    "video": "ssv2_VP_default/left/38932.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/38932.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2077,7 +2077,7 @@
   },
   {
     "id": 173,
-    "video": "ssv2_VP_default/left/39006.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/39006.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2089,7 +2089,7 @@
   },
   {
     "id": 174,
-    "video": "ssv2_VP_default/left/39756.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/39756.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2101,7 +2101,7 @@
   },
   {
     "id": 175,
-    "video": "ssv2_VP_default/left/42661.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/42661.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2113,7 +2113,7 @@
   },
   {
     "id": 176,
-    "video": "ssv2_VP_default/left/4378.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/4378.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2125,7 +2125,7 @@
   },
   {
     "id": 177,
-    "video": "ssv2_VP_default/left/44811.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/44811.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2137,7 +2137,7 @@
   },
   {
     "id": 178,
-    "video": "ssv2_VP_default/left/47589.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/47589.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2149,7 +2149,7 @@
   },
   {
     "id": 179,
-    "video": "ssv2_VP_default/left/47769.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/47769.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2161,7 +2161,7 @@
   },
   {
     "id": 180,
-    "video": "ssv2_VP_default/left/48456.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/48456.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2173,7 +2173,7 @@
   },
   {
     "id": 181,
-    "video": "ssv2_VP_default/left/5009.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/5009.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2185,7 +2185,7 @@
   },
   {
     "id": 182,
-    "video": "ssv2_VP_default/left/50395.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/50395.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2197,7 +2197,7 @@
   },
   {
     "id": 183,
-    "video": "ssv2_VP_default/left/50980.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/50980.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2209,7 +2209,7 @@
   },
   {
     "id": 184,
-    "video": "ssv2_VP_default/left/5118.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/5118.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2221,7 +2221,7 @@
   },
   {
     "id": 185,
-    "video": "ssv2_VP_default/left/51695.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/51695.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2233,7 +2233,7 @@
   },
   {
     "id": 186,
-    "video": "ssv2_VP_default/left/52114.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/52114.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2245,7 +2245,7 @@
   },
   {
     "id": 187,
-    "video": "ssv2_VP_default/left/52769.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/52769.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2257,7 +2257,7 @@
   },
   {
     "id": 188,
-    "video": "ssv2_VP_default/left/53898.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/53898.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2269,7 +2269,7 @@
   },
   {
     "id": 189,
-    "video": "ssv2_VP_default/left/54935.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/54935.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2281,7 +2281,7 @@
   },
   {
     "id": 190,
-    "video": "ssv2_VP_default/left/55799.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/55799.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2293,7 +2293,7 @@
   },
   {
     "id": 191,
-    "video": "ssv2_VP_default/left/59986.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/59986.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2305,7 +2305,7 @@
   },
   {
     "id": 192,
-    "video": "ssv2_VP_default/left/60477.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/60477.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2317,7 +2317,7 @@
   },
   {
     "id": 193,
-    "video": "ssv2_VP_default/left/60599.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/60599.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2329,7 +2329,7 @@
   },
   {
     "id": 194,
-    "video": "ssv2_VP_default/left/61568.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/61568.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2341,7 +2341,7 @@
   },
   {
     "id": 195,
-    "video": "ssv2_VP_default/left/62117.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/62117.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2353,7 +2353,7 @@
   },
   {
     "id": 196,
-    "video": "ssv2_VP_default/left/62873.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/62873.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2365,7 +2365,7 @@
   },
   {
     "id": 197,
-    "video": "ssv2_VP_default/left/63956.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/63956.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2377,7 +2377,7 @@
   },
   {
     "id": 198,
-    "video": "ssv2_VP_default/left/64810.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/64810.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2389,7 +2389,7 @@
   },
   {
     "id": 199,
-    "video": "ssv2_VP_default/left/6482.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/6482.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2401,7 +2401,7 @@
   },
   {
     "id": 200,
-    "video": "ssv2_VP_default/left/65413.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/65413.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2413,7 +2413,7 @@
   },
   {
     "id": 201,
-    "video": "ssv2_VP_default/left/6551.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/6551.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2425,7 +2425,7 @@
   },
   {
     "id": 202,
-    "video": "ssv2_VP_default/left/67341.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/67341.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2437,7 +2437,7 @@
   },
   {
     "id": 203,
-    "video": "ssv2_VP_default/left/67640.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/67640.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2449,7 +2449,7 @@
   },
   {
     "id": 204,
-    "video": "ssv2_VP_default/left/68610.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/68610.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2461,7 +2461,7 @@
   },
   {
     "id": 205,
-    "video": "ssv2_VP_default/left/68874.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/68874.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2473,7 +2473,7 @@
   },
   {
     "id": 206,
-    "video": "ssv2_VP_default/left/69064.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/69064.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2485,7 +2485,7 @@
   },
   {
     "id": 207,
-    "video": "ssv2_VP_default/left/6934.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/6934.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2497,7 +2497,7 @@
   },
   {
     "id": 208,
-    "video": "ssv2_VP_default/left/69501.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/69501.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2509,7 +2509,7 @@
   },
   {
     "id": 209,
-    "video": "ssv2_VP_default/left/69702.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/69702.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2521,7 +2521,7 @@
   },
   {
     "id": 210,
-    "video": "ssv2_VP_default/left/71054.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/71054.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2533,7 +2533,7 @@
   },
   {
     "id": 211,
-    "video": "ssv2_VP_default/left/71176.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/71176.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2545,7 +2545,7 @@
   },
   {
     "id": 212,
-    "video": "ssv2_VP_default/left/72452.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/72452.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2557,7 +2557,7 @@
   },
   {
     "id": 213,
-    "video": "ssv2_VP_default/left/72766.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/72766.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2569,7 +2569,7 @@
   },
   {
     "id": 214,
-    "video": "ssv2_VP_default/left/72913.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/72913.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2581,7 +2581,7 @@
   },
   {
     "id": 215,
-    "video": "ssv2_VP_default/left/74414.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/74414.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2593,7 +2593,7 @@
   },
   {
     "id": 216,
-    "video": "ssv2_VP_default/left/74719.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/74719.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2605,7 +2605,7 @@
   },
   {
     "id": 217,
-    "video": "ssv2_VP_default/left/77092.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/77092.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2617,7 +2617,7 @@
   },
   {
     "id": 218,
-    "video": "ssv2_VP_default/left/77440.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/77440.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2629,7 +2629,7 @@
   },
   {
     "id": 219,
-    "video": "ssv2_VP_default/left/77707.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/77707.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2641,7 +2641,7 @@
   },
   {
     "id": 220,
-    "video": "ssv2_VP_default/left/78494.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/78494.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2653,7 +2653,7 @@
   },
   {
     "id": 221,
-    "video": "ssv2_VP_default/left/79981.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/79981.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2665,7 +2665,7 @@
   },
   {
     "id": 222,
-    "video": "ssv2_VP_default/left/80326.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/80326.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2677,7 +2677,7 @@
   },
   {
     "id": 223,
-    "video": "ssv2_VP_default/left/81972.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/81972.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2689,7 +2689,7 @@
   },
   {
     "id": 224,
-    "video": "ssv2_VP_default/left/82586.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/82586.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2701,7 +2701,7 @@
   },
   {
     "id": 225,
-    "video": "ssv2_VP_default/left/83769.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/83769.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2713,7 +2713,7 @@
   },
   {
     "id": 226,
-    "video": "ssv2_VP_default/left/84104.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/84104.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2725,7 +2725,7 @@
   },
   {
     "id": 227,
-    "video": "ssv2_VP_default/left/85114.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/85114.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2737,7 +2737,7 @@
   },
   {
     "id": 228,
-    "video": "ssv2_VP_default/left/86574.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/86574.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2749,7 +2749,7 @@
   },
   {
     "id": 229,
-    "video": "ssv2_VP_default/left/87997.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/87997.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2761,7 +2761,7 @@
   },
   {
     "id": 230,
-    "video": "ssv2_VP_default/left/90357.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/90357.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2773,7 +2773,7 @@
   },
   {
     "id": 231,
-    "video": "ssv2_VP_default/left/90646.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/90646.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2785,7 +2785,7 @@
   },
   {
     "id": 232,
-    "video": "ssv2_VP_default/left/91798.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/91798.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2797,7 +2797,7 @@
   },
   {
     "id": 233,
-    "video": "ssv2_VP_default/left/92628.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/92628.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2809,7 +2809,7 @@
   },
   {
     "id": 234,
-    "video": "ssv2_VP_default/left/93164.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/93164.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2821,7 +2821,7 @@
   },
   {
     "id": 235,
-    "video": "ssv2_VP_default/left/93619.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/93619.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2833,7 +2833,7 @@
   },
   {
     "id": 236,
-    "video": "ssv2_VP_default/left/93868.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/93868.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2845,7 +2845,7 @@
   },
   {
     "id": 237,
-    "video": "ssv2_VP_default/left/96092.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/96092.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2857,7 +2857,7 @@
   },
   {
     "id": 238,
-    "video": "ssv2_VP_default/left/96417.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/96417.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2869,7 +2869,7 @@
   },
   {
     "id": 239,
-    "video": "ssv2_VP_default/left/9705.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/9705.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2881,7 +2881,7 @@
   },
   {
     "id": 240,
-    "video": "ssv2_VP_default/left/97982.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/97982.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2893,7 +2893,7 @@
   },
   {
     "id": 241,
-    "video": "ssv2_VP_default/left/98012.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/98012.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2905,7 +2905,7 @@
   },
   {
     "id": 242,
-    "video": "ssv2_VP_default/left/98361.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/98361.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2917,7 +2917,7 @@
   },
   {
     "id": 243,
-    "video": "ssv2_VP_default/left/98603.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/98603.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2929,7 +2929,7 @@
   },
   {
     "id": 244,
-    "video": "ssv2_VP_default/left/98800.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/98800.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2941,7 +2941,7 @@
   },
   {
     "id": 245,
-    "video": "ssv2_VP_default/left/99174.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/99174.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2953,7 +2953,7 @@
   },
   {
     "id": 246,
-    "video": "ssv2_VP_default/left/9928.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/9928.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2965,7 +2965,7 @@
   },
   {
     "id": 247,
-    "video": "ssv2_VP_default/left/99760.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/99760.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Right",
@@ -2977,7 +2977,7 @@
   },
   {
     "id": 248,
-    "video": "ssv2_VP_default/left/99838.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/99838.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
@@ -2989,7 +2989,7 @@
   },
   {
     "id": 249,
-    "video": "ssv2_VP_default/left/99986.mp4",
+    "video": "ssv2_VP/ssv2_VP_default/left/99986.mp4",
     "question": "From the viewer's perspective, in which direction is the object moving in this video?",
     "candidates": [
       "Left",
