@@ -244,7 +244,7 @@ def main():
             }
 
             if args.save_format == "per_video":
-                save_path = os.path.join(args.output_dir,'features' f"{vid_id}.pt")
+                save_path = os.path.join(args.output_dir,'features', f"{vid_id}.pt")
                 if args.skip_existing and os.path.exists(save_path):
                     continue
                 torch.save(result, save_path)

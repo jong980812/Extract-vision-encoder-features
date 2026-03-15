@@ -315,7 +315,7 @@ def main():
     print(classification_report(best_labels, best_preds, target_names=target_names))
 
     # --- Save results ---
-    output_dir = args.output_dir or os.path.join(args.feature_dir, "probe_results")
+    output_dir = args.output_dir or os.path.join(os.path.dirname(args.feature_dir), "probe_results",args.pool_mode)
     os.makedirs(output_dir, exist_ok=True)
 
     results = {
