@@ -15,6 +15,10 @@ Pooling modes:
     mean:   (num_frames, num_patches, D) → mean over frames & patches → (D,)
     concat: (num_frames, num_patches, D) → mean over patches, concat frames → (num_frames * D,)
              ※ preserves temporal order but feature dim gets large
+    cls:    CLS tokens (num_frames, D) → concat → (num_frames * D,)
+             ※ CLIP only — uses CLS token as per-frame representation for temporal concat
+    concat_full: (num_frames, num_patches, D) → flatten → (num_frames * num_patches * D,)
+             ※ spatial mean 없이 전체 patch를 temporal concat. dim이 크므로 spatial_pool_stride 필요
 """
 
 import argparse
@@ -63,27 +67,60 @@ class FeatureDataset(Dataset):
         return len(self.annotations)
 
     def _pool_features(self, features: torch.Tensor, cls_tokens: torch.Tensor = None) -> torch.Tensor:
+        """
+        Args:
+            features: (num_frames, num_patches, hidden_size)
+            cls_tokens: (num_frames, hidden_size) — only for pool_mode="cls" (CLIP only)
+
+        Returns:
+            pooled: (feature_dim,)
+                mean:   (hidden_size,)
+                concat: (num_frames * hidden_size,)
+                cls:    (num_frames * hidden_size,)
+        """
         if self.pool_mode == "mean":
+            # (num_frames, num_patches, D) → (D,)
             return features.mean(dim=0).mean(dim=0)
+
         elif self.pool_mode == "concat":
+            # (num_frames, num_patches, D) → spatial mean → (num_frames, D) → flatten → (num_frames * D,)
             return features.mean(dim=1).flatten()
+
         elif self.pool_mode == "cls":
-            assert cls_tokens is not None, "cls pool_mode requires cls_tokens in .pt file (CLIP only)"
-            return cls_tokens.flatten()  # (num_frames, D) → (num_frames * D,)
+            # CLS token concat: (num_frames, D) → flatten → (num_frames * D,)
+            assert cls_tokens is not None, (
+                "pool_mode='cls' requires 'cls_tokens' in .pt file. "
+                "This is only available for CLIP features."
+            )
+            return cls_tokens.flatten()
+
+        elif self.pool_mode == "concat_full":
+            # (num_frames, num_patches, D) → flatten → (num_frames * num_patches * D,)
+            return features.flatten()
+
         else:
             raise ValueError(f"Unknown pool_mode: {self.pool_mode}")
 
     def __getitem__(self, idx):
         ann = self.annotations[idx]
         sample_id = ann[self.id_key]
+
+        # Load .pt
         pt_path = os.path.join(self.feature_dir, f"{sample_id}.pt")
         data = torch.load(pt_path, map_location="cpu", weights_only=False)
-        features = data["features"]
+        features = data["features"]  # (num_frames, num_patches, hidden)
+
+        # CLS tokens (only present for CLIP features)
         cls_tokens = data.get("cls_tokens", None)  # (num_frames, D) or None
         if cls_tokens is not None:
             cls_tokens = cls_tokens.float()
+
+        # Pool
         pooled = self._pool_features(features.float(), cls_tokens=cls_tokens)
+
+        # Label
         label = self.label_to_idx[ann[self.label_key]]
+
         return pooled, label
 
 
@@ -155,13 +192,14 @@ def parse_args():
                         help="JSON key for class label (e.g., 'answer', 'direction', 'answer_text')")
     parser.add_argument("--id_key", type=str, default="id",
                         help="JSON key for sample ID")
-
     # Pooling
     parser.add_argument("--pool_mode", type=str, default="mean",
-                        choices=["mean", "concat", "cls"],
+                        choices=["mean", "concat", "cls", "concat_full"],
                         help="mean: temporal+spatial mean → (D,). "
                              "concat: spatial mean then concat frames → (num_frames*D,). "
-                             "cls: concat CLS tokens across frames → (num_frames*D,) (CLIP only)")
+                             "cls: concat CLS tokens across frames → (num_frames*D,) (CLIP only). "
+                             "concat_full: no spatial mean, full flatten → (num_frames*num_patches*D,)")
+
 
     # Split
     parser.add_argument("--train_ratio", type=float, default=0.8,
@@ -239,6 +277,8 @@ def main():
         feature_dim = hidden_size
     elif args.pool_mode in ("concat", "cls"):
         feature_dim = num_frames * hidden_size
+    elif args.pool_mode == "concat_full":
+        feature_dim = num_frames * num_patches * hidden_size
     else:
         raise ValueError(f"Unknown pool_mode: {args.pool_mode}")
 
@@ -299,7 +339,9 @@ def main():
     print(f"{'='*60}")
 
     target_names = [idx_to_label[i] for i in range(num_classes)]
-    print(classification_report(best_labels, best_preds, target_names=target_names))
+    report_str = classification_report(best_labels, best_preds, target_names=target_names)
+    report_dict = classification_report(best_labels, best_preds, target_names=target_names, output_dict=True)
+    print(report_str)
 
     # --- Save results ---
     output_dir = args.output_dir or os.path.join(os.path.dirname(args.feature_dir), "probe_results",args.pool_mode)
