@@ -219,6 +219,12 @@ def main():
         # Encode all frames in batch at once
         features = encoder.encode_images(pixel_values)  # (total_frames, num_patches, hidden_size)
 
+        # For CLIP: also retrieve CLS tokens (cached during encode_images)
+        cls_tokens = None
+        if hasattr(encoder, 'get_last_cls_tokens'):
+            cls_tokens = encoder.get_last_cls_tokens()  # (total_frames, 1, D)
+            cls_tokens = cls_tokens.squeeze(1)            # (total_frames, D)
+
         # Apply spatial pooling per video (each video may have different frame counts)
         if args.spatial_pool_stride > 1:
             features = spatial_pool_2d(
@@ -231,9 +237,15 @@ def main():
         # Split features back to per-video
         per_video_features = torch.split(features, frame_counts, dim=0)
 
+        # Split CLS tokens per-video (only for CLIP)
+        if cls_tokens is not None:
+            per_video_cls = torch.split(cls_tokens, frame_counts, dim=0)
+        else:
+            per_video_cls = [None] * len(ids)
+
         # Save per video
-        for i, (vid_id, vid_features, vid_path, meta) in enumerate(
-            zip(ids, per_video_features, video_paths, metadata)
+        for i, (vid_id, vid_features, vid_path, meta, vid_cls) in enumerate(
+            zip(ids, per_video_features, video_paths, metadata, per_video_cls)
         ):
             result = {
                 "features": vid_features.cpu(),   # (num_frames, num_patches, hidden_size)
@@ -242,7 +254,9 @@ def main():
                 "num_frames": vid_features.shape[0],
                 "metadata": meta,
             }
-
+            # Save CLS tokens separately for temporal representation experiments
+            if vid_cls is not None:
+                result["cls_tokens"] = vid_cls.cpu()  # (num_frames, hidden_size)
             if args.save_format == "per_video":
                 save_path = os.path.join(args.output_dir,'features', f"{vid_id}.pt")
                 if args.skip_existing and os.path.exists(save_path):

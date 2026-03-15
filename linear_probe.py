@@ -62,42 +62,28 @@ class FeatureDataset(Dataset):
     def __len__(self):
         return len(self.annotations)
 
-    def _pool_features(self, features: torch.Tensor) -> torch.Tensor:
-        """
-        Args:
-            features: (num_frames, num_patches, hidden_size)
-
-        Returns:
-            pooled: (feature_dim,)
-                mean:   (hidden_size,)
-                concat: (num_frames * hidden_size,)
-        """
+    def _pool_features(self, features: torch.Tensor, cls_tokens: torch.Tensor = None) -> torch.Tensor:
         if self.pool_mode == "mean":
-            # (num_frames, num_patches, D) → (D,)
             return features.mean(dim=0).mean(dim=0)
-
         elif self.pool_mode == "concat":
-            # (num_frames, num_patches, D) → spatial mean → (num_frames, D) → flatten → (num_frames * D,)
             return features.mean(dim=1).flatten()
-
+        elif self.pool_mode == "cls":
+            assert cls_tokens is not None, "cls pool_mode requires cls_tokens in .pt file (CLIP only)"
+            return cls_tokens.flatten()  # (num_frames, D) → (num_frames * D,)
         else:
             raise ValueError(f"Unknown pool_mode: {self.pool_mode}")
 
     def __getitem__(self, idx):
         ann = self.annotations[idx]
         sample_id = ann[self.id_key]
-
-        # Load .pt
         pt_path = os.path.join(self.feature_dir, f"{sample_id}.pt")
         data = torch.load(pt_path, map_location="cpu", weights_only=False)
-        features = data["features"]  # (num_frames, num_patches, hidden)
-
-        # Pool
-        pooled = self._pool_features(features.float())
-
-        # Label
+        features = data["features"]
+        cls_tokens = data.get("cls_tokens", None)  # (num_frames, D) or None
+        if cls_tokens is not None:
+            cls_tokens = cls_tokens.float()
+        pooled = self._pool_features(features.float(), cls_tokens=cls_tokens)
         label = self.label_to_idx[ann[self.label_key]]
-
         return pooled, label
 
 
@@ -172,9 +158,10 @@ def parse_args():
 
     # Pooling
     parser.add_argument("--pool_mode", type=str, default="mean",
-                        choices=["mean", "concat"],
+                        choices=["mean", "concat", "cls"],
                         help="mean: temporal+spatial mean → (D,). "
-                             "concat: spatial mean then concat frames → (num_frames*D,)")
+                             "concat: spatial mean then concat frames → (num_frames*D,). "
+                             "cls: concat CLS tokens across frames → (num_frames*D,) (CLIP only)")
 
     # Split
     parser.add_argument("--train_ratio", type=float, default=0.8,
@@ -250,7 +237,7 @@ def main():
 
     if args.pool_mode == "mean":
         feature_dim = hidden_size
-    elif args.pool_mode == "concat":
+    elif args.pool_mode in ("concat", "cls"):
         feature_dim = num_frames * hidden_size
     else:
         raise ValueError(f"Unknown pool_mode: {args.pool_mode}")
