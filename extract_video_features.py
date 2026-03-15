@@ -138,6 +138,7 @@ def main():
 
     # --- 1. Setup output directory ---
     os.makedirs(args.output_dir, exist_ok=True)
+    os.makedirs(os.path.join(args.output_dir,'features'), exist_ok=True)
 
     # --- 2. Build vision encoder ---
     dtype = get_dtype(args.dtype)
@@ -243,7 +244,7 @@ def main():
             }
 
             if args.save_format == "per_video":
-                save_path = os.path.join(args.output_dir, f"{vid_id}.pt")
+                save_path = os.path.join(args.output_dir,'features' f"{vid_id}.pt")
                 if args.skip_existing and os.path.exists(save_path):
                     continue
                 torch.save(result, save_path)
@@ -254,7 +255,7 @@ def main():
 
     # Save all at once if single mode
     if args.save_format == "single":
-        save_path = os.path.join(args.output_dir, "all_features.pt")
+        save_path = os.path.join(args.output_dir, 'features',"all_features.pt")
         torch.save(all_results, save_path)
         print(f"\n[Save] All features saved to {save_path}")
 
