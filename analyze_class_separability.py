@@ -72,14 +72,21 @@ def load_features_by_class(feature_dir: str, json_path: str,
 
         data = torch.load(pt_path, map_location="cpu", weights_only=False)
         feat = data["features"].float()  # (T, num_patches, D)
-
-        # Spatial mean pool: (T, num_patches, D) → (T, D)
-        feat = feat.mean(dim=1)
+        cls_tokens = data.get("cls_tokens", None)  # (T, D) or None
+        if cls_tokens is not None:
+            cls_tokens = cls_tokens.float()
 
         if pool_mode == "mean":
-            pooled = feat.mean(dim=0)  # (D,)
+            pooled = feat.mean(dim=1).mean(dim=0)  # (D,)
         elif pool_mode == "concat":
-            pooled = feat.flatten()  # (T*D,)
+            pooled = feat.mean(dim=1).flatten()  # (T*D,)
+        elif pool_mode == "cls":
+            assert cls_tokens is not None, (
+                "pool_mode='cls' requires 'cls_tokens' in .pt file (CLIP only)"
+            )
+            pooled = cls_tokens.flatten()  # (T*D,)
+        elif pool_mode == "concat_full":
+            pooled = feat.flatten()  # (T*N*D,)
         else:
             raise ValueError(f"Unknown pool_mode: {pool_mode}")
 
@@ -282,7 +289,7 @@ def parse_args():
     parser.add_argument("--label_key", type=str, default="answer")
     parser.add_argument("--id_key", type=str, default="id")
     parser.add_argument("--pool_mode", type=str, default="concat",
-                        choices=["mean", "concat"],
+                        choices=["mean", "concat", "cls", "concat_full"],
                         help="Feature pooling before analysis")
     parser.add_argument("--output_dir", type=str, default=None)
 

@@ -1,0 +1,4410 @@
+[
+  {
+    "id": 0,
+    "video": "119909.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 1,
+    "video": "66033.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2,
+    "video": "90416.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3,
+    "video": "50667.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 4,
+    "video": "68194.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 5,
+    "video": "9082.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 6,
+    "video": "103335.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 7,
+    "video": "63577.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 8,
+    "video": "91929.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 9,
+    "video": "200289.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 10,
+    "video": "196603.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 11,
+    "video": "107964.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 12,
+    "video": "124465.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 13,
+    "video": "27391.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 14,
+    "video": "64109.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 15,
+    "video": "120051.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 16,
+    "video": "100895.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 17,
+    "video": "90580.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 18,
+    "video": "157209.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 19,
+    "video": "87365.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 20,
+    "video": "115871.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 21,
+    "video": "149744.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 22,
+    "video": "91804.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 23,
+    "video": "35261.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 24,
+    "video": "62246.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 25,
+    "video": "206761.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 26,
+    "video": "100985.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 27,
+    "video": "86732.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 28,
+    "video": "84241.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 29,
+    "video": "56932.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 30,
+    "video": "204132.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 31,
+    "video": "199835.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 32,
+    "video": "126653.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 33,
+    "video": "200581.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 34,
+    "video": "50426.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 35,
+    "video": "204846.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 36,
+    "video": "9000.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 37,
+    "video": "132911.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 38,
+    "video": "75048.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 39,
+    "video": "80082.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 40,
+    "video": "176916.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 41,
+    "video": "97997.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 42,
+    "video": "116832.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 43,
+    "video": "146378.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 44,
+    "video": "38962.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 45,
+    "video": "164564.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 46,
+    "video": "2824.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 47,
+    "video": "92169.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 48,
+    "video": "145906.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 49,
+    "video": "97151.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 50,
+    "video": "216438.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 51,
+    "video": "201941.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 52,
+    "video": "126327.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 53,
+    "video": "6784.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 54,
+    "video": "150699.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 55,
+    "video": "143054.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 56,
+    "video": "23950.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 57,
+    "video": "46636.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 58,
+    "video": "17327.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 59,
+    "video": "138584.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 60,
+    "video": "126390.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 61,
+    "video": "11546.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 62,
+    "video": "102330.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 63,
+    "video": "107334.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 64,
+    "video": "193089.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 65,
+    "video": "52076.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 66,
+    "video": "87923.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 67,
+    "video": "18522.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 68,
+    "video": "146999.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 69,
+    "video": "214160.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 70,
+    "video": "119077.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 71,
+    "video": "189790.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 72,
+    "video": "201776.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 73,
+    "video": "103294.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 74,
+    "video": "163502.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 75,
+    "video": "60151.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 76,
+    "video": "54559.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 77,
+    "video": "121388.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 78,
+    "video": "35303.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 79,
+    "video": "136467.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 80,
+    "video": "155890.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 81,
+    "video": "69628.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 82,
+    "video": "40997.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 83,
+    "video": "207409.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 84,
+    "video": "34495.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 85,
+    "video": "177512.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 86,
+    "video": "60341.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 87,
+    "video": "204241.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 88,
+    "video": "125440.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 89,
+    "video": "117782.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 90,
+    "video": "93052.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 91,
+    "video": "170164.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 92,
+    "video": "104048.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 93,
+    "video": "187694.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 94,
+    "video": "199946.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 95,
+    "video": "7775.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 96,
+    "video": "113513.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 97,
+    "video": "63260.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 98,
+    "video": "152776.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 99,
+    "video": "45920.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 100,
+    "video": "79968.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 101,
+    "video": "30455.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 102,
+    "video": "40560.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 103,
+    "video": "6380.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 104,
+    "video": "26749.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 105,
+    "video": "57596.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 106,
+    "video": "111180.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 107,
+    "video": "60249.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 108,
+    "video": "33708.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 109,
+    "video": "127117.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 110,
+    "video": "170465.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 111,
+    "video": "133363.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 112,
+    "video": "186610.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 113,
+    "video": "171312.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 114,
+    "video": "24435.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 115,
+    "video": "213347.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 116,
+    "video": "89898.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 117,
+    "video": "67567.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 118,
+    "video": "136138.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 119,
+    "video": "35500.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 120,
+    "video": "96524.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 121,
+    "video": "192358.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 122,
+    "video": "52904.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 123,
+    "video": "105073.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 124,
+    "video": "166292.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 125,
+    "video": "56443.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 126,
+    "video": "57329.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 127,
+    "video": "125219.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 128,
+    "video": "152157.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 129,
+    "video": "172372.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 130,
+    "video": "24547.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 131,
+    "video": "119105.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 132,
+    "video": "184103.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 133,
+    "video": "168120.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 134,
+    "video": "185574.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 135,
+    "video": "81127.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 136,
+    "video": "91909.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 137,
+    "video": "145847.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 138,
+    "video": "91953.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 139,
+    "video": "3863.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 140,
+    "video": "12339.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 141,
+    "video": "122620.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 142,
+    "video": "187923.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 143,
+    "video": "52812.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 144,
+    "video": "16091.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 145,
+    "video": "90418.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 146,
+    "video": "71428.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 147,
+    "video": "217233.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 148,
+    "video": "9093.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 149,
+    "video": "153873.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 150,
+    "video": "92004.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 151,
+    "video": "45551.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 152,
+    "video": "211953.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 153,
+    "video": "169913.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 154,
+    "video": "81723.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 155,
+    "video": "32928.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 156,
+    "video": "114070.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 157,
+    "video": "216342.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 158,
+    "video": "72287.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 159,
+    "video": "126131.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 160,
+    "video": "33367.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 161,
+    "video": "144664.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 162,
+    "video": "184412.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 163,
+    "video": "200638.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 164,
+    "video": "127758.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 165,
+    "video": "83723.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 166,
+    "video": "126851.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 167,
+    "video": "119818.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 168,
+    "video": "48531.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 169,
+    "video": "116879.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 170,
+    "video": "120061.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 171,
+    "video": "13265.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 172,
+    "video": "46153.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 173,
+    "video": "48792.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 174,
+    "video": "176388.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 175,
+    "video": "179867.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 176,
+    "video": "142133.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 177,
+    "video": "33908.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 178,
+    "video": "63492.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 179,
+    "video": "65869.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 180,
+    "video": "130243.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 181,
+    "video": "105433.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 182,
+    "video": "146535.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 183,
+    "video": "159831.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 184,
+    "video": "70732.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 185,
+    "video": "110230.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 186,
+    "video": "200755.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 187,
+    "video": "37771.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 188,
+    "video": "167594.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 189,
+    "video": "34880.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 190,
+    "video": "34831.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 191,
+    "video": "33423.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 192,
+    "video": "98248.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 193,
+    "video": "154220.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 194,
+    "video": "196687.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 195,
+    "video": "142965.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 196,
+    "video": "25503.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 197,
+    "video": "137429.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 198,
+    "video": "24192.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 199,
+    "video": "55353.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 200,
+    "video": "17503.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 201,
+    "video": "187575.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 202,
+    "video": "65714.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 203,
+    "video": "16955.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 204,
+    "video": "186233.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 205,
+    "video": "42038.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 206,
+    "video": "171483.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 207,
+    "video": "8475.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 208,
+    "video": "188345.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 209,
+    "video": "200208.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 210,
+    "video": "73603.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 211,
+    "video": "96718.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 212,
+    "video": "50695.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 213,
+    "video": "114999.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 214,
+    "video": "215772.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 215,
+    "video": "40846.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 216,
+    "video": "867.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 217,
+    "video": "150371.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 218,
+    "video": "63493.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 219,
+    "video": "80214.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 220,
+    "video": "32586.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 221,
+    "video": "85688.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 222,
+    "video": "10854.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 223,
+    "video": "28470.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 224,
+    "video": "69476.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 225,
+    "video": "63858.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 226,
+    "video": "192401.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 227,
+    "video": "34250.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 228,
+    "video": "189381.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 229,
+    "video": "28418.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 230,
+    "video": "99565.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 231,
+    "video": "184079.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 232,
+    "video": "16806.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 233,
+    "video": "97765.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 234,
+    "video": "64088.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 235,
+    "video": "208677.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 236,
+    "video": "96585.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 237,
+    "video": "81023.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 238,
+    "video": "28272.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 239,
+    "video": "105775.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 240,
+    "video": "40363.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 241,
+    "video": "33262.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 242,
+    "video": "124539.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 243,
+    "video": "149485.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 244,
+    "video": "207593.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 245,
+    "video": "73056.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 246,
+    "video": "28054.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 247,
+    "video": "145779.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 248,
+    "video": "13715.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 249,
+    "video": "10362.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 250,
+    "video": "79273.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 251,
+    "video": "123145.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 252,
+    "video": "2838.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 253,
+    "video": "35911.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 254,
+    "video": "104614.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 255,
+    "video": "93057.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 256,
+    "video": "63955.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 257,
+    "video": "194855.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 258,
+    "video": "132017.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 259,
+    "video": "24286.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 260,
+    "video": "173191.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 261,
+    "video": "77267.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 262,
+    "video": "119777.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 263,
+    "video": "8099.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 264,
+    "video": "195965.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 265,
+    "video": "129385.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 266,
+    "video": "211449.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 267,
+    "video": "61268.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 268,
+    "video": "197383.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 269,
+    "video": "19144.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 270,
+    "video": "204123.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 271,
+    "video": "52758.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 272,
+    "video": "50752.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 273,
+    "video": "39968.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 274,
+    "video": "45960.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 275,
+    "video": "152362.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 276,
+    "video": "168272.mp4",
+    "answer_text": "Turning the camera left while filming [something]",
+    "direction": "forward",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 277,
+    "video": "6140.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 278,
+    "video": "180598.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 279,
+    "video": "11576.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 280,
+    "video": "185449.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 281,
+    "video": "25130.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 282,
+    "video": "60271.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 283,
+    "video": "204789.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 284,
+    "video": "27.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 285,
+    "video": "38491.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 286,
+    "video": "212264.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 287,
+    "video": "51116.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 288,
+    "video": "196763.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 289,
+    "video": "88897.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 290,
+    "video": "185817.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 291,
+    "video": "151623.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 292,
+    "video": "173952.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 293,
+    "video": "127250.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 294,
+    "video": "193075.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 295,
+    "video": "177979.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 296,
+    "video": "86809.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 297,
+    "video": "115132.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 298,
+    "video": "60621.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 299,
+    "video": "169809.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 300,
+    "video": "47600.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 301,
+    "video": "149230.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 302,
+    "video": "30531.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 303,
+    "video": "110246.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 304,
+    "video": "46771.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 305,
+    "video": "176615.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 306,
+    "video": "200100.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 307,
+    "video": "16138.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 308,
+    "video": "44411.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 309,
+    "video": "128990.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 310,
+    "video": "201446.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 311,
+    "video": "214131.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 312,
+    "video": "220218.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 313,
+    "video": "60732.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 314,
+    "video": "103081.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 315,
+    "video": "137393.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 316,
+    "video": "71493.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 317,
+    "video": "65523.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 318,
+    "video": "94173.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 319,
+    "video": "212923.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 320,
+    "video": "12319.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 321,
+    "video": "37756.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 322,
+    "video": "139235.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 323,
+    "video": "98079.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 324,
+    "video": "40354.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 325,
+    "video": "137421.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 326,
+    "video": "118311.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 327,
+    "video": "27679.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 328,
+    "video": "146518.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 329,
+    "video": "30019.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 330,
+    "video": "6104.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 331,
+    "video": "7699.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 332,
+    "video": "137627.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 333,
+    "video": "79133.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 334,
+    "video": "205518.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 335,
+    "video": "100006.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 336,
+    "video": "96411.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 337,
+    "video": "207589.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 338,
+    "video": "61096.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 339,
+    "video": "98270.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 340,
+    "video": "165305.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 341,
+    "video": "113705.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 342,
+    "video": "157061.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 343,
+    "video": "8332.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 344,
+    "video": "7441.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 345,
+    "video": "60355.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 346,
+    "video": "166046.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 347,
+    "video": "213018.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 348,
+    "video": "139960.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 349,
+    "video": "81188.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 350,
+    "video": "153743.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 351,
+    "video": "86244.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 352,
+    "video": "70020.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 353,
+    "video": "85778.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 354,
+    "video": "140363.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 355,
+    "video": "119048.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 356,
+    "video": "123085.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 357,
+    "video": "82447.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 358,
+    "video": "75770.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 359,
+    "video": "88559.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 360,
+    "video": "168720.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 361,
+    "video": "32689.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 362,
+    "video": "24494.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 363,
+    "video": "128163.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 364,
+    "video": "114608.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 365,
+    "video": "207740.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 366,
+    "video": "38415.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 367,
+    "video": "94922.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 368,
+    "video": "79385.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 369,
+    "video": "134903.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 370,
+    "video": "91820.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 371,
+    "video": "125514.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 372,
+    "video": "217012.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 373,
+    "video": "24821.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 374,
+    "video": "211315.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 375,
+    "video": "166037.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 376,
+    "video": "131900.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 377,
+    "video": "196211.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 378,
+    "video": "152205.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 379,
+    "video": "124538.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 380,
+    "video": "127947.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 381,
+    "video": "208370.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 382,
+    "video": "66899.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 383,
+    "video": "83938.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 384,
+    "video": "196335.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 385,
+    "video": "65063.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 386,
+    "video": "118872.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 387,
+    "video": "100796.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 388,
+    "video": "184478.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 389,
+    "video": "43074.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 390,
+    "video": "98758.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 391,
+    "video": "208839.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 392,
+    "video": "57973.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 393,
+    "video": "168476.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 394,
+    "video": "177.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 395,
+    "video": "82831.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 396,
+    "video": "47149.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 397,
+    "video": "100597.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 398,
+    "video": "160790.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 399,
+    "video": "59633.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 400,
+    "video": "83082.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 401,
+    "video": "11104.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 402,
+    "video": "196419.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 403,
+    "video": "214714.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 404,
+    "video": "191043.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 405,
+    "video": "30730.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 406,
+    "video": "95837.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 407,
+    "video": "94659.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 408,
+    "video": "145941.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 409,
+    "video": "153261.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 410,
+    "video": "103347.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 411,
+    "video": "165713.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 412,
+    "video": "197201.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 413,
+    "video": "103437.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 414,
+    "video": "85621.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 415,
+    "video": "177783.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 416,
+    "video": "54700.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 417,
+    "video": "216639.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 418,
+    "video": "21479.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 419,
+    "video": "46081.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 420,
+    "video": "200744.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 421,
+    "video": "103478.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 422,
+    "video": "42738.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 423,
+    "video": "95592.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 424,
+    "video": "207171.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 425,
+    "video": "34090.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 426,
+    "video": "149713.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 427,
+    "video": "111143.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 428,
+    "video": "191834.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 429,
+    "video": "114890.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 430,
+    "video": "53013.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 431,
+    "video": "1397.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 432,
+    "video": "36307.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 433,
+    "video": "87951.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 434,
+    "video": "186901.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 435,
+    "video": "206298.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 436,
+    "video": "1163.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 437,
+    "video": "9139.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 438,
+    "video": "74953.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 439,
+    "video": "8302.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 440,
+    "video": "142099.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 441,
+    "video": "166347.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 442,
+    "video": "85090.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 443,
+    "video": "146729.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 444,
+    "video": "160094.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 445,
+    "video": "57115.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 446,
+    "video": "153237.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 447,
+    "video": "97641.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 448,
+    "video": "38863.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 449,
+    "video": "27567.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 450,
+    "video": "89301.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 451,
+    "video": "169031.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 452,
+    "video": "162073.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 453,
+    "video": "196822.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 454,
+    "video": "62223.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 455,
+    "video": "2298.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 456,
+    "video": "132177.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 457,
+    "video": "120804.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 458,
+    "video": "63970.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 459,
+    "video": "155574.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 460,
+    "video": "38999.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 461,
+    "video": "66149.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 462,
+    "video": "138925.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 463,
+    "video": "130047.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 464,
+    "video": "72258.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 465,
+    "video": "199184.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 466,
+    "video": "15287.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 467,
+    "video": "2157.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 468,
+    "video": "35091.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 469,
+    "video": "128878.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 470,
+    "video": "150203.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 471,
+    "video": "129110.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 472,
+    "video": "206538.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 473,
+    "video": "95517.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 474,
+    "video": "177144.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 475,
+    "video": "170377.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 476,
+    "video": "52488.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 477,
+    "video": "185252.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 478,
+    "video": "201207.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 479,
+    "video": "46252.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 480,
+    "video": "87985.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 481,
+    "video": "68608.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 482,
+    "video": "103067.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 483,
+    "video": "205162.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 484,
+    "video": "106235.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 485,
+    "video": "197332.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 486,
+    "video": "84506.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 487,
+    "video": "33465.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 488,
+    "video": "189380.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 489,
+    "video": "179432.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 490,
+    "video": "188671.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 491,
+    "video": "194740.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 492,
+    "video": "128404.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 493,
+    "video": "204465.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 494,
+    "video": "199617.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 495,
+    "video": "114311.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 496,
+    "video": "115902.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 497,
+    "video": "204257.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 498,
+    "video": "22602.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 499,
+    "video": "57386.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 500,
+    "video": "73720.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 501,
+    "video": "34202.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 502,
+    "video": "83958.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 503,
+    "video": "178163.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 504,
+    "video": "63523.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 505,
+    "video": "133480.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 506,
+    "video": "21858.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 507,
+    "video": "138260.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 508,
+    "video": "62732.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 509,
+    "video": "93815.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 510,
+    "video": "55627.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 511,
+    "video": "133965.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 512,
+    "video": "52353.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 513,
+    "video": "10596.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 514,
+    "video": "122943.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 515,
+    "video": "149843.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 516,
+    "video": "156276.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 517,
+    "video": "78909.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 518,
+    "video": "53629.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 519,
+    "video": "83386.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 520,
+    "video": "185548.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 521,
+    "video": "142649.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 522,
+    "video": "164132.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 523,
+    "video": "162757.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 524,
+    "video": "132049.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 525,
+    "video": "44467.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 526,
+    "video": "139320.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 527,
+    "video": "149082.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 528,
+    "video": "168063.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 529,
+    "video": "28568.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 530,
+    "video": "37022.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 531,
+    "video": "163198.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 532,
+    "video": "175518.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 533,
+    "video": "117791.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 534,
+    "video": "55508.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 535,
+    "video": "76819.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 536,
+    "video": "73934.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 537,
+    "video": "114417.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 538,
+    "video": "70693.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 539,
+    "video": "111761.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 540,
+    "video": "88640.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 541,
+    "video": "192774.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 542,
+    "video": "90802.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 543,
+    "video": "58441.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 544,
+    "video": "86289.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 545,
+    "video": "125185.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 546,
+    "video": "14765.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 547,
+    "video": "189023.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 548,
+    "video": "184060.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 549,
+    "video": "154675.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 550,
+    "video": "100059.mp4",
+    "answer_text": "Turning the camera right while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "ccff0ef2",
+    "noun_abstract": "['something']"
+  }
+]

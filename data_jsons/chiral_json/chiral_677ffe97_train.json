@@ -1,0 +1,1866 @@
+[
+  {
+    "id": 0,
+    "video": "2574.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 1,
+    "video": "45585.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 2,
+    "video": "33614.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 3,
+    "video": "26254.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 4,
+    "video": "214633.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 5,
+    "video": "37981.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 6,
+    "video": "99085.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 7,
+    "video": "5595.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 8,
+    "video": "139192.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 9,
+    "video": "125250.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 10,
+    "video": "158248.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 11,
+    "video": "128032.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 12,
+    "video": "143060.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 13,
+    "video": "151185.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 14,
+    "video": "113881.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 15,
+    "video": "90659.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 16,
+    "video": "137232.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 17,
+    "video": "186866.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 18,
+    "video": "130426.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 19,
+    "video": "46577.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 20,
+    "video": "31919.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 21,
+    "video": "147993.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 22,
+    "video": "208037.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 23,
+    "video": "79616.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 24,
+    "video": "44996.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 25,
+    "video": "135146.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 26,
+    "video": "50496.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 27,
+    "video": "198428.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 28,
+    "video": "143288.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 29,
+    "video": "15087.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 30,
+    "video": "9010.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 31,
+    "video": "213829.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 32,
+    "video": "24488.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 33,
+    "video": "117952.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 34,
+    "video": "108756.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 35,
+    "video": "129881.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 36,
+    "video": "205209.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 37,
+    "video": "172963.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 38,
+    "video": "133521.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 39,
+    "video": "111847.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 40,
+    "video": "67537.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 41,
+    "video": "6162.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 42,
+    "video": "98643.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 43,
+    "video": "75960.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 44,
+    "video": "25270.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 45,
+    "video": "31493.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 46,
+    "video": "96154.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 47,
+    "video": "48502.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 48,
+    "video": "77946.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 49,
+    "video": "168569.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 50,
+    "video": "82264.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 51,
+    "video": "1423.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 52,
+    "video": "204819.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 53,
+    "video": "73663.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 54,
+    "video": "68681.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 55,
+    "video": "218579.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 56,
+    "video": "94622.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 57,
+    "video": "134996.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 58,
+    "video": "111237.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 59,
+    "video": "97519.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 60,
+    "video": "175890.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 61,
+    "video": "187954.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 62,
+    "video": "86215.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 63,
+    "video": "86829.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 64,
+    "video": "196698.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 65,
+    "video": "140198.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 66,
+    "video": "69598.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 67,
+    "video": "180413.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 68,
+    "video": "130673.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 69,
+    "video": "187623.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 70,
+    "video": "173594.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 71,
+    "video": "178116.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 72,
+    "video": "126368.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 73,
+    "video": "61448.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 74,
+    "video": "196626.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 75,
+    "video": "124575.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 76,
+    "video": "198948.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 77,
+    "video": "118838.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 78,
+    "video": "183298.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 79,
+    "video": "113770.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 80,
+    "video": "5237.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 81,
+    "video": "119734.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 82,
+    "video": "52195.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 83,
+    "video": "162297.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 84,
+    "video": "146234.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 85,
+    "video": "64187.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 86,
+    "video": "144206.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 87,
+    "video": "81415.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 88,
+    "video": "8767.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 89,
+    "video": "154812.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 90,
+    "video": "85205.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 91,
+    "video": "116384.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 92,
+    "video": "6687.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 93,
+    "video": "10136.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 94,
+    "video": "195799.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 95,
+    "video": "93439.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 96,
+    "video": "31035.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 97,
+    "video": "130794.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 98,
+    "video": "54884.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 99,
+    "video": "38662.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 100,
+    "video": "75483.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 101,
+    "video": "46244.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 102,
+    "video": "13368.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 103,
+    "video": "165606.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 104,
+    "video": "46191.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 105,
+    "video": "52604.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 106,
+    "video": "181569.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 107,
+    "video": "8700.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 108,
+    "video": "161704.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 109,
+    "video": "203014.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 110,
+    "video": "23605.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 111,
+    "video": "196214.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 112,
+    "video": "148112.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 113,
+    "video": "177277.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 114,
+    "video": "109840.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 115,
+    "video": "16069.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 116,
+    "video": "194232.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 117,
+    "video": "85388.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 118,
+    "video": "199284.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 119,
+    "video": "132199.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 120,
+    "video": "19237.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 121,
+    "video": "24882.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 122,
+    "video": "69709.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 123,
+    "video": "106592.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 124,
+    "video": "50565.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 125,
+    "video": "220572.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 126,
+    "video": "220686.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 127,
+    "video": "52987.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 128,
+    "video": "95242.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 129,
+    "video": "161934.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 130,
+    "video": "706.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 131,
+    "video": "209788.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 132,
+    "video": "195786.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 133,
+    "video": "19663.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 134,
+    "video": "101067.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 135,
+    "video": "180509.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 136,
+    "video": "35555.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 137,
+    "video": "16838.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 138,
+    "video": "108178.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 139,
+    "video": "3985.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 140,
+    "video": "54006.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 141,
+    "video": "218957.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 142,
+    "video": "167939.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 143,
+    "video": "210395.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 144,
+    "video": "172868.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 145,
+    "video": "127571.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 146,
+    "video": "90090.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 147,
+    "video": "22601.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 148,
+    "video": "214570.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 149,
+    "video": "136670.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 150,
+    "video": "112642.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 151,
+    "video": "107945.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 152,
+    "video": "133993.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 153,
+    "video": "124068.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 154,
+    "video": "51759.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 155,
+    "video": "161683.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 156,
+    "video": "16890.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 157,
+    "video": "100625.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 158,
+    "video": "29001.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 159,
+    "video": "182667.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 160,
+    "video": "204866.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 161,
+    "video": "174912.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 162,
+    "video": "101850.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 163,
+    "video": "152083.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 164,
+    "video": "68383.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 165,
+    "video": "26822.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 166,
+    "video": "208771.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 167,
+    "video": "100887.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 168,
+    "video": "143227.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 169,
+    "video": "182673.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 170,
+    "video": "98432.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 171,
+    "video": "178301.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 172,
+    "video": "191286.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 173,
+    "video": "60827.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 174,
+    "video": "188794.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 175,
+    "video": "114806.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 176,
+    "video": "57469.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 177,
+    "video": "13419.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 178,
+    "video": "41390.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 179,
+    "video": "97849.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 180,
+    "video": "45605.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 181,
+    "video": "110625.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 182,
+    "video": "86758.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 183,
+    "video": "68086.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 184,
+    "video": "126889.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 185,
+    "video": "129838.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 186,
+    "video": "26466.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 187,
+    "video": "149663.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 188,
+    "video": "99685.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 189,
+    "video": "173642.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 190,
+    "video": "187711.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 191,
+    "video": "16544.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 192,
+    "video": "117339.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 193,
+    "video": "49292.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 194,
+    "video": "3188.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 195,
+    "video": "190750.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 196,
+    "video": "157044.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 197,
+    "video": "72370.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 198,
+    "video": "87598.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 199,
+    "video": "179187.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 200,
+    "video": "184579.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 201,
+    "video": "84106.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 202,
+    "video": "26656.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 203,
+    "video": "115743.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 204,
+    "video": "202998.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 205,
+    "video": "176638.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 206,
+    "video": "83086.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 207,
+    "video": "115365.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 208,
+    "video": "106574.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 209,
+    "video": "8248.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 210,
+    "video": "158911.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 211,
+    "video": "187308.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 212,
+    "video": "213322.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 213,
+    "video": "131986.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 214,
+    "video": "186930.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 215,
+    "video": "125786.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 216,
+    "video": "50621.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 217,
+    "video": "47211.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 218,
+    "video": "157992.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 219,
+    "video": "127229.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 220,
+    "video": "107604.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 221,
+    "video": "168618.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 222,
+    "video": "122667.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 223,
+    "video": "57159.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 224,
+    "video": "152390.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 225,
+    "video": "104548.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 226,
+    "video": "207455.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 227,
+    "video": "111724.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 228,
+    "video": "140326.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 229,
+    "video": "145605.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 230,
+    "video": "48854.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 231,
+    "video": "178886.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  },
+  {
+    "id": 232,
+    "video": "192545.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "677ffe97",
+    "noun_abstract": "['object']"
+  }
+]

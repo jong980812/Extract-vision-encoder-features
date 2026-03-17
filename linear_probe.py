@@ -1,8 +1,7 @@
 """
 Linear probing on pre-extracted vision encoder features.
 
-Usage:
-    cd extract_features
+Usage (random split - single JSON):
     python linear_probe.py \
         --feature_dir /path/to/extracted_features \
         --json_path /path/to/annotations.json \
@@ -10,6 +9,14 @@ Usage:
         --pool_mode mean \
         --train_ratio 0.8 \
         --seed 42
+
+Usage (pre-split - separate train/val JSONs):
+    python linear_probe.py \
+        --feature_dir /path/to/extracted_features \
+        --train_json /path/to/train.json \
+        --val_json /path/to/val.json \
+        --label_key answer \
+        --pool_mode mean
 
 Pooling modes:
     mean:   (num_frames, num_patches, D) → mean over frames & patches → (D,)
@@ -186,12 +193,17 @@ def parse_args():
     # Data
     parser.add_argument("--feature_dir", type=str, required=True,
                         help="Directory containing per-video .pt files")
-    parser.add_argument("--json_path", type=str, required=True,
-                        help="Path to JSON annotation file (same one used for extraction)")
+    parser.add_argument("--json_path", type=str, default=None,
+                        help="Path to single JSON annotation file (random split mode)")
+    parser.add_argument("--train_json", type=str, default=None,
+                        help="Path to train JSON annotation file (pre-split mode)")
+    parser.add_argument("--val_json", type=str, default=None,
+                        help="Path to val JSON annotation file (pre-split mode)")
     parser.add_argument("--label_key", type=str, default="answer",
                         help="JSON key for class label (e.g., 'answer', 'direction', 'answer_text')")
     parser.add_argument("--id_key", type=str, default="id",
                         help="JSON key for sample ID")
+
     # Pooling
     parser.add_argument("--pool_mode", type=str, default="mean",
                         choices=["mean", "concat", "cls", "concat_full"],
@@ -199,7 +211,6 @@ def parse_args():
                              "concat: spatial mean then concat frames → (num_frames*D,). "
                              "cls: concat CLS tokens across frames → (num_frames*D,) (CLIP only). "
                              "concat_full: no spatial mean, full flatten → (num_frames*num_patches*D,)")
-
 
     # Split
     parser.add_argument("--train_ratio", type=float, default=0.8,
@@ -233,16 +244,47 @@ def main():
     device = args.device if torch.cuda.is_available() else "cpu"
 
     # --- Load annotations ---
-    with open(args.json_path, "r") as f:
-        annotations = json.load(f)
+    def filter_annotations(annotations, feature_dir, id_key):
+        """Filter annotations to only keep those with corresponding .pt files."""
+        valid = []
+        for ann in annotations:
+            pt_path = os.path.join(feature_dir, f"{ann[id_key]}.pt")
+            if os.path.exists(pt_path):
+                valid.append(ann)
+        return valid
 
-    # Filter: only keep annotations that have a corresponding .pt file
-    valid_annotations = []
-    for ann in annotations:
-        pt_path = os.path.join(args.feature_dir, f"{ann[args.id_key]}.pt")
-        if os.path.exists(pt_path):
-            valid_annotations.append(ann)
-    print(f"[Data] {len(valid_annotations)}/{len(annotations)} samples have extracted features")
+    if args.train_json and args.val_json:
+        # Pre-split mode: train/val JSON files provided separately
+        with open(args.train_json, "r") as f:
+            train_raw = json.load(f)
+        with open(args.val_json, "r") as f:
+            val_raw = json.load(f)
+
+        train_anns = filter_annotations(train_raw, args.feature_dir, args.id_key)
+        val_anns = filter_annotations(val_raw, args.feature_dir, args.id_key)
+        valid_annotations = train_anns + val_anns
+
+        print(f"[Data] Train: {len(train_anns)}/{len(train_raw)}, "
+              f"Val: {len(val_anns)}/{len(val_raw)} samples have extracted features")
+        print(f"[Split] Pre-split mode (--train_json / --val_json)")
+
+    elif args.json_path:
+        # Random split mode: single JSON + train_ratio
+        with open(args.json_path, "r") as f:
+            annotations = json.load(f)
+
+        valid_annotations = filter_annotations(annotations, args.feature_dir, args.id_key)
+        print(f"[Data] {len(valid_annotations)}/{len(annotations)} samples have extracted features")
+
+        indices = list(range(len(valid_annotations)))
+        random.shuffle(indices)
+        split_idx = int(len(indices) * args.train_ratio)
+        train_anns = [valid_annotations[i] for i in indices[:split_idx]]
+        val_anns = [valid_annotations[i] for i in indices[split_idx:]]
+        print(f"[Split] Random split (train_ratio={args.train_ratio})")
+
+    else:
+        raise ValueError("Provide either --json_path (random split) or --train_json + --val_json (pre-split)")
 
     # --- Build label mapping ---
     all_labels = [ann[args.label_key] for ann in valid_annotations]
@@ -253,16 +295,6 @@ def main():
 
     print(f"[Labels] {num_classes} classes: {label_set}")
     print(f"[Labels] Distribution: {dict(Counter(all_labels))}")
-
-    # --- Train/Val split ---
-    indices = list(range(len(valid_annotations)))
-    random.shuffle(indices)
-    split_idx = int(len(indices) * args.train_ratio)
-    train_indices = indices[:split_idx]
-    val_indices = indices[split_idx:]
-
-    train_anns = [valid_annotations[i] for i in train_indices]
-    val_anns = [valid_annotations[i] for i in val_indices]
     print(f"[Split] Train: {len(train_anns)}, Val: {len(val_anns)}")
 
     # --- Determine feature dim from first sample ---
@@ -333,31 +365,50 @@ def main():
                   f"Train loss: {train_loss:.4f} acc: {train_acc:.4f} | "
                   f"Val loss: {val_loss:.4f} acc: {val_acc:.4f}{marker}")
 
+    # --- Last epoch results ---
+    last_val_loss, last_val_acc, last_val_preds, last_val_labels = evaluate(
+        model, val_loader, criterion, device
+    )
+    last_state = model.state_dict().copy()
+
     # --- Final report ---
+    target_names = [idx_to_label[i] for i in range(num_classes)]
+
     print(f"\n{'='*60}")
+    print(f"[Result] Last val acc: {last_val_acc:.4f} (epoch {args.epochs})")
     print(f"[Result] Best val acc: {best_val_acc:.4f} (epoch {best_epoch})")
     print(f"{'='*60}")
 
-    target_names = [idx_to_label[i] for i in range(num_classes)]
-    report_str = classification_report(best_labels, best_preds, target_names=target_names)
-    report_dict = classification_report(best_labels, best_preds, target_names=target_names, output_dict=True)
-    print(report_str)
+    last_report_str = classification_report(last_val_labels, last_val_preds, target_names=target_names)
+    last_report_dict = classification_report(last_val_labels, last_val_preds, target_names=target_names, output_dict=True)
+    best_report_str = classification_report(best_labels, best_preds, target_names=target_names)
+    best_report_dict = classification_report(best_labels, best_preds, target_names=target_names, output_dict=True)
+
+    print(f"\n--- Last epoch (epoch {args.epochs}) ---")
+    print(last_report_str)
+    print(f"--- Best epoch (epoch {best_epoch}) ---")
+    print(best_report_str)
 
     # --- Save results ---
     output_dir = args.output_dir or os.path.join(os.path.dirname(args.feature_dir), "probe_results",args.pool_mode)
     os.makedirs(output_dir, exist_ok=True)
 
     results = {
+        "last_val_acc": last_val_acc,
+        "last_epoch": args.epochs,
         "best_val_acc": best_val_acc,
         "best_epoch": best_epoch,
         "num_classes": num_classes,
         "label_mapping": label_to_idx,
+        "last_classification_report": last_report_dict,
+        "best_classification_report": best_report_dict,
         "pool_mode": args.pool_mode,
         "feature_dim": feature_dim,
         "feature_shape": [num_frames, num_patches, hidden_size],
         "train_size": len(train_anns),
         "val_size": len(val_anns),
-        "train_ratio": args.train_ratio,
+        "split_mode": "pre-split" if args.train_json else "random",
+        "train_ratio": args.train_ratio if args.json_path else None,
         "lr": args.lr,
         "epochs": args.epochs,
         "seed": args.seed,
@@ -367,10 +418,12 @@ def main():
     with open(os.path.join(output_dir, "results.json"), "w") as f:
         json.dump(results, f, indent=2)
 
+    torch.save(last_state, os.path.join(output_dir, "last_linear.pt"))
     torch.save(best_state, os.path.join(output_dir, "best_linear.pt"))
 
-    print(f"\n[Save] Results → {output_dir}/results.json")
-    print(f"[Save] Model   → {output_dir}/best_linear.pt")
+    print(f"\n[Save] Results     → {output_dir}/results.json")
+    print(f"[Save] Last model  → {output_dir}/last_linear.pt")
+    print(f"[Save] Best model  → {output_dir}/best_linear.pt")
 
 
 if __name__ == "__main__":

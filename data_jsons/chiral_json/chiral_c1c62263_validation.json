@@ -1,0 +1,322 @@
+[
+  {
+    "id": 171,
+    "video": "166311.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 172,
+    "video": "145850.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 173,
+    "video": "18697.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 174,
+    "video": "191802.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 175,
+    "video": "14784.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 176,
+    "video": "205.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 177,
+    "video": "52153.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 178,
+    "video": "67039.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 179,
+    "video": "21373.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 180,
+    "video": "167603.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 181,
+    "video": "163470.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 182,
+    "video": "114815.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 183,
+    "video": "206408.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 184,
+    "video": "51855.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 185,
+    "video": "93470.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 186,
+    "video": "146501.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 187,
+    "video": "57991.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 188,
+    "video": "70593.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 189,
+    "video": "107744.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 190,
+    "video": "117195.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 191,
+    "video": "184666.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 192,
+    "video": "138227.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 193,
+    "video": "60030.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 194,
+    "video": "189482.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 195,
+    "video": "73442.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 196,
+    "video": "92505.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 197,
+    "video": "80963.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 198,
+    "video": "193550.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 199,
+    "video": "93097.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 200,
+    "video": "872.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 201,
+    "video": "42521.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 202,
+    "video": "122418.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 203,
+    "video": "12301.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 204,
+    "video": "8220.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 205,
+    "video": "182527.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 206,
+    "video": "176552.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 207,
+    "video": "175022.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 208,
+    "video": "51337.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 209,
+    "video": "47975.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  },
+  {
+    "id": 210,
+    "video": "122190.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "c1c62263",
+    "noun_abstract": "['bottle']"
+  }
+]

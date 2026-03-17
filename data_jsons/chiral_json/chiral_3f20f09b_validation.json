@@ -1,0 +1,2794 @@
+[
+  {
+    "id": 2664,
+    "video": "80240.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2665,
+    "video": "49434.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2666,
+    "video": "155885.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2667,
+    "video": "20925.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2668,
+    "video": "92034.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2669,
+    "video": "3208.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2670,
+    "video": "4121.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2671,
+    "video": "92150.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2672,
+    "video": "134896.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2673,
+    "video": "8444.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2674,
+    "video": "106485.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2675,
+    "video": "82674.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2676,
+    "video": "184328.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2677,
+    "video": "143821.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2678,
+    "video": "214882.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2679,
+    "video": "27283.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2680,
+    "video": "124894.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2681,
+    "video": "146324.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2682,
+    "video": "37052.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2683,
+    "video": "178023.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2684,
+    "video": "194486.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2685,
+    "video": "24109.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2686,
+    "video": "48582.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2687,
+    "video": "185525.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2688,
+    "video": "56958.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2689,
+    "video": "218890.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2690,
+    "video": "36498.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2691,
+    "video": "195304.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2692,
+    "video": "30936.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2693,
+    "video": "117837.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2694,
+    "video": "155756.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2695,
+    "video": "180656.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2696,
+    "video": "106827.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2697,
+    "video": "63756.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2698,
+    "video": "164826.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2699,
+    "video": "188682.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2700,
+    "video": "80543.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2701,
+    "video": "107976.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2702,
+    "video": "10342.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2703,
+    "video": "167567.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2704,
+    "video": "102777.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2705,
+    "video": "81617.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2706,
+    "video": "131278.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2707,
+    "video": "88575.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2708,
+    "video": "123068.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2709,
+    "video": "42903.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2710,
+    "video": "33342.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2711,
+    "video": "109618.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2712,
+    "video": "5741.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2713,
+    "video": "75316.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2714,
+    "video": "46605.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2715,
+    "video": "94982.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2716,
+    "video": "133859.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2717,
+    "video": "176329.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2718,
+    "video": "172019.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2719,
+    "video": "99206.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2720,
+    "video": "171954.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2721,
+    "video": "57188.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2722,
+    "video": "28135.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2723,
+    "video": "11569.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2724,
+    "video": "62631.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2725,
+    "video": "210387.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2726,
+    "video": "112463.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2727,
+    "video": "61230.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2728,
+    "video": "179226.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2729,
+    "video": "159874.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2730,
+    "video": "115710.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2731,
+    "video": "50886.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2732,
+    "video": "89639.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2733,
+    "video": "102267.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2734,
+    "video": "217565.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2735,
+    "video": "23998.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2736,
+    "video": "173769.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2737,
+    "video": "40280.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2738,
+    "video": "30680.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2739,
+    "video": "213060.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2740,
+    "video": "210714.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2741,
+    "video": "33692.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2742,
+    "video": "117570.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2743,
+    "video": "29910.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2744,
+    "video": "58789.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2745,
+    "video": "32741.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2746,
+    "video": "188511.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2747,
+    "video": "109594.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2748,
+    "video": "53649.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2749,
+    "video": "136695.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2750,
+    "video": "60719.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2751,
+    "video": "16055.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2752,
+    "video": "881.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2753,
+    "video": "207888.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2754,
+    "video": "35213.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2755,
+    "video": "140304.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2756,
+    "video": "215878.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2757,
+    "video": "154539.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2758,
+    "video": "71847.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2759,
+    "video": "101804.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2760,
+    "video": "74370.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2761,
+    "video": "205352.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2762,
+    "video": "57337.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2763,
+    "video": "112358.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2764,
+    "video": "9177.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2765,
+    "video": "23021.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2766,
+    "video": "18582.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2767,
+    "video": "182263.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2768,
+    "video": "52628.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2769,
+    "video": "102477.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2770,
+    "video": "3907.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2771,
+    "video": "145729.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2772,
+    "video": "217404.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2773,
+    "video": "197161.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2774,
+    "video": "116310.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2775,
+    "video": "138894.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2776,
+    "video": "180148.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2777,
+    "video": "158893.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2778,
+    "video": "211345.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2779,
+    "video": "63998.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2780,
+    "video": "11193.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2781,
+    "video": "203624.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2782,
+    "video": "95194.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2783,
+    "video": "175755.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2784,
+    "video": "149098.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2785,
+    "video": "126710.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2786,
+    "video": "169730.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2787,
+    "video": "22364.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2788,
+    "video": "73338.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2789,
+    "video": "165214.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2790,
+    "video": "198782.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2791,
+    "video": "191681.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2792,
+    "video": "159928.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2793,
+    "video": "85207.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2794,
+    "video": "192296.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2795,
+    "video": "205127.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2796,
+    "video": "174735.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2797,
+    "video": "112252.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2798,
+    "video": "118589.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2799,
+    "video": "50584.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2800,
+    "video": "41003.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2801,
+    "video": "60656.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2802,
+    "video": "103563.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2803,
+    "video": "197960.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2804,
+    "video": "125970.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2805,
+    "video": "20414.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2806,
+    "video": "45726.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2807,
+    "video": "71799.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2808,
+    "video": "31875.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2809,
+    "video": "34330.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2810,
+    "video": "138809.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2811,
+    "video": "87615.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2812,
+    "video": "155650.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2813,
+    "video": "122884.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2814,
+    "video": "119055.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2815,
+    "video": "110423.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2816,
+    "video": "135321.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2817,
+    "video": "83282.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2818,
+    "video": "131135.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2819,
+    "video": "171359.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2820,
+    "video": "183954.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2821,
+    "video": "52509.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2822,
+    "video": "26852.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2823,
+    "video": "167779.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2824,
+    "video": "34860.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2825,
+    "video": "68709.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2826,
+    "video": "20005.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2827,
+    "video": "125103.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2828,
+    "video": "39728.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2829,
+    "video": "98681.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2830,
+    "video": "131429.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2831,
+    "video": "191488.mp4",
+    "answer_text": "Moving [something] down",
+    "direction": "forward",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2832,
+    "video": "116582.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2833,
+    "video": "86088.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2834,
+    "video": "213964.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2835,
+    "video": "99273.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2836,
+    "video": "159767.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2837,
+    "video": "125726.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2838,
+    "video": "145466.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2839,
+    "video": "123585.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2840,
+    "video": "192618.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2841,
+    "video": "117478.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2842,
+    "video": "50618.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2843,
+    "video": "60678.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2844,
+    "video": "33158.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2845,
+    "video": "53667.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2846,
+    "video": "220026.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2847,
+    "video": "176810.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2848,
+    "video": "215000.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2849,
+    "video": "219973.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2850,
+    "video": "173596.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2851,
+    "video": "78898.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2852,
+    "video": "52843.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2853,
+    "video": "54443.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2854,
+    "video": "38735.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2855,
+    "video": "101217.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2856,
+    "video": "91418.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2857,
+    "video": "63853.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2858,
+    "video": "167013.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2859,
+    "video": "208367.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2860,
+    "video": "193397.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2861,
+    "video": "104869.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2862,
+    "video": "208285.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2863,
+    "video": "139515.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2864,
+    "video": "214528.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2865,
+    "video": "133121.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2866,
+    "video": "188485.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2867,
+    "video": "134523.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2868,
+    "video": "154707.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2869,
+    "video": "10902.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2870,
+    "video": "100799.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2871,
+    "video": "149112.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2872,
+    "video": "100955.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2873,
+    "video": "177747.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2874,
+    "video": "12499.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2875,
+    "video": "118021.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2876,
+    "video": "114326.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2877,
+    "video": "143243.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2878,
+    "video": "10569.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2879,
+    "video": "197923.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2880,
+    "video": "197080.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2881,
+    "video": "69470.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2882,
+    "video": "148845.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2883,
+    "video": "33184.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2884,
+    "video": "143325.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2885,
+    "video": "138429.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2886,
+    "video": "43077.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2887,
+    "video": "217399.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2888,
+    "video": "211186.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2889,
+    "video": "191302.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2890,
+    "video": "74580.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2891,
+    "video": "61566.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2892,
+    "video": "25092.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2893,
+    "video": "74201.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2894,
+    "video": "115528.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2895,
+    "video": "176021.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2896,
+    "video": "78013.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2897,
+    "video": "8842.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2898,
+    "video": "24316.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2899,
+    "video": "33400.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2900,
+    "video": "76625.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2901,
+    "video": "107878.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2902,
+    "video": "150604.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2903,
+    "video": "712.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2904,
+    "video": "76320.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2905,
+    "video": "192875.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2906,
+    "video": "108814.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2907,
+    "video": "50123.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2908,
+    "video": "64132.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2909,
+    "video": "37520.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2910,
+    "video": "62427.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2911,
+    "video": "36379.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2912,
+    "video": "3478.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2913,
+    "video": "109889.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2914,
+    "video": "140161.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2915,
+    "video": "206230.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2916,
+    "video": "165623.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2917,
+    "video": "61121.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2918,
+    "video": "90063.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2919,
+    "video": "149339.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2920,
+    "video": "23963.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2921,
+    "video": "66776.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2922,
+    "video": "9991.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2923,
+    "video": "100101.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2924,
+    "video": "81536.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2925,
+    "video": "166678.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2926,
+    "video": "176601.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2927,
+    "video": "64319.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2928,
+    "video": "196240.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2929,
+    "video": "9995.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2930,
+    "video": "64623.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2931,
+    "video": "181523.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2932,
+    "video": "178294.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2933,
+    "video": "86631.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2934,
+    "video": "168096.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2935,
+    "video": "72890.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2936,
+    "video": "23849.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2937,
+    "video": "12033.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2938,
+    "video": "53960.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2939,
+    "video": "172967.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2940,
+    "video": "186098.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2941,
+    "video": "24411.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2942,
+    "video": "129790.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2943,
+    "video": "123285.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2944,
+    "video": "179043.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2945,
+    "video": "92349.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2946,
+    "video": "92699.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2947,
+    "video": "181204.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2948,
+    "video": "33766.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2949,
+    "video": "167135.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2950,
+    "video": "206667.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2951,
+    "video": "186622.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2952,
+    "video": "111853.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2953,
+    "video": "45244.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2954,
+    "video": "120767.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2955,
+    "video": "8746.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2956,
+    "video": "151473.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2957,
+    "video": "26649.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2958,
+    "video": "130392.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2959,
+    "video": "171169.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2960,
+    "video": "206826.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2961,
+    "video": "82611.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2962,
+    "video": "128646.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2963,
+    "video": "29483.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2964,
+    "video": "21924.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2965,
+    "video": "162527.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2966,
+    "video": "150645.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2967,
+    "video": "85790.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2968,
+    "video": "66116.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2969,
+    "video": "28710.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2970,
+    "video": "69703.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2971,
+    "video": "199745.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2972,
+    "video": "169352.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2973,
+    "video": "130128.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2974,
+    "video": "139503.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2975,
+    "video": "57070.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2976,
+    "video": "34343.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2977,
+    "video": "188518.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2978,
+    "video": "16831.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2979,
+    "video": "49163.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2980,
+    "video": "173460.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2981,
+    "video": "210603.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2982,
+    "video": "204753.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2983,
+    "video": "69661.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2984,
+    "video": "170270.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2985,
+    "video": "189640.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2986,
+    "video": "203992.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2987,
+    "video": "160811.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2988,
+    "video": "37158.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2989,
+    "video": "163353.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2990,
+    "video": "107291.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2991,
+    "video": "14279.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2992,
+    "video": "95339.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2993,
+    "video": "202028.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2994,
+    "video": "121804.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2995,
+    "video": "89270.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2996,
+    "video": "84008.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2997,
+    "video": "211776.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2998,
+    "video": "112353.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2999,
+    "video": "163915.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3000,
+    "video": "199944.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3001,
+    "video": "70341.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3002,
+    "video": "35530.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3003,
+    "video": "104179.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3004,
+    "video": "164586.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3005,
+    "video": "177318.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3006,
+    "video": "208019.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3007,
+    "video": "180793.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3008,
+    "video": "1073.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3009,
+    "video": "365.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3010,
+    "video": "16537.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3011,
+    "video": "6209.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3012,
+    "video": "144417.mp4",
+    "answer_text": "Moving [something] up",
+    "direction": "reverse",
+    "triplet_id": "3f20f09b",
+    "noun_abstract": "['something']"
+  }
+]

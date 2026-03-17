@@ -1,0 +1,578 @@
+[
+  {
+    "id": 0,
+    "video": "145087.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 1,
+    "video": "144362.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 2,
+    "video": "149095.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 3,
+    "video": "29173.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 4,
+    "video": "72332.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 5,
+    "video": "6005.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 6,
+    "video": "92732.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 7,
+    "video": "14226.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 8,
+    "video": "104058.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 9,
+    "video": "171409.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 10,
+    "video": "114742.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 11,
+    "video": "58580.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 12,
+    "video": "61736.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 13,
+    "video": "213239.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 14,
+    "video": "20032.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 15,
+    "video": "45547.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 16,
+    "video": "120352.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 17,
+    "video": "35920.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 18,
+    "video": "12306.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 19,
+    "video": "137417.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 20,
+    "video": "83017.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 21,
+    "video": "14094.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 22,
+    "video": "210403.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 23,
+    "video": "107279.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 24,
+    "video": "71386.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 25,
+    "video": "44699.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 26,
+    "video": "111832.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 27,
+    "video": "220757.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 28,
+    "video": "37703.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 29,
+    "video": "150389.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 30,
+    "video": "71344.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 31,
+    "video": "137754.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 32,
+    "video": "26956.mp4",
+    "answer_text": "Moving [something] and [something] away from each other",
+    "direction": "forward",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 33,
+    "video": "140990.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 34,
+    "video": "74708.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 35,
+    "video": "61802.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 36,
+    "video": "186272.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 37,
+    "video": "174587.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 38,
+    "video": "169022.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 39,
+    "video": "165160.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 40,
+    "video": "183681.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 41,
+    "video": "113142.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 42,
+    "video": "36355.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 43,
+    "video": "4649.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 44,
+    "video": "30189.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 45,
+    "video": "78116.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 46,
+    "video": "94749.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 47,
+    "video": "146927.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 48,
+    "video": "62753.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 49,
+    "video": "23167.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 50,
+    "video": "71206.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 51,
+    "video": "122811.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 52,
+    "video": "31774.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 53,
+    "video": "200155.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 54,
+    "video": "120884.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 55,
+    "video": "42977.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 56,
+    "video": "65546.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 57,
+    "video": "181334.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 58,
+    "video": "156942.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 59,
+    "video": "155344.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 60,
+    "video": "147392.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 61,
+    "video": "158818.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 62,
+    "video": "184555.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 63,
+    "video": "112399.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 64,
+    "video": "130141.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 65,
+    "video": "98567.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 66,
+    "video": "95519.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 67,
+    "video": "210009.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 68,
+    "video": "195218.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 69,
+    "video": "64370.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 70,
+    "video": "83016.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 71,
+    "video": "145504.mp4",
+    "answer_text": "Moving [something] and [something] closer to each other",
+    "direction": "reverse",
+    "triplet_id": "a1383a77",
+    "noun_abstract": "['something']"
+  }
+]

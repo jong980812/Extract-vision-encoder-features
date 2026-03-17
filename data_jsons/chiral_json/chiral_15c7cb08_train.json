@@ -1,0 +1,266 @@
+[
+  {
+    "id": 0,
+    "video": "52938.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 1,
+    "video": "9245.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 2,
+    "video": "33896.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 3,
+    "video": "59925.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 4,
+    "video": "149088.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 5,
+    "video": "3477.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 6,
+    "video": "16148.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 7,
+    "video": "128881.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 8,
+    "video": "24915.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 9,
+    "video": "88501.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 10,
+    "video": "154378.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 11,
+    "video": "55686.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 12,
+    "video": "7771.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 13,
+    "video": "149881.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 14,
+    "video": "49221.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 15,
+    "video": "33696.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 16,
+    "video": "136248.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 17,
+    "video": "40476.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 18,
+    "video": "183949.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 19,
+    "video": "52862.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 20,
+    "video": "45609.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 21,
+    "video": "142600.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 22,
+    "video": "179775.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 23,
+    "video": "199565.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 24,
+    "video": "177283.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 25,
+    "video": "138955.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 26,
+    "video": "22509.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 27,
+    "video": "58268.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 28,
+    "video": "125339.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 29,
+    "video": "186902.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 30,
+    "video": "73012.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 31,
+    "video": "8508.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  },
+  {
+    "id": 32,
+    "video": "362.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "15c7cb08",
+    "noun_abstract": "['purse']"
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "id": 809,
+    "video": "216055.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 810,
+    "video": "62874.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 811,
+    "video": "103661.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 812,
+    "video": "54495.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 813,
+    "video": "197762.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 814,
+    "video": "72618.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 815,
+    "video": "92158.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 816,
+    "video": "196602.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 817,
+    "video": "47325.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 818,
+    "video": "18481.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 819,
+    "video": "129654.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 820,
+    "video": "188239.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 821,
+    "video": "98886.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 822,
+    "video": "140370.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 823,
+    "video": "32201.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 824,
+    "video": "77208.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 825,
+    "video": "5139.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 826,
+    "video": "99830.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 827,
+    "video": "169771.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 828,
+    "video": "184572.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 829,
+    "video": "69324.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 830,
+    "video": "148138.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 831,
+    "video": "162511.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 832,
+    "video": "86575.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 833,
+    "video": "86333.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 834,
+    "video": "198107.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 835,
+    "video": "130186.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 836,
+    "video": "48710.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 837,
+    "video": "57358.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 838,
+    "video": "129488.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 839,
+    "video": "17519.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 840,
+    "video": "140317.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 841,
+    "video": "218468.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 842,
+    "video": "133541.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 843,
+    "video": "152497.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 844,
+    "video": "163441.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 845,
+    "video": "217557.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 846,
+    "video": "84967.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 847,
+    "video": "88927.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 848,
+    "video": "185743.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 849,
+    "video": "6848.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 850,
+    "video": "111829.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 851,
+    "video": "64431.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 852,
+    "video": "133624.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 853,
+    "video": "182229.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 854,
+    "video": "214050.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 855,
+    "video": "99643.mp4",
+    "answer_text": "Pulling [something] from left to right",
+    "direction": "forward",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 856,
+    "video": "52114.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 857,
+    "video": "147014.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 858,
+    "video": "48456.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 859,
+    "video": "29941.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 860,
+    "video": "90646.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 861,
+    "video": "110620.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 862,
+    "video": "121844.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 863,
+    "video": "29373.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 864,
+    "video": "23202.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 865,
+    "video": "181899.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 866,
+    "video": "115717.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 867,
+    "video": "167711.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 868,
+    "video": "130178.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 869,
+    "video": "175308.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 870,
+    "video": "62873.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 871,
+    "video": "24815.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 872,
+    "video": "90357.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 873,
+    "video": "143775.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 874,
+    "video": "77092.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 875,
+    "video": "158690.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 876,
+    "video": "208718.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 877,
+    "video": "114180.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 878,
+    "video": "28528.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 879,
+    "video": "156523.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 880,
+    "video": "205686.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 881,
+    "video": "205013.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 882,
+    "video": "168785.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 883,
+    "video": "220302.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 884,
+    "video": "60477.mp4",
+    "answer_text": "Pulling [something] from right to left",
+    "direction": "reverse",
+    "triplet_id": "106d2603",
+    "noun_abstract": "['something']"
+  }
+]

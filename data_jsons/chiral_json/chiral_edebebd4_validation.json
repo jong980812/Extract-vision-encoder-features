@@ -1,0 +1,122 @@
+[
+  {
+    "id": 394,
+    "video": "98914.mp4",
+    "answer_text": "Turning the camera downwards while filming [something]",
+    "direction": "forward",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 395,
+    "video": "190795.mp4",
+    "answer_text": "Turning the camera downwards while filming [something]",
+    "direction": "forward",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 396,
+    "video": "108226.mp4",
+    "answer_text": "Turning the camera downwards while filming [something]",
+    "direction": "forward",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 397,
+    "video": "169117.mp4",
+    "answer_text": "Turning the camera downwards while filming [something]",
+    "direction": "forward",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 398,
+    "video": "101394.mp4",
+    "answer_text": "Turning the camera downwards while filming [something]",
+    "direction": "forward",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 399,
+    "video": "126312.mp4",
+    "answer_text": "Turning the camera upwards while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 400,
+    "video": "158449.mp4",
+    "answer_text": "Turning the camera upwards while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 401,
+    "video": "5347.mp4",
+    "answer_text": "Turning the camera upwards while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 402,
+    "video": "191690.mp4",
+    "answer_text": "Turning the camera upwards while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 403,
+    "video": "211109.mp4",
+    "answer_text": "Turning the camera upwards while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 404,
+    "video": "154981.mp4",
+    "answer_text": "Turning the camera upwards while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 405,
+    "video": "28337.mp4",
+    "answer_text": "Turning the camera upwards while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 406,
+    "video": "141411.mp4",
+    "answer_text": "Turning the camera upwards while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 407,
+    "video": "84890.mp4",
+    "answer_text": "Turning the camera upwards while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 408,
+    "video": "124082.mp4",
+    "answer_text": "Turning the camera upwards while filming [something]",
+    "direction": "reverse",
+    "triplet_id": "edebebd4",
+    "noun_abstract": "['something']"
+  }
+]

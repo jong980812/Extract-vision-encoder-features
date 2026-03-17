@@ -1,0 +1,402 @@
+[
+  {
+    "id": 291,
+    "video": "139370.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 292,
+    "video": "143971.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 293,
+    "video": "24384.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 294,
+    "video": "43004.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 295,
+    "video": "18971.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 296,
+    "video": "197774.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 297,
+    "video": "129432.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 298,
+    "video": "151821.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 299,
+    "video": "87379.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 300,
+    "video": "102791.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 301,
+    "video": "124242.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 302,
+    "video": "82636.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 303,
+    "video": "151541.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 304,
+    "video": "128813.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 305,
+    "video": "142710.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 306,
+    "video": "208684.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 307,
+    "video": "203240.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 308,
+    "video": "194380.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 309,
+    "video": "220290.mp4",
+    "answer_text": "Closing [something]",
+    "direction": "forward",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 310,
+    "video": "211653.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 311,
+    "video": "157167.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 312,
+    "video": "207122.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 313,
+    "video": "23995.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 314,
+    "video": "73233.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 315,
+    "video": "177502.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 316,
+    "video": "67287.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 317,
+    "video": "152453.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 318,
+    "video": "42860.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 319,
+    "video": "116099.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 320,
+    "video": "124039.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 321,
+    "video": "4372.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 322,
+    "video": "54551.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 323,
+    "video": "177365.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 324,
+    "video": "99508.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 325,
+    "video": "114056.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 326,
+    "video": "81100.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 327,
+    "video": "155015.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 328,
+    "video": "29554.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 329,
+    "video": "157951.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 330,
+    "video": "156401.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 331,
+    "video": "96935.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 332,
+    "video": "217420.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 333,
+    "video": "166636.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 334,
+    "video": "96366.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 335,
+    "video": "78066.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 336,
+    "video": "106135.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 337,
+    "video": "49005.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 338,
+    "video": "47953.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 339,
+    "video": "15959.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  },
+  {
+    "id": 340,
+    "video": "55006.mp4",
+    "answer_text": "Opening [something]",
+    "direction": "reverse",
+    "triplet_id": "584d53c4",
+    "noun_abstract": "['door']"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 878,
+    "video": "25736.mp4",
+    "answer_text": "Approaching [something] with your camera",
+    "direction": "forward",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 879,
+    "video": "22129.mp4",
+    "answer_text": "Approaching [something] with your camera",
+    "direction": "forward",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 880,
+    "video": "107442.mp4",
+    "answer_text": "Approaching [something] with your camera",
+    "direction": "forward",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 881,
+    "video": "42956.mp4",
+    "answer_text": "Approaching [something] with your camera",
+    "direction": "forward",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 882,
+    "video": "180703.mp4",
+    "answer_text": "Approaching [something] with your camera",
+    "direction": "forward",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 883,
+    "video": "201968.mp4",
+    "answer_text": "Approaching [something] with your camera",
+    "direction": "forward",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 884,
+    "video": "173157.mp4",
+    "answer_text": "Approaching [something] with your camera",
+    "direction": "forward",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 885,
+    "video": "18253.mp4",
+    "answer_text": "Approaching [something] with your camera",
+    "direction": "forward",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 886,
+    "video": "164331.mp4",
+    "answer_text": "Moving away from [something] with your camera",
+    "direction": "reverse",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 887,
+    "video": "39702.mp4",
+    "answer_text": "Moving away from [something] with your camera",
+    "direction": "reverse",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 888,
+    "video": "199390.mp4",
+    "answer_text": "Moving away from [something] with your camera",
+    "direction": "reverse",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 889,
+    "video": "155444.mp4",
+    "answer_text": "Moving away from [something] with your camera",
+    "direction": "reverse",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 890,
+    "video": "204619.mp4",
+    "answer_text": "Moving away from [something] with your camera",
+    "direction": "reverse",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 891,
+    "video": "95562.mp4",
+    "answer_text": "Moving away from [something] with your camera",
+    "direction": "reverse",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 892,
+    "video": "106553.mp4",
+    "answer_text": "Moving away from [something] with your camera",
+    "direction": "reverse",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  },
+  {
+    "id": 893,
+    "video": "62906.mp4",
+    "answer_text": "Moving away from [something] with your camera",
+    "direction": "reverse",
+    "triplet_id": "27f40159",
+    "noun_abstract": "['something']"
+  }
+]
