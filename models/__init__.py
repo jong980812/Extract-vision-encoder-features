@@ -1,10 +1,12 @@
 from .base import BaseVisionEncoder, VisionEncoderConfig
 from .siglip import SigLIPEncoder
 from .clip import CLIPEncoder       # ← 추가
+from .llava import LLaVAVisionEncoder
 
 ENCODER_REGISTRY = {
     "siglip": SigLIPEncoder,
     "clip": CLIPEncoder,             # ← 추가
+    "llava": LLaVAVisionEncoder,
 }
 
 def build_vision_encoder(encoder_name: str, model_name_or_path: str, **kwargs) -> BaseVisionEncoder:

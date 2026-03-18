@@ -41,11 +41,19 @@ def parse_args():
 
     # Encoder
     parser.add_argument("--encoder", type=str, default="siglip",
-                        help="Vision encoder name (e.g., siglip, clip)")
+                        help="Vision encoder name (e.g., siglip, clip, llava)")
     parser.add_argument("--model_name_or_path", type=str, default="google/siglip-so400m-patch14-384",
                         help="HuggingFace model ID or local path")
     parser.add_argument("--dtype", type=str, default="fp16", choices=["fp16", "bf16", "fp32"],
                         help="Model dtype")
+
+    # LLaVA-specific
+    parser.add_argument("--llava_model_name", type=str, default="llava_qwen",
+                        help="LLaVA model name for builder (e.g., llava_qwen, llava_llama, llava_mistral). "
+                             "Only used when --encoder=llava")
+    parser.add_argument("--attn_implementation", type=str, default="sdpa",
+                        choices=["sdpa", "flash_attention_2", "eager"],
+                        help="Attention implementation for LLaVA model loading. Only used when --encoder=llava")
 
     # Data
     parser.add_argument("--json_path", type=str, required=True,
@@ -144,11 +152,16 @@ def main():
     dtype = get_dtype(args.dtype)
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
+    # Prepare encoder kwargs
+    encoder_kwargs = dict(dtype=dtype, device=device)
+    if args.encoder == "llava":
+        encoder_kwargs["llava_model_name"] = args.llava_model_name
+        encoder_kwargs["attn_implementation"] = args.attn_implementation
+
     encoder = build_vision_encoder(
         encoder_name=args.encoder,
         model_name_or_path=args.model_name_or_path,
-        dtype=dtype,
-        device=device,
+        **encoder_kwargs,
     )
 
     # --- 3. Build dataloader ---
