@@ -1,0 +1,178 @@
+[
+  {
+    "video": "P20/videos/P20_05_373.7_375.6",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 745
+  },
+  {
+    "video": "P20/videos/P20_07_82.4_84.1",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 746
+  },
+  {
+    "video": "P20/videos/P20_07_83.6_85.3",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 747
+  },
+  {
+    "video": "P20/videos/P20_05_389.7_391.3",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 748
+  },
+  {
+    "video": "P08/videos/P08_16_12.8_13.7",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 749
+  },
+  {
+    "video": "P20/videos/P20_05_247.1_248.8",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 750
+  },
+  {
+    "video": "P20/videos/P20_05_388.4_389.8",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 751
+  },
+  {
+    "video": "P20/videos/P20_05_371.5_374.0",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 752
+  },
+  {
+    "video": "P20/videos/P20_05_246.0_247.0",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 753
+  },
+  {
+    "video": "P20/videos/P20_06_203.4_206.9",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 754
+  },
+  {
+    "video": "P06/videos/P06_10_120.6_121.5",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 755
+  },
+  {
+    "video": "P12/videos/P12_08_8.4_10.2",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 756
+  },
+  {
+    "video": "P08/videos/P08_17_549.1_550.7",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 757
+  },
+  {
+    "video": "P08/videos/P08_10_10.9_11.9",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 758
+  },
+  {
+    "video": "P08/videos/P08_16_15.5_17.2",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 759
+  },
+  {
+    "video": "P20/videos/P20_06_211.2_211.9",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 760
+  },
+  {
+    "video": "P08/videos/P08_17_578.3_579.8",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 761
+  },
+  {
+    "video": "P20/videos/P20_05_378.6_379.3",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 762
+  },
+  {
+    "video": "P20/videos/P20_05_394.9_396.2",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 763
+  },
+  {
+    "video": "P20/videos/P20_05_249.7_250.9",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 764
+  },
+  {
+    "video": "P20/videos/P20_07_87.5_88.8",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 765
+  },
+  {
+    "video": "P06/videos/P06_10_131.4_133.3",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "54a4c6d6",
+    "noun_class": "70",
+    "id": 766
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "video": "P29/videos/P29_05_482.6_483.4",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "5cb867b0",
+    "noun_class": "79",
+    "id": 779
+  },
+  {
+    "video": "P22/videos/P22_01_773.5_774.4",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "5cb867b0",
+    "noun_class": "79",
+    "id": 780
+  },
+  {
+    "video": "P22/videos/P22_01_1084.7_1087.2",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "5cb867b0",
+    "noun_class": "79",
+    "id": 781
+  },
+  {
+    "video": "P29/videos/P29_05_220.6_222.1",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "5cb867b0",
+    "noun_class": "79",
+    "id": 782
+  },
+  {
+    "video": "P06/videos/P06_10_66.2_67.0",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "5cb867b0",
+    "noun_class": "79",
+    "id": 783
+  },
+  {
+    "video": "P13/videos/P13_03_129.9_130.7",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "5cb867b0",
+    "noun_class": "79",
+    "id": 784
+  },
+  {
+    "video": "P28/videos/P28_26_21.4_22.2",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "5cb867b0",
+    "noun_class": "79",
+    "id": 785
+  },
+  {
+    "video": "P04/videos/P04_24_457.7_459.2",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "5cb867b0",
+    "noun_class": "79",
+    "id": 786
+  },
+  {
+    "video": "P29/videos/P29_05_221.9_223.1",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "5cb867b0",
+    "noun_class": "79",
+    "id": 787
+  },
+  {
+    "video": "P28/videos/P28_17_29.3_31.9",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "5cb867b0",
+    "noun_class": "79",
+    "id": 788
+  },
+  {
+    "video": "P28/videos/P28_25_29.6_30.4",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "5cb867b0",
+    "noun_class": "79",
+    "id": 789
+  }
+]

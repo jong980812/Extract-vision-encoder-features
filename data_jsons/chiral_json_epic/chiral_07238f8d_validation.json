@@ -1,0 +1,98 @@
+[
+  {
+    "video": "P29/videos/P29_05_50.8_52.4",
+    "answer_text": "put-on",
+    "direction": "forward",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 140
+  },
+  {
+    "video": "P29/videos/P29_05_1679.8_1681.0",
+    "answer_text": "put-on",
+    "direction": "forward",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 141
+  },
+  {
+    "video": "P03/videos/P03_24_769.7_770.9",
+    "answer_text": "put-on",
+    "direction": "forward",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 142
+  },
+  {
+    "video": "P06/videos/P06_13_8.3_13.1",
+    "answer_text": "put-on",
+    "direction": "forward",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 143
+  },
+  {
+    "video": "P29/videos/P29_05_1733.4_1735.6",
+    "answer_text": "put-on",
+    "direction": "forward",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 144
+  },
+  {
+    "video": "P11/videos/P11_20_31.0_32.0",
+    "answer_text": "put-on",
+    "direction": "forward",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 145
+  },
+  {
+    "video": "P03/videos/P03_24_809.7_811.3",
+    "answer_text": "put-on",
+    "direction": "forward",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 146
+  },
+  {
+    "video": "P06/videos/P06_13_3.3_5.8",
+    "answer_text": "put-on",
+    "direction": "forward",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 147
+  },
+  {
+    "video": "P29/videos/P29_05_53.1_56.2",
+    "answer_text": "put-on",
+    "direction": "forward",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 148
+  },
+  {
+    "video": "P11/videos/P11_22_48.6_49.9",
+    "answer_text": "put-on",
+    "direction": "forward",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 149
+  },
+  {
+    "video": "P06/videos/P06_13_56.3_60.7",
+    "answer_text": "take-off",
+    "direction": "reverse",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 150
+  },
+  {
+    "video": "P18/videos/P18_03_422.6_423.9",
+    "answer_text": "take-off",
+    "direction": "reverse",
+    "triplet_id": "07238f8d",
+    "noun_class": "60",
+    "id": 151
+  }
+]

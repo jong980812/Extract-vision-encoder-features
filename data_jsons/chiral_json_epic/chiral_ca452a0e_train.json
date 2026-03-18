@@ -1,0 +1,194 @@
+[
+  {
+    "video": "P26/videos/P26_09_107.3_116.5",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16250
+  },
+  {
+    "video": "P22/videos/P22_07_2066.0_2067.8",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16251
+  },
+  {
+    "video": "P22/videos/P22_07_2067.9_2069.8",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16252
+  },
+  {
+    "video": "P04/videos/P04_113_527.5_529.7",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16253
+  },
+  {
+    "video": "P30/videos/P30_05_1654.1_1656.2",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16254
+  },
+  {
+    "video": "P28/videos/P28_06_392.6_397.2",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16255
+  },
+  {
+    "video": "P22/videos/P22_07_2003.7_2005.7",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16256
+  },
+  {
+    "video": "P21/videos/P21_03_267.8_270.8",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16257
+  },
+  {
+    "video": "P22/videos/P22_07_1984.1_1986.9",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16258
+  },
+  {
+    "video": "P30/videos/P30_05_1619.2_1626.3",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16259
+  },
+  {
+    "video": "P21/videos/P21_03_270.9_303.5",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16260
+  },
+  {
+    "video": "P24/videos/P24_08_1183.3_1185.9",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16261
+  },
+  {
+    "video": "P22/videos/P22_07_2071.7_2072.7",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16262
+  },
+  {
+    "video": "P04/videos/P04_112_401.5_403.6",
+    "answer_text": "put-in",
+    "direction": "forward",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16263
+  },
+  {
+    "video": "P11/videos/P11_104_669.0_674.7",
+    "answer_text": "take-out",
+    "direction": "reverse",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16264
+  },
+  {
+    "video": "P11/videos/P11_104_655.9_660.6",
+    "answer_text": "take-out",
+    "direction": "reverse",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16265
+  },
+  {
+    "video": "P11/videos/P11_104_660.3_666.0",
+    "answer_text": "take-out",
+    "direction": "reverse",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16266
+  },
+  {
+    "video": "P11/videos/P11_16_268.6_270.7",
+    "answer_text": "take-out",
+    "direction": "reverse",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16267
+  },
+  {
+    "video": "P17/videos/P17_04_606.4_612.8",
+    "answer_text": "take-out",
+    "direction": "reverse",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16268
+  },
+  {
+    "video": "P17/videos/P17_03_256.9_258.3",
+    "answer_text": "take-out",
+    "direction": "reverse",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16269
+  },
+  {
+    "video": "P04/videos/P04_23_635.5_638.8",
+    "answer_text": "take-out",
+    "direction": "reverse",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16270
+  },
+  {
+    "video": "P17/videos/P17_03_4.2_6.5",
+    "answer_text": "take-out",
+    "direction": "reverse",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16271
+  },
+  {
+    "video": "P21/videos/P21_01_592.2_595.9",
+    "answer_text": "take-out",
+    "direction": "reverse",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16272
+  },
+  {
+    "video": "P11/videos/P11_16_270.8_274.5",
+    "answer_text": "take-out",
+    "direction": "reverse",
+    "triplet_id": "ca452a0e",
+    "noun_class": "47",
+    "id": 16273
+  }
+]

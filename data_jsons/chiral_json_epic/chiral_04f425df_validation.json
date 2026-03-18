@@ -1,0 +1,674 @@
+[
+  {
+    "video": "P29/videos/P29_05_747.7_750.2",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 56
+  },
+  {
+    "video": "P29/videos/P29_05_172.1_174.6",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 57
+  },
+  {
+    "video": "P11/videos/P11_23_58.4_59.2",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 58
+  },
+  {
+    "video": "P22/videos/P22_03_757.5_759.7",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 59
+  },
+  {
+    "video": "P20/videos/P20_05_268.9_269.8",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 60
+  },
+  {
+    "video": "P29/videos/P29_05_791.4_792.6",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 61
+  },
+  {
+    "video": "P11/videos/P11_24_23.6_24.3",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 62
+  },
+  {
+    "video": "P20/videos/P20_05_116.6_117.5",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 63
+  },
+  {
+    "video": "P20/videos/P20_05_159.0_159.9",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 64
+  },
+  {
+    "video": "P11/videos/P11_23_6.7_8.4",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 65
+  },
+  {
+    "video": "P06/videos/P06_14_98.6_99.8",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 66
+  },
+  {
+    "video": "P11/videos/P11_24_10.5_11.2",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 67
+  },
+  {
+    "video": "P20/videos/P20_05_12.5_13.1",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 68
+  },
+  {
+    "video": "P22/videos/P22_01_16.0_20.0",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 69
+  },
+  {
+    "video": "P04/videos/P04_24_218.7_221.7",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 70
+  },
+  {
+    "video": "P29/videos/P29_05_769.4_770.3",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 71
+  },
+  {
+    "video": "P29/videos/P29_05_62.0_63.5",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 72
+  },
+  {
+    "video": "P20/videos/P20_07_37.2_37.9",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 73
+  },
+  {
+    "video": "P29/videos/P29_05_565.3_566.0",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 74
+  },
+  {
+    "video": "P29/videos/P29_05_856.8_857.5",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 75
+  },
+  {
+    "video": "P14/videos/P14_06_4.0_5.9",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 76
+  },
+  {
+    "video": "P29/videos/P29_05_547.4_548.5",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 77
+  },
+  {
+    "video": "P20/videos/P20_07_60.5_65.1",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 78
+  },
+  {
+    "video": "P20/videos/P20_07_6.8_7.6",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 79
+  },
+  {
+    "video": "P20/videos/P20_06_216.9_217.8",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 80
+  },
+  {
+    "video": "P11/videos/P11_20_344.4_345.3",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 81
+  },
+  {
+    "video": "P29/videos/P29_05_57.0_59.1",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 82
+  },
+  {
+    "video": "P29/videos/P29_05_33.2_36.1",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 83
+  },
+  {
+    "video": "P11/videos/P11_18_3.6_4.9",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 84
+  },
+  {
+    "video": "P29/videos/P29_05_750.4_751.8",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 85
+  },
+  {
+    "video": "P20/videos/P20_06_214.6_217.5",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 86
+  },
+  {
+    "video": "P02/videos/P02_12_275.5_276.9",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 87
+  },
+  {
+    "video": "P11/videos/P11_22_38.4_40.3",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 88
+  },
+  {
+    "video": "P20/videos/P20_07_0.4_2.2",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 89
+  },
+  {
+    "video": "P20/videos/P20_05_61.3_62.2",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 90
+  },
+  {
+    "video": "P29/videos/P29_05_40.8_41.8",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 91
+  },
+  {
+    "video": "P04/videos/P04_30_262.8_263.7",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 92
+  },
+  {
+    "video": "P29/videos/P29_05_31.7_33.1",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 93
+  },
+  {
+    "video": "P22/videos/P22_03_479.2_480.9",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 94
+  },
+  {
+    "video": "P20/videos/P20_06_3.6_5.8",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 95
+  },
+  {
+    "video": "P04/videos/P04_24_7.6_9.5",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 96
+  },
+  {
+    "video": "P29/videos/P29_05_84.7_87.1",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 97
+  },
+  {
+    "video": "P20/videos/P20_05_251.6_254.8",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 98
+  },
+  {
+    "video": "P11/videos/P11_18_32.5_33.6",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 99
+  },
+  {
+    "video": "P29/videos/P29_05_577.2_580.9",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 100
+  },
+  {
+    "video": "P29/videos/P29_05_114.1_115.6",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 101
+  },
+  {
+    "video": "P20/videos/P20_05_92.2_93.6",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 102
+  },
+  {
+    "video": "P20/videos/P20_05_2.0_3.6",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 103
+  },
+  {
+    "video": "P22/videos/P22_01_30.2_33.2",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 104
+  },
+  {
+    "video": "P11/videos/P11_18_7.5_8.8",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 105
+  },
+  {
+    "video": "P20/videos/P20_07_73.6_75.6",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 106
+  },
+  {
+    "video": "P01/videos/P01_14_130.8_132.7",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 107
+  },
+  {
+    "video": "P20/videos/P20_06_219.1_220.4",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 108
+  },
+  {
+    "video": "P11/videos/P11_18_34.1_35.0",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 109
+  },
+  {
+    "video": "P11/videos/P11_23_59.9_61.6",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 110
+  },
+  {
+    "video": "P20/videos/P20_05_169.7_172.8",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 111
+  },
+  {
+    "video": "P20/videos/P20_05_130.0_132.6",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 112
+  },
+  {
+    "video": "P22/videos/P22_04_317.9_318.8",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 113
+  },
+  {
+    "video": "P20/videos/P20_05_114.8_115.9",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 114
+  },
+  {
+    "video": "P20/videos/P20_07_52.7_60.4",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 115
+  },
+  {
+    "video": "P20/videos/P20_07_2.9_5.3",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 116
+  },
+  {
+    "video": "P14/videos/P14_08_378.7_380.2",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 117
+  },
+  {
+    "video": "P22/videos/P22_04_43.6_45.4",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 118
+  },
+  {
+    "video": "P11/videos/P11_23_13.1_13.8",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 119
+  },
+  {
+    "video": "P20/videos/P20_05_3.6_5.4",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 120
+  },
+  {
+    "video": "P22/videos/P22_04_318.9_319.6",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 121
+  },
+  {
+    "video": "P22/videos/P22_03_555.3_556.0",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 122
+  },
+  {
+    "video": "P22/videos/P22_03_495.9_496.5",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 123
+  },
+  {
+    "video": "P11/videos/P11_22_40.3_45.2",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 124
+  },
+  {
+    "video": "P20/videos/P20_05_23.7_25.8",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 125
+  },
+  {
+    "video": "P29/videos/P29_05_174.8_176.5",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 126
+  },
+  {
+    "video": "P20/videos/P20_05_9.6_10.5",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 127
+  },
+  {
+    "video": "P29/videos/P29_05_549.0_549.8",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 128
+  },
+  {
+    "video": "P20/videos/P20_05_75.6_79.2",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 129
+  },
+  {
+    "video": "P04/videos/P04_24_232.9_235.2",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 130
+  },
+  {
+    "video": "P20/videos/P20_06_16.5_18.2",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 131
+  },
+  {
+    "video": "P04/videos/P04_24_10.6_12.5",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 132
+  },
+  {
+    "video": "P20/videos/P20_07_69.3_74.2",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 133
+  },
+  {
+    "video": "P20/videos/P20_07_24.8_26.0",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 134
+  },
+  {
+    "video": "P22/videos/P22_04_326.8_332.4",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 135
+  },
+  {
+    "video": "P24/videos/P24_09_1868.2_1869.4",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 136
+  },
+  {
+    "video": "P22/videos/P22_03_764.3_766.1",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 137
+  },
+  {
+    "video": "P14/videos/P14_08_336.9_339.1",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 138
+  },
+  {
+    "video": "P22/videos/P22_04_369.3_370.2",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "04f425df",
+    "noun_class": "7",
+    "id": 139
+  }
+]

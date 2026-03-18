@@ -1,0 +1,90 @@
+[
+  {
+    "video": "P28/videos/P28_25_17.7_23.5",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "c0d8e9ea",
+    "noun_class": "47",
+    "id": 1963
+  },
+  {
+    "video": "P03/videos/P03_23_227.9_229.3",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "c0d8e9ea",
+    "noun_class": "47",
+    "id": 1964
+  },
+  {
+    "video": "P21/videos/P21_02_206.0_212.6",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "c0d8e9ea",
+    "noun_class": "47",
+    "id": 1965
+  },
+  {
+    "video": "P20/videos/P20_06_177.1_180.1",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "c0d8e9ea",
+    "noun_class": "47",
+    "id": 1966
+  },
+  {
+    "video": "P28/videos/P28_25_27.2_29.6",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "c0d8e9ea",
+    "noun_class": "47",
+    "id": 1967
+  },
+  {
+    "video": "P02/videos/P02_12_42.8_43.8",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "c0d8e9ea",
+    "noun_class": "47",
+    "id": 1968
+  },
+  {
+    "video": "P01/videos/P01_14_770.0_771.6",
+    "answer_text": "open",
+    "direction": "forward",
+    "triplet_id": "c0d8e9ea",
+    "noun_class": "47",
+    "id": 1969
+  },
+  {
+    "video": "P20/videos/P20_06_190.1_192.6",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "c0d8e9ea",
+    "noun_class": "47",
+    "id": 1970
+  },
+  {
+    "video": "P15/videos/P15_06_152.6_156.6",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "c0d8e9ea",
+    "noun_class": "47",
+    "id": 1971
+  },
+  {
+    "video": "P03/videos/P03_23_232.2_234.8",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "c0d8e9ea",
+    "noun_class": "47",
+    "id": 1972
+  },
+  {
+    "video": "P02/videos/P02_12_66.9_68.5",
+    "answer_text": "close",
+    "direction": "reverse",
+    "triplet_id": "c0d8e9ea",
+    "noun_class": "47",
+    "id": 1973
+  }
+]

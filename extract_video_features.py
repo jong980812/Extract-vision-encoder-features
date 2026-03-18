@@ -183,7 +183,7 @@ def main():
         print("-" * 60)
 
         img_size = encoder.encoder_config.image_size
-        dummy_input = torch.randn(1, 3, img_size, img_size, device=device, dtype=dtype)
+        dummy_input = torch.randn(8, 3, img_size, img_size, device=device, dtype=dtype)
 
         hook_records = []
 

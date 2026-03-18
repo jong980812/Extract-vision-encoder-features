@@ -1,0 +1,90 @@
+[
+  {
+    "video": "P20/videos/P20_06_168.1_170.2",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "da303c96",
+    "noun_class": "33",
+    "id": 2333
+  },
+  {
+    "video": "P11/videos/P11_19_13.3_16.6",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "da303c96",
+    "noun_class": "33",
+    "id": 2334
+  },
+  {
+    "video": "P22/videos/P22_01_749.1_749.8",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "da303c96",
+    "noun_class": "33",
+    "id": 2335
+  },
+  {
+    "video": "P20/videos/P20_06_223.0_223.8",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "da303c96",
+    "noun_class": "33",
+    "id": 2336
+  },
+  {
+    "video": "P22/videos/P22_01_910.3_911.4",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "da303c96",
+    "noun_class": "33",
+    "id": 2337
+  },
+  {
+    "video": "P15/videos/P15_05_5.3_6.6",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "da303c96",
+    "noun_class": "33",
+    "id": 2338
+  },
+  {
+    "video": "P31/videos/P31_10_47.4_50.1",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "da303c96",
+    "noun_class": "33",
+    "id": 2339
+  },
+  {
+    "video": "P20/videos/P20_06_172.0_174.4",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "da303c96",
+    "noun_class": "33",
+    "id": 2340
+  },
+  {
+    "video": "P22/videos/P22_01_750.0_750.8",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "da303c96",
+    "noun_class": "33",
+    "id": 2341
+  },
+  {
+    "video": "P24/videos/P24_09_1877.7_1878.5",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "da303c96",
+    "noun_class": "33",
+    "id": 2342
+  },
+  {
+    "video": "P22/videos/P22_01_911.5_912.9",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "da303c96",
+    "noun_class": "33",
+    "id": 2343
+  }
+]

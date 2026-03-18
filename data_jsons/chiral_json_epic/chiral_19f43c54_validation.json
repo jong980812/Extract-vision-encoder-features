@@ -1,0 +1,98 @@
+[
+  {
+    "video": "P22/videos/P22_04_248.8_249.4",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 470
+  },
+  {
+    "video": "P22/videos/P22_04_296.3_297.3",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 471
+  },
+  {
+    "video": "P22/videos/P22_01_500.7_504.1",
+    "answer_text": "pick-up",
+    "direction": "forward",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 472
+  },
+  {
+    "video": "P22/videos/P22_01_386.8_387.8",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 473
+  },
+  {
+    "video": "P22/videos/P22_01_608.7_610.8",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 474
+  },
+  {
+    "video": "P22/videos/P22_01_601.2_602.0",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 475
+  },
+  {
+    "video": "P22/videos/P22_01_587.6_588.4",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 476
+  },
+  {
+    "video": "P22/videos/P22_04_308.7_309.7",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 477
+  },
+  {
+    "video": "P22/videos/P22_04_243.1_244.5",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 478
+  },
+  {
+    "video": "P22/videos/P22_01_284.6_285.9",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 479
+  },
+  {
+    "video": "P22/videos/P22_01_591.6_592.4",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 480
+  },
+  {
+    "video": "P22/videos/P22_01_595.4_595.9",
+    "answer_text": "put-down",
+    "direction": "reverse",
+    "triplet_id": "19f43c54",
+    "noun_class": "74",
+    "id": 481
+  }
+]

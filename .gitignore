@@ -4,3 +4,6 @@ scripts/
 
 output/
 script/
+
+
+*.pyc
