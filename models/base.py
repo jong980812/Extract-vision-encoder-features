@@ -62,6 +62,31 @@ class BaseVisionEncoder(ABC):
         """Return the encoder configuration."""
         ...
 
+    def get_debug_info(self) -> dict:
+        """
+        Return debug information about the encoder.
+        Subclasses should override to add encoder-specific details.
+
+        Returns:
+            dict with keys like:
+                - encoder_type, model_name_or_path
+                - total_layers, extract_layer_index, extract_layer_desc
+                - image_size, patch_size, hidden_size, num_patches
+                - dtype, device
+        """
+        cfg = self.encoder_config
+        return {
+            "encoder_type": self.__class__.__name__,
+            "model_name_or_path": cfg.model_name_or_path,
+            "image_size": cfg.image_size,
+            "patch_size": cfg.patch_size,
+            "hidden_size": cfg.hidden_size,
+            "num_patches": self.num_patches,
+            "num_patches_per_side": self.num_patches_per_side,
+            "dtype": str(cfg.dtype),
+            "device": cfg.device,
+        }
+
     @property
     def num_patches(self) -> int:
         cfg = self.encoder_config
