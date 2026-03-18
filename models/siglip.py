@@ -151,6 +151,29 @@ class SigLIPEncoder(BaseVisionEncoder):
 
         return features
 
+    def get_debug_info(self) -> dict:
+        info = super().get_debug_info()
+        if self.model is not None:
+            current_layers = len(self.model.vision_model.encoder.layers)
+            original_layers = current_layers + 1  # last layer was deleted
+        else:
+            current_layers = None
+            original_layers = 27  # default for SO400M
+
+        info.update({
+            "original_num_layers": original_layers,
+            "current_num_layers": current_layers,
+            "deleted_layers": "[-1] (last layer removed, head → Identity)",
+            "extract_method": "hidden_states[-1] after deleting last layer",
+            "extract_layer_original_index": -2,
+            "extract_layer_description": (
+                f"Penultimate layer (original layer {original_layers - 2}/{original_layers - 1}). "
+                f"Last layer deleted → hidden_states[-1] on {current_layers}-layer model "
+                f"= original layer index {original_layers - 2}."
+            ),
+        })
+        return info
+
     @property
     def encoder_config(self) -> VisionEncoderConfig:
         return self._config

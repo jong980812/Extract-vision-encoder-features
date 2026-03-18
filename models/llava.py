@@ -188,6 +188,43 @@ class LLaVAVisionEncoder(BaseVisionEncoder):
 
         return features
 
+    def get_debug_info(self) -> dict:
+        info = super().get_debug_info()
+
+        if self.vision_tower is not None:
+            vt_type = type(self.vision_tower).__name__
+            inner = self.vision_tower.vision_tower
+            current_layers = len(inner.vision_model.encoder.layers)
+            original_layers = current_layers + 1  # last layer was deleted by SigLipVisionTower
+
+            info.update({
+                "source_vlm": self.model_name_or_path,
+                "llava_model_name": self.llava_model_name,
+                "vision_tower_type": vt_type,
+                "original_num_layers": original_layers,
+                "current_num_layers": current_layers,
+                "deleted_layers": "[-1] (last layer removed by SigLipVisionTower.load_model())",
+                "extract_method": (
+                    f"SigLipVisionTower.forward() → "
+                    f"hidden_states[-1] on {current_layers}-layer model"
+                ),
+                "extract_layer_original_index": -2,
+                "extract_layer_description": (
+                    f"Penultimate layer (original layer {original_layers - 2}/{original_layers - 1}). "
+                    f"SigLipVisionTower deletes last encoder layer, "
+                    f"then returns hidden_states[-1] = original layer {original_layers - 2}."
+                ),
+                "attn_implementation": self._attn_implementation,
+            })
+        else:
+            info.update({
+                "source_vlm": self.model_name_or_path,
+                "llava_model_name": self.llava_model_name,
+                "vision_tower_type": "not loaded",
+            })
+
+        return info
+
     @property
     def encoder_config(self) -> VisionEncoderConfig:
         if self._config is None:

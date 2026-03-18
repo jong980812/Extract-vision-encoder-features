@@ -149,6 +149,33 @@ class CLIPEncoder(BaseVisionEncoder):
             raise RuntimeError("No CLS tokens available. Call encode_images() first.")
         return self._last_cls_tokens
 
+    def get_debug_info(self) -> dict:
+        info = super().get_debug_info()
+        if self.model is not None:
+            total_layers = self.model.config.num_hidden_layers
+        else:
+            total_layers = 24  # default for CLIP-L/14
+
+        # select_layer=-2 means penultimate; positive means absolute index
+        if self.select_layer < 0:
+            abs_index = total_layers + self.select_layer
+        else:
+            abs_index = self.select_layer
+
+        info.update({
+            "total_num_layers": total_layers,
+            "select_layer": self.select_layer,
+            "extract_layer_absolute_index": abs_index,
+            "extract_method": f"hidden_states[{self.select_layer}] (0-indexed: layer {abs_index})",
+            "extract_layer_description": (
+                f"Layer {abs_index}/{total_layers} "
+                f"(hidden_states[{self.select_layer}]). "
+                f"CLS token at index 0 is removed; only patch tokens returned."
+            ),
+            "cls_token": "Separated and cached via get_last_cls_tokens()",
+        })
+        return info
+
     @property
     def encoder_config(self) -> VisionEncoderConfig:
         return self._config

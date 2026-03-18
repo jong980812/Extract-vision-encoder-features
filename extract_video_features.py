@@ -90,6 +90,10 @@ def parse_args():
     parser.add_argument("--skip_existing", action="store_true",
                         help="Skip videos whose .pt files already exist")
 
+    # Debug
+    parser.add_argument("--debug", action="store_true",
+                        help="Print encoder spec, extraction layer info, and run a dummy forward pass to verify")
+
     return parser.parse_args()
 
 
@@ -163,6 +167,88 @@ def main():
         model_name_or_path=args.model_name_or_path,
         **encoder_kwargs,
     )
+
+    # --- 2.1 Debug: print encoder spec & verify extraction layer ---
+    if args.debug:
+        print("\n" + "=" * 60)
+        print(" [DEBUG] Vision Encoder Spec")
+        print("=" * 60)
+        debug_info = encoder.get_debug_info()
+        for k, v in debug_info.items():
+            print(f"  {k}: {v}")
+
+        # Dummy forward pass with hooks to verify which layer activations are used
+        print("\n" + "-" * 60)
+        print(" [DEBUG] Dummy forward pass — verifying extraction layer")
+        print("-" * 60)
+
+        img_size = encoder.encoder_config.image_size
+        dummy_input = torch.randn(1, 3, img_size, img_size, device=device, dtype=dtype)
+
+        hook_records = []
+
+        def _get_hook(layer_idx):
+            def hook_fn(module, input, output):
+                if isinstance(output, tuple):
+                    out = output[0]
+                else:
+                    out = output
+                hook_records.append({
+                    "layer_idx": layer_idx,
+                    "output_shape": tuple(out.shape),
+                    "output_norm": out.float().norm().item(),
+                })
+            return hook_fn
+
+        # Register hooks on encoder layers
+        handles = []
+        if args.encoder == "clip":
+            layers = encoder.model.vision_model.encoder.layers
+        elif args.encoder == "siglip":
+            layers = encoder.model.vision_model.encoder.layers
+        elif args.encoder == "llava":
+            layers = encoder.vision_tower.vision_tower.vision_model.encoder.layers
+        else:
+            layers = []
+
+        for idx, layer in enumerate(layers):
+            h = layer.register_forward_hook(_get_hook(idx))
+            handles.append(h)
+
+        # Run dummy forward
+        with torch.no_grad():
+            dummy_out = encoder.encode_images(dummy_input)
+
+        # Remove hooks
+        for h in handles:
+            h.remove()
+
+        # Print layer activation summary
+        total_hooked = len(hook_records)
+        print(f"  Encoder layers fired: {total_hooked}")
+        print(f"  Output feature shape: {tuple(dummy_out.shape)}")
+        print(f"  Output feature norm:  {dummy_out.float().norm().item():.4f}")
+        print()
+
+        # Show last few layers to highlight which one is extracted
+        show_n = min(5, total_hooked)
+        print(f"  Last {show_n} layer activations:")
+        for rec in hook_records[-show_n:]:
+            marker = " ← extracted" if rec["layer_idx"] == total_hooked - 1 else ""
+            print(f"    layer {rec['layer_idx']:3d} | shape: {rec['output_shape']} | norm: {rec['output_norm']:.4f}{marker}")
+
+        # Verify output matches last hooked layer
+        if hook_records:
+            last_norm = hook_records[-1]["output_norm"]
+            out_norm = dummy_out.float().norm().item()
+            # For CLIP, norms differ because CLS is removed; skip exact match check
+            if args.encoder != "clip":
+                match_str = "MATCH" if abs(last_norm - out_norm) < 1.0 else "DIFFER (projector/head may be applied)"
+                print(f"\n  Last layer norm vs output norm: {match_str}")
+
+        print("=" * 60 + "\n")
+
+        del dummy_input, dummy_out, hook_records
 
     # --- 3. Build dataloader ---
     loader = make_dataloader(
