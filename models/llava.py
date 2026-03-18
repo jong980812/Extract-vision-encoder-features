@@ -107,7 +107,7 @@ class LLaVAVisionEncoder(BaseVisionEncoder):
             model_path=self.model_name_or_path,
             model_base=None,
             model_name=self.llava_model_name,
-            device_map="cpu",  # Load on CPU first to control memory
+            device_map=None,  # Avoid accelerate's meta tensor dispatch (causes no-op weight copy)
             torch_dtype=torch_dtype_str,
             attn_implementation=self._attn_implementation,
         )
