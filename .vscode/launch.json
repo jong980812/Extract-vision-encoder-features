@@ -46,6 +46,33 @@
             ]
         },
         {
+            "name": "Extract: Video Features (LLaVA)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/extract_video_features.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "0",
+                "HF_HOME":"/data/datasets/LLaVA-Video-100K-Subset"
+            },
+            "args": [
+                "--encoder", "llava",
+                "--model_name_or_path", "lmms-lab/llava-onevision-qwen2-7b-si",
+                "--llava_model_name", "llava_qwen",
+                "--attn_implementation", "sdpa",
+                "--json_path", "data_jsons/ssv2_VP_default.json",
+                "--video_root_dir", "/local_datasets/vlm_direction",
+                "--output_dir", "results/llava-onevision-7b-si/ssv2_VP_default/2x2",
+                "--num_frames", "8",
+                "--batch_size", "8",
+                "--num_workers", "4",
+                "--spatial_pool_stride", "2",
+                "--spatial_pool_mode", "bilinear",
+                "--force_sample"
+            ]
+        },
+        {
             "name": "Probe: Linear (mean)",
             "type": "debugpy",
             "request": "launch",
