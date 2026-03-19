@@ -1,6 +1,6 @@
 [
   {
-    "video": "P26/videos/P26_09_107.3_116.5",
+    "video": "P26_09_22.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -8,7 +8,7 @@
     "id": 16250
   },
   {
-    "video": "P22/videos/P22_07_2066.0_2067.8",
+    "video": "P22_07_708.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -16,7 +16,7 @@
     "id": 16251
   },
   {
-    "video": "P22/videos/P22_07_2067.9_2069.8",
+    "video": "P22_07_709.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -24,7 +24,7 @@
     "id": 16252
   },
   {
-    "video": "P04/videos/P04_113_527.5_529.7",
+    "video": "P04_113_287.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -32,7 +32,7 @@
     "id": 16253
   },
   {
-    "video": "P30/videos/P30_05_1654.1_1656.2",
+    "video": "P30_05_340.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -40,7 +40,7 @@
     "id": 16254
   },
   {
-    "video": "P28/videos/P28_06_392.6_397.2",
+    "video": "P28_06_84.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -48,7 +48,7 @@
     "id": 16255
   },
   {
-    "video": "P22/videos/P22_07_2003.7_2005.7",
+    "video": "P22_07_690.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -56,7 +56,7 @@
     "id": 16256
   },
   {
-    "video": "P21/videos/P21_03_267.8_270.8",
+    "video": "P21_03_30.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -64,7 +64,7 @@
     "id": 16257
   },
   {
-    "video": "P22/videos/P22_07_1984.1_1986.9",
+    "video": "P22_07_685.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -72,7 +72,7 @@
     "id": 16258
   },
   {
-    "video": "P30/videos/P30_05_1619.2_1626.3",
+    "video": "P30_05_334.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -80,7 +80,7 @@
     "id": 16259
   },
   {
-    "video": "P21/videos/P21_03_270.9_303.5",
+    "video": "P21_03_31.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -88,7 +88,7 @@
     "id": 16260
   },
   {
-    "video": "P24/videos/P24_08_1183.3_1185.9",
+    "video": "P24_08_281.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -96,7 +96,7 @@
     "id": 16261
   },
   {
-    "video": "P22/videos/P22_07_2071.7_2072.7",
+    "video": "P22_07_711.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -104,7 +104,7 @@
     "id": 16262
   },
   {
-    "video": "P04/videos/P04_112_401.5_403.6",
+    "video": "P04_112_229.mp4",
     "answer_text": "put-in",
     "direction": "forward",
     "triplet_id": "ca452a0e",
@@ -112,7 +112,7 @@
     "id": 16263
   },
   {
-    "video": "P11/videos/P11_104_669.0_674.7",
+    "video": "P11_104_156.mp4",
     "answer_text": "take-out",
     "direction": "reverse",
     "triplet_id": "ca452a0e",
@@ -120,7 +120,7 @@
     "id": 16264
   },
   {
-    "video": "P11/videos/P11_104_655.9_660.6",
+    "video": "P11_104_153.mp4",
     "answer_text": "take-out",
     "direction": "reverse",
     "triplet_id": "ca452a0e",
@@ -128,7 +128,7 @@
     "id": 16265
   },
   {
-    "video": "P11/videos/P11_104_660.3_666.0",
+    "video": "P11_104_154.mp4",
     "answer_text": "take-out",
     "direction": "reverse",
     "triplet_id": "ca452a0e",
@@ -136,7 +136,7 @@
     "id": 16266
   },
   {
-    "video": "P11/videos/P11_16_268.6_270.7",
+    "video": "P11_16_69.mp4",
     "answer_text": "take-out",
     "direction": "reverse",
     "triplet_id": "ca452a0e",
@@ -144,7 +144,7 @@
     "id": 16267
   },
   {
-    "video": "P17/videos/P17_04_606.4_612.8",
+    "video": "P17_04_29.mp4",
     "answer_text": "take-out",
     "direction": "reverse",
     "triplet_id": "ca452a0e",
@@ -152,7 +152,7 @@
     "id": 16268
   },
   {
-    "video": "P17/videos/P17_03_256.9_258.3",
+    "video": "P17_03_19.mp4",
     "answer_text": "take-out",
     "direction": "reverse",
     "triplet_id": "ca452a0e",
@@ -160,7 +160,7 @@
     "id": 16269
   },
   {
-    "video": "P04/videos/P04_23_635.5_638.8",
+    "video": "P04_23_73.mp4",
     "answer_text": "take-out",
     "direction": "reverse",
     "triplet_id": "ca452a0e",
@@ -168,7 +168,7 @@
     "id": 16270
   },
   {
-    "video": "P17/videos/P17_03_4.2_6.5",
+    "video": "P17_03_1.mp4",
     "answer_text": "take-out",
     "direction": "reverse",
     "triplet_id": "ca452a0e",
@@ -176,7 +176,7 @@
     "id": 16271
   },
   {
-    "video": "P21/videos/P21_01_592.2_595.9",
+    "video": "P21_01_88.mp4",
     "answer_text": "take-out",
     "direction": "reverse",
     "triplet_id": "ca452a0e",
@@ -184,7 +184,7 @@
     "id": 16272
   },
   {
-    "video": "P11/videos/P11_16_270.8_274.5",
+    "video": "P11_16_70.mp4",
     "answer_text": "take-out",
     "direction": "reverse",
     "triplet_id": "ca452a0e",

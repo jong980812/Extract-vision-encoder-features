@@ -1,6 +1,6 @@
 [
   {
-    "video": "P29/videos/P29_05_50.8_52.4",
+    "video": "P29_05_17.mp4",
     "answer_text": "put-on",
     "direction": "forward",
     "triplet_id": "07238f8d",
@@ -8,7 +8,7 @@
     "id": 140
   },
   {
-    "video": "P29/videos/P29_05_1679.8_1681.0",
+    "video": "P29_05_523.mp4",
     "answer_text": "put-on",
     "direction": "forward",
     "triplet_id": "07238f8d",
@@ -16,7 +16,7 @@
     "id": 141
   },
   {
-    "video": "P03/videos/P03_24_769.7_770.9",
+    "video": "P03_24_124.mp4",
     "answer_text": "put-on",
     "direction": "forward",
     "triplet_id": "07238f8d",
@@ -24,7 +24,7 @@
     "id": 142
   },
   {
-    "video": "P06/videos/P06_13_8.3_13.1",
+    "video": "P06_13_4.mp4",
     "answer_text": "put-on",
     "direction": "forward",
     "triplet_id": "07238f8d",
@@ -32,7 +32,7 @@
     "id": 143
   },
   {
-    "video": "P29/videos/P29_05_1733.4_1735.6",
+    "video": "P29_05_537.mp4",
     "answer_text": "put-on",
     "direction": "forward",
     "triplet_id": "07238f8d",
@@ -40,7 +40,7 @@
     "id": 144
   },
   {
-    "video": "P11/videos/P11_20_31.0_32.0",
+    "video": "P11_20_12.mp4",
     "answer_text": "put-on",
     "direction": "forward",
     "triplet_id": "07238f8d",
@@ -48,7 +48,7 @@
     "id": 145
   },
   {
-    "video": "P03/videos/P03_24_809.7_811.3",
+    "video": "P03_24_132.mp4",
     "answer_text": "put-on",
     "direction": "forward",
     "triplet_id": "07238f8d",
@@ -56,7 +56,7 @@
     "id": 146
   },
   {
-    "video": "P06/videos/P06_13_3.3_5.8",
+    "video": "P06_13_2.mp4",
     "answer_text": "put-on",
     "direction": "forward",
     "triplet_id": "07238f8d",
@@ -64,7 +64,7 @@
     "id": 147
   },
   {
-    "video": "P29/videos/P29_05_53.1_56.2",
+    "video": "P29_05_18.mp4",
     "answer_text": "put-on",
     "direction": "forward",
     "triplet_id": "07238f8d",
@@ -72,7 +72,7 @@
     "id": 148
   },
   {
-    "video": "P11/videos/P11_22_48.6_49.9",
+    "video": "P11_22_19.mp4",
     "answer_text": "put-on",
     "direction": "forward",
     "triplet_id": "07238f8d",
@@ -80,7 +80,7 @@
     "id": 149
   },
   {
-    "video": "P06/videos/P06_13_56.3_60.7",
+    "video": "P06_13_18.mp4",
     "answer_text": "take-off",
     "direction": "reverse",
     "triplet_id": "07238f8d",
@@ -88,7 +88,7 @@
     "id": 150
   },
   {
-    "video": "P18/videos/P18_03_422.6_423.9",
+    "video": "P18_03_111.mp4",
     "answer_text": "take-off",
     "direction": "reverse",
     "triplet_id": "07238f8d",

@@ -27,7 +27,8 @@ import json
 import math
 import os
 import time
-
+import random
+import numpy as np
 import torch
 import torch.nn.functional as F
 from tqdm import tqdm
@@ -79,7 +80,7 @@ def parse_args():
     parser.add_argument("--spatial_pool_stride", type=int, default=1,
                         help="Spatial pooling stride. 1=no pooling, 2=729→196, 4=729→49")
     parser.add_argument("--spatial_pool_mode", type=str, default="bilinear",
-                        choices=["average", "max", "bilinear"],
+                        choices=["average", "max", "bilinear","bilinear_align_corner_true"],
                         help="Spatial pooling mode (following LLaVA-NeXT config). LLaVA-OneVision uses bilinear.")
 
     # Output
@@ -89,6 +90,8 @@ def parse_args():
                         help="per_video: one .pt per video, single: all features in one file")
     parser.add_argument("--skip_existing", action="store_true",
                         help="Skip videos whose .pt files already exist")
+    parser.add_argument("--seed", type=int, default=42,
+                        help="Random seed for reproducibility")
 
     # Debug
     parser.add_argument("--debug", action="store_true",
@@ -128,13 +131,20 @@ def spatial_pool_2d(features: torch.Tensor, num_patches_per_side: int,
     features = features.permute(0, 3, 1, 2).contiguous()
 
     if mode == "average":
-        features = F.avg_pool2d(features, stride)
+        # features = F.avg_pool2d(features, stride)
+        scaled_h = math.ceil(h / stride)
+        scaled_w = math.ceil(w / stride)
+        features=F.adaptive_avg_pool2d(features, (scaled_h, scaled_w))
     elif mode == "max":
         features = F.max_pool2d(features, stride)
     elif mode == "bilinear":
         scaled_h = math.ceil(h / stride)
         scaled_w = math.ceil(w / stride)
         features = F.interpolate(features, size=(scaled_h, scaled_w), mode="bilinear")
+    elif mode == "bilinear_align_corner_true":
+        scaled_h = math.ceil(h / stride)
+        scaled_w = math.ceil(w / stride)
+        features = F.interpolate(features, size=(scaled_h, scaled_w), mode="bilinear",align_corners=True)
     else:
         raise ValueError(f"Unexpected spatial_pool_mode: {mode}")
 
@@ -147,7 +157,9 @@ def spatial_pool_2d(features: torch.Tensor, num_patches_per_side: int,
 
 def main():
     args = parse_args()
-
+    random.seed(args.seed)
+    np.random.seed(args.seed)
+    torch.manual_seed(args.seed)
     # --- 1. Setup output directory ---
     os.makedirs(args.output_dir, exist_ok=True)
     os.makedirs(os.path.join(args.output_dir,'features'), exist_ok=True)
