@@ -1,0 +1,3642 @@
+[
+  {
+    "id": 0,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/Elon_musk.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Up",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 1,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/Horse.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Left",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 2,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/apple.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 3,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/ax.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Left",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 4,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/backpack.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 5,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/banana.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 6,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/barbell.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Left",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 7,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/baseball.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 8,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/bicycle.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 9,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/car.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Left",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 10,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/cat.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Up",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 11,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/chair.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 12,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/clock.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 13,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/cookie.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Down",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 14,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/dagger.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 15,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/drum.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Right",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 16,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/eggs.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 17,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/flamingo.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 18,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/football.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 19,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/gloves.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 20,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/hat.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 21,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/house.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Right",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 22,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/iphone.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 23,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/jacket.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Left",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 24,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/juice.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Down",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 25,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/keyboard.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 26,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/koala.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 27,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/lemon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 28,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/mackbook.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 29,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/melon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 30,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/milk.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 31,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/moon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Right",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 32,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/mushroom.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 33,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/owl.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 34,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/pikachu.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Left",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 35,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/radio.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 36,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/robot.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 37,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/sandwich.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 38,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/satellite.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Up",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 39,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/scarf.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 40,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/scissors.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 41,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/scooter.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Left",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 42,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/sheep.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 43,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/soap.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Right",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 44,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/sugar.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Up",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 45,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/swan.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 46,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/table.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 47,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/tablet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Left",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 48,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/taxi.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+    ],
+    "answer": "C",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 49,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/telephone.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 50,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/tie.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 51,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/tiger.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 52,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/toilet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Right",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 53,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/trash_can.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 54,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/trian.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Right",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 55,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/umbrella.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+    ],
+    "answer": "C",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 56,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/vans.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 57,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/wallet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 58,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/walnut.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Down",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 59,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/web_camera.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Right",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 60,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/whale.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 61,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/wheelchair.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Left",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 62,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/whisky.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 63,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/yogurt.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 64,
+    "video": "E2E_real_VP_default_bigger_nonlinear/down/zebra.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Right",
+      "Down"
+    ],
+    "answer": "D",
+    "answer_text": "Down",
+    "direction": "down"
+  },
+  {
+    "id": 65,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/Elon_musk.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Left",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 66,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/Horse.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Left",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 67,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/apple.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 68,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/ax.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 69,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/backpack.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 70,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/banana.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Up",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 71,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/barbell.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 72,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/baseball.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Left",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 73,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/bicycle.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 74,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/car.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 75,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/cat.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Down",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 76,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/chair.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 77,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/clock.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 78,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/cookie.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 79,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/dagger.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 80,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/drum.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 81,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/eggs.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 82,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/flamingo.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 83,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/football.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Left",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 84,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/gloves.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Left",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 85,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/hat.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 86,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/house.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 87,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/iphone.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 88,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/jacket.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Left",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 89,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/juice.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 90,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/keyboard.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Right",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 91,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/koala.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 92,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/lemon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 93,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/mackbook.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 94,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/melon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Right",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 95,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/milk.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Down",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 96,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/moon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Down",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 97,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/mushroom.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 98,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/owl.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 99,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/pikachu.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Up",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 100,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/radio.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 101,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/robot.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Up",
+      "Right"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 102,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/sandwich.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Up",
+      "Right"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 103,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/satellite.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 104,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/scarf.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 105,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/scissors.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 106,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/scooter.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 107,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/sheep.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Down",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 108,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/soap.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Right",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 109,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/sugar.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 110,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/swan.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 111,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/table.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Right",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 112,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/tablet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 113,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/taxi.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 114,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/telephone.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Down",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 115,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/tie.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Left",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 116,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/tiger.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 117,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/toilet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 118,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/trash_can.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 119,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/trian.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Left",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 120,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/umbrella.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 121,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/vans.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Right",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 122,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/wallet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 123,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/walnut.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 124,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/web_camera.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Left",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 125,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/whale.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Left",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 126,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/wheelchair.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 127,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/whisky.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Left",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 128,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/yogurt.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "D",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 129,
+    "video": "E2E_real_VP_default_bigger_nonlinear/up/zebra.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Up",
+    "direction": "up"
+  },
+  {
+    "id": 130,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/Elon_musk.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 131,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/Horse.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Up",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 132,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/apple.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Right",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 133,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/ax.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Up",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 134,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/backpack.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 135,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/banana.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 136,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/barbell.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 137,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/baseball.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "C",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 138,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/bicycle.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 139,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/car.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 140,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/cat.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 141,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/chair.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Right",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 142,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/clock.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 143,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/cookie.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 144,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/dagger.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Left",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 145,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/drum.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 146,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/eggs.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 147,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/flamingo.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 148,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/football.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 149,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/gloves.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 150,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/hat.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Right",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 151,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/house.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Right",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 152,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/iphone.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 153,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/jacket.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Up",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 154,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/juice.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Left",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 155,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/keyboard.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 156,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/koala.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 157,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/lemon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Down",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 158,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/mackbook.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 159,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/melon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Left",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 160,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/milk.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Down",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 161,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/moon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Right",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 162,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/mushroom.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 163,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/owl.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Down",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 164,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/pikachu.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 165,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/radio.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 166,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/robot.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Left",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 167,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/sandwich.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Down",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 168,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/satellite.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 169,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/scarf.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 170,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/scissors.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Right",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 171,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/scooter.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 172,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/sheep.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Up",
+      "Right"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 173,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/soap.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Left",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 174,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/sugar.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 175,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/swan.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Left",
+      "Down"
+    ],
+    "answer": "C",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 176,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/table.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 177,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/tablet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Left",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 178,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/taxi.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Down",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 179,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/telephone.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Down",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 180,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/tie.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 181,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/tiger.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 182,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/toilet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Left",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 183,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/trash_can.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Down",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 184,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/trian.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 185,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/umbrella.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 186,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/vans.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Down",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 187,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/wallet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Right",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 188,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/walnut.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 189,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/web_camera.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 190,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/whale.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "C",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 191,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/wheelchair.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 192,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/whisky.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+    ],
+    "answer": "A",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 193,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/yogurt.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Down",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 194,
+    "video": "E2E_real_VP_default_bigger_nonlinear/left/zebra.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Down",
+      "Left"
+    ],
+    "answer": "D",
+    "answer_text": "Left",
+    "direction": "left"
+  },
+  {
+    "id": 195,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/Elon_musk.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 196,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/Horse.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 197,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/apple.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 198,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/ax.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Left",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 199,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/backpack.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 200,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/banana.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 201,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/barbell.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 202,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/baseball.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 203,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/bicycle.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 204,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/car.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 205,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/cat.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 206,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/chair.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Right",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 207,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/clock.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 208,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/cookie.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 209,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/dagger.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 210,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/drum.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 211,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/eggs.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 212,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/flamingo.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 213,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/football.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Left",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 214,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/gloves.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 215,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/hat.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 216,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/house.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 217,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/iphone.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 218,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/jacket.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 219,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/juice.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 220,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/keyboard.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 221,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/koala.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 222,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/lemon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Right",
+      "Left"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 223,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/mackbook.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Up",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 224,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/melon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 225,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/milk.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 226,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/moon.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Left",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 227,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/mushroom.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 228,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/owl.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 229,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/pikachu.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 230,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/radio.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 231,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/robot.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 232,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/sandwich.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 233,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/satellite.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Left",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 234,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/scarf.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 235,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/scissors.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Left",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 236,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/scooter.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 237,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/sheep.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Up",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 238,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/soap.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 239,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/sugar.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 240,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/swan.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 241,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/table.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Up",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 242,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/tablet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Left",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 243,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/taxi.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 244,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/telephone.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Left",
+      "Down",
+      "Up"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 245,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/tie.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 246,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/tiger.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Down",
+      "Up",
+      "Left"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 247,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/toilet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Left",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 248,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/trash_can.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Right",
+      "Up",
+      "Left",
+      "Down"
+    ],
+    "answer": "A",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 249,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/trian.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 250,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/umbrella.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Right",
+      "Up"
+    ],
+    "answer": "C",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 251,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/vans.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 252,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/wallet.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 253,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/walnut.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Up",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 254,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/web_camera.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 255,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/whale.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Left",
+      "Up",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 256,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/wheelchair.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Up",
+      "Right",
+      "Left",
+      "Down"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 257,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/whisky.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Right",
+      "Up",
+      "Left"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 258,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/yogurt.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Left",
+      "Right",
+      "Down",
+      "Up"
+    ],
+    "answer": "B",
+    "answer_text": "Right",
+    "direction": "right"
+  },
+  {
+    "id": 259,
+    "video": "E2E_real_VP_default_bigger_nonlinear/right/zebra.mp4",
+    "question": "From the viewer's perspective, in which direction is the object moving in this video?",
+    "candidates": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "answer": "D",
+    "answer_text": "Right",
+    "direction": "right"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod:*)",
+      "Bash(bash scripts/run_missing_siglip.sh > logs/run_missing_siglip.log 2>&1)",
+      "Bash(bash scripts/run_missing_siglip.sh)"
+    ]
+  }
+}
