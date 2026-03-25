@@ -3,7 +3,14 @@
     "allow": [
       "Bash(chmod:*)",
       "Bash(bash scripts/run_missing_siglip.sh > logs/run_missing_siglip.log 2>&1)",
-      "Bash(bash scripts/run_missing_siglip.sh)"
+      "Bash(bash scripts/run_missing_siglip.sh)",
+      "Bash(ls -la /data/jong980812/anaconda3/envs/*/lib/python*/site-packages/transformers/models/)",
+      "Bash(find /data/jong980812/anaconda3/envs -type f -name *image_processor*qwen*)",
+      "Bash(find /data/jong980812/anaconda3/envs/ -path */transformers/models/qwen2_vl/modeling_qwen2_vl.py)",
+      "Bash(find /data/jong980812/anaconda3/envs/ -path */transformers/models/qwen3_vl/modeling_qwen3_vl.py)",
+      "Bash(python3 -c \"from transformers import AutoConfig; c = AutoConfig.from_pretrained\\(''Qwen/Qwen2.5-VL-7B-Instruct'', cache_dir=''/data/datasets/LLaVA-Video-100K-Subset''\\); print\\(type\\(c\\).__name__\\); print\\(c.model_type\\)\")",
+      "Bash(/data/jong980812/anaconda3/envs/llava_next/bin/python -c \"\nimport transformers\nprint\\('transformers version:', transformers.__version__\\)\nprint\\('has Qwen2VL:', hasattr\\(transformers, 'Qwen2VLForConditionalGeneration'\\)\\)\nprint\\('has Qwen2_5VL:', hasattr\\(transformers, 'Qwen2_5_VLForConditionalGeneration'\\)\\)\nprint\\('has Qwen3VL:', hasattr\\(transformers, 'Qwen3VLForConditionalGeneration'\\)\\)\n\")",
+      "Bash(/data/jong980812/anaconda3/envs/llama_factory/bin/python -c \"\nimport transformers; print\\('transformers:', transformers.__version__\\)\nimport torch; print\\('torch:', torch.__version__, 'cuda:', torch.cuda.is_available\\(\\)\\)\nimport decord; print\\('decord OK'\\)\nimport numpy; print\\('numpy OK'\\)\nfrom PIL import Image; print\\('PIL OK'\\)\n\")"
     ]
   }
 }

@@ -1,20 +1,36 @@
 from .base import BaseVisionEncoder, VisionEncoderConfig
-from .siglip import SigLIPEncoder
-from .clip import CLIPEncoder       # ← 추가
-from .llava import LLaVAVisionEncoder
 
-ENCODER_REGISTRY = {
-    "siglip": SigLIPEncoder,
-    "clip": CLIPEncoder,             # ← 추가
-    "llava": LLaVAVisionEncoder,
-}
+
+def _get_encoder_class(encoder_name: str):
+    """Lazy import to avoid loading incompatible dependencies."""
+    if encoder_name == "siglip":
+        from .siglip import SigLIPEncoder
+        return SigLIPEncoder
+    elif encoder_name == "clip":
+        from .clip import CLIPEncoder
+        return CLIPEncoder
+    elif encoder_name == "llava":
+        from .llava import LLaVAVisionEncoder
+        return LLaVAVisionEncoder
+    elif encoder_name == "qwen2_vl":
+        from .qwen2_vl import Qwen2VLVisionEncoder
+        return Qwen2VLVisionEncoder
+    elif encoder_name == "qwen3_vl":
+        from .qwen3_vl import Qwen3VLVisionEncoder
+        return Qwen3VLVisionEncoder
+    else:
+        return None
+
+
+ENCODER_NAMES = ["siglip", "clip", "llava", "qwen2_vl", "qwen3_vl"]
+
 
 def build_vision_encoder(encoder_name: str, model_name_or_path: str, **kwargs) -> BaseVisionEncoder:
     """
     Factory function to build a vision encoder by name.
 
     Args:
-        encoder_name: Key in ENCODER_REGISTRY (e.g., "siglip", "clip")
+        encoder_name: Key in ENCODER_NAMES (e.g., "siglip", "clip", "qwen2_vl")
         model_name_or_path: HuggingFace model ID or local path
         **kwargs: Additional arguments passed to the encoder constructor
 
@@ -25,13 +41,13 @@ def build_vision_encoder(encoder_name: str, model_name_or_path: str, **kwargs) -
         encoder = build_vision_encoder("siglip", "google/siglip-so400m-patch14-384")
         features = encoder.encode_images(pixel_values)
     """
-    if encoder_name not in ENCODER_REGISTRY:
-        available = ", ".join(ENCODER_REGISTRY.keys())
+    encoder_cls = _get_encoder_class(encoder_name)
+    if encoder_cls is None:
+        available = ", ".join(ENCODER_NAMES)
         raise ValueError(
             f"Unknown encoder: '{encoder_name}'. Available: [{available}]"
         )
 
-    encoder_cls = ENCODER_REGISTRY[encoder_name]
     encoder = encoder_cls(model_name_or_path=model_name_or_path, **kwargs)
     encoder.load_model()
     return encoder

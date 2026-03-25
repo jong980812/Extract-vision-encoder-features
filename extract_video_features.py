@@ -48,6 +48,11 @@ def parse_args():
     parser.add_argument("--dtype", type=str, default="fp16", choices=["fp16", "bf16", "fp32"],
                         help="Model dtype")
 
+    # Qwen-specific
+    parser.add_argument("--image_size", type=int, default=None,
+                        help="Fixed input resolution for Qwen encoders. Must be divisible by factor "
+                             "(28 for qwen2_vl, 32 for qwen3_vl). Default: 392 for qwen2_vl, 384 for qwen3_vl")
+
     # LLaVA-specific
     parser.add_argument("--llava_model_name", type=str, default="llava_qwen",
                         help="LLaVA model name for builder (e.g., llava_qwen, llava_llama, llava_mistral). "
@@ -173,6 +178,10 @@ def main():
     if args.encoder == "llava":
         encoder_kwargs["llava_model_name"] = args.llava_model_name
         encoder_kwargs["attn_implementation"] = args.attn_implementation
+    elif args.encoder == "qwen2_vl":
+        encoder_kwargs["image_size"] = args.image_size if args.image_size else 392
+    elif args.encoder == "qwen3_vl":
+        encoder_kwargs["image_size"] = args.image_size if args.image_size else 384
 
     encoder = build_vision_encoder(
         encoder_name=args.encoder,
